@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-baseURL = "https://nervous-goldberg-b34964.netlify.app/"
+# baseURL = "https://nervous-goldberg-b34964.netlify.app/"
 languageCode = "en"
 defaultContentLanguage = "en"
 theme = "congo"
@@ -15,6 +15,9 @@ enableRobotsTXT = true
 
 summaryLength = 0
 darkToggle = true
+
+[build.environment]
+  HUGO_VERSION = "0.90"
 
 [author]
   # name = "Your name here"
