@@ -8,7 +8,7 @@ defaultContentLanguage = "en"
 theme = "congo"
 
 title = "Azure Bootcamp Switzerland"
-# copyright = "Copy, _right?_ :thinking_face:"
+copyright = "©️ 2022 Azure Bootcamp Switzerland"
 
 enableEmoji = true
 enableRobotsTXT = true
@@ -16,7 +16,7 @@ enableRobotsTXT = true
 summaryLength = 0
 darkToggle = true
 
-[author]
+#[author]
   # name = "Your name here"
   # image = "img/author.jpg"
   # bio = "A little bit about you"
