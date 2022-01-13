@@ -16,9 +16,6 @@ enableRobotsTXT = true
 summaryLength = 0
 darkToggle = true
 
-[build.environment]
-  HUGO_VERSION = "0.90.1"
-
 [author]
   # name = "Your name here"
   # image = "img/author.jpg"
