@@ -8,12 +8,12 @@ showReadingTime: false
 showEdit: false
 ---
 
-We are still finalising the sessions for Tuesday, May 10, 2022 📅. Session times are subject to change and more sessions will follow soon 🙂
+We are still finalising the sessions for Tuesday, May 13, 2022 📅. More sessions will follow soon 🙂
 
 ----
 
 <!--<script type="text/javascript" src="https://sessionize.com/api/v2/88w1xsaq/view/Sessions"></script>-->
-
+<!--
 🕜 **10:30 am @ Room 2**  
 ⭐️ **MIGRATE TO AZURE SWITZERLAND!**
 Azure Switzerland is public, but how to migrate? I have already done it. Learn from my experiences, get the best practices and see how to architect a multi geo cloud deployment. Maximize your compliance, get the best response times and even save money with the right design approach.  
@@ -53,3 +53,4 @@ Overview, configuration and pitfalls on Azure Migrate based on a real-life custo
 ⭐️ **TOP AZURE SECURITY FAILS AND HOW TO AVOID THEM**
 Karl Ots has assessed the security of over 100 solutions built on the Microsoft Azure cloud. He has found that there are 6 key security pitfalls that are common across all industry verticals and company sizes. In this session, he will share what these security pitfalls are, why do they matter and how to mitigate them.  
 🙂 KARL OTS ⚡️ Azure MVP | Chief Consulting Officer @ Zure
+-->
