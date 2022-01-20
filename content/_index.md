@@ -7,7 +7,7 @@ draft: false
 {{< lead >}} Learn from practitioners and subject-matter experts and get deep technical insights about current Azure Cloud services. {{< /lead >}}
 
 {{< button href="#button" target="_self" >}}
-Azure Bootcamp Switzerland | May 13, 2022 | Welle 7 in Bern
+Azure Bootcamp Switzerland | May 10, 2022 | Welle 7 in Bern
 {{< /button >}}
 
 ## Why Azure Bootcamp?

@@ -8,7 +8,7 @@ showReadingTime: false
 showEdit: false
 ---
 
-We are still finalising the sessions for Tuesday, May 13, 2022 📅. More sessions will follow soon 🙂
+We are still finalising the sessions for Tuesday, May 10, 2022 📅. More sessions will follow soon 🙂
 
 ----
 
