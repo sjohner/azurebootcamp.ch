@@ -12,6 +12,11 @@ We are still finalising the sessions for Tuesday, May 10, 2022 📅. More sessio
 
 ----
 
+⭐️ AZURE@REGA
+Everybody is familiar with [Rega](https://rega.ch/), the Swiss Air Rescue Service. They offer 24/7 air assistance in medical emergencies and operate 17'000 missions every year.In this session, Georg, who is responsible all the applications related to helicopter rescue operations, their mission control system and the Rega-App, shows us what their journey into the cloud looks like. He will shed some light on their decision making processes. Why cloud? And why Azure? And what is their vision? He got answers. Stephan and his company [GrabX](https://grabx.ch/) support Rega on their way to the Azure Cloud. He will provide us with some insights related to their steps into the public cloud and show us what they are currently working on.
+🙂 [STEPHAN GRABER](https://www.linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner @ GrabX Solutions
+🙂 [GEORG HAUZENBERGER](https://www.linkedin.com/in/georg-hauzenberger-767a4894/) ⚡️ Agile Transformation and Project Manager @ Rega
+
 <!--<script type="text/javascript" src="https://sessionize.com/api/v2/88w1xsaq/view/Sessions"></script>-->
 <!--
 🕜 **10:30 am @ Room 2**  
