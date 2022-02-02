@@ -38,3 +38,4 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 ## Community Partners
 {{< figure src="powercoders.png" width="400" alt="Powercoders Logo" link="https://powercoders.org" >}}
+{{< figure src="remotecoders.png" width="400" alt="Remotecoders Logo" link="https://remotecoders.org" >}}
