@@ -15,11 +15,6 @@
   pageRef = "sessions"
   weight = 5
 
-# [[main]]
-#   name = "Speakers"
-#   pageRef = "speakers"
-#   weight = 6
-
 [[main]]
   name = "Location"
   pageRef = "location"

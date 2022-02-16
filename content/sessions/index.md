@@ -7,8 +7,9 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 ---
+We are very happy to be able to offer you a good mix of proven experts and topics. Be it real life use cases from Axpo, Zurich Insurance, REGA and BKW, a kickstart with Kubernetes in Azure or a deep dive on Azure AD Applications - there is something for everyone!
 
-We are still finalising the sessions for Tuesday, May 10, 2022 📅. More sessions will follow soon 🙂
+We are still finalising the sessions and schedule. More sessions will follow soon 🙂
 
 ----
 
@@ -21,45 +22,40 @@ Everybody is familiar with [Rega](https://rega.ch/), the Swiss Air Rescue Servic
 Consider the cloud being nothing but the perfect runtime environment for running functions and services of any size. [BKW](https://www.bkw.ch/) is using Azure Functions extensively in order to integrate systems and components in the cloud and on-premise. This approach replaces the usage of large middleware systems completely. BKW benefits in many ways: cost reduction, flexibility and stability. How are we doing it?  
 🙂 [MAURICE BACHOR](https://ch.linkedin.com/in/maurice-bachor-a198011a0) ⚡️ Senior Solution Architect @ BKW
 
-<!--<script type="text/javascript" src="https://sessionize.com/api/v2/88w1xsaq/view/Sessions"></script>-->
-<!--
-🕜 **10:30 am @ Room 2**  
-⭐️ **MIGRATE TO AZURE SWITZERLAND!**
-Azure Switzerland is public, but how to migrate? I have already done it. Learn from my experiences, get the best practices and see how to architect a multi geo cloud deployment. Maximize your compliance, get the best response times and even save money with the right design approach.  
-🙂 [MATTHIAS GESSENAY](https://www.linkedin.com/in/matthias-gessenay/) ⚡️ Azure Alchemist, MVP and Cloud Architect @ Corporate Software
+⭐️ **DEMYSTIFYING AZURE AD APPLICATIONS**  
+Did you ever wonder what Application Registrations and Enterprise Applications in Azure AD are used for and how they work? And what the many settings are used for? No worries, these rocket-science-like objects will be discussed and explained in this session by Microsoft Regional Director and Azure MVP Marcel Zehner. He will reveal what you wanted to understand for a long time already...  
+🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP
 
-🕜 **10:30 am @ Room 3**  
-⭐️ **YO ! WHAT CAN AKS DO FOR ME ?**
-Why is everyone talking about Kubernetes ? My app just runs fine in azure app service. Also I hear people say say Serverless is the future, so what is the matter with all these big K8 machines ? Now should I quit everything and jump ship to AKS ? I don't know🤨 😐 What do you think ? This is exactly what I thought a year ago. And in this session, I would like to share my learnings in a quest to find those answers  
-🙂 [RAJKUMAR BALAKRISHNAN](https://www.linkedin.com/in/raj-microsoft/) ⚡️ Customer Success Engineering @ Microsoft
+⭐️ **AZURE SWITZERLAND – STATUS UPDATE**  
+In this session, Primo Amrein, the “Mr. Swiss Azure Datacenters” will give an overview about the current state of the Swiss Azure Datacenters.  
+🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) ⚡️ Cloud Lead @ Microsoft
 
-🕜 **11:30 am @ Room 2**  
-⭐️ **MY TOP 10 TIPS TO DRIVE YOUR MICROSOFT CLOUD CAREER**
-In this session I will share different tips and ideas how you can push your Microsoft cloud career forward. I will share my own experience, the steps I took and still take every single day, and give you valuable inputs about focus, learning, speaking, self-development and much more. Don't miss this!  
-🙂 MARCEL ZEHNER ⚡️ Microsoft Azure MVP @ SoftwareOne
+⭐️ **EVENT-DRIVEN APPLICATIONS IN AZURE**  
+Using Azure, it is easier than ever to build event-driven web applications, for example using Azure Functions and the Azure SignalR service. Laurent Bugnion will show you how he implemented such a solution to solve a real-world problem. This presentation will dive into a production application called [Timekeeper](http://timekeeper.cloud), that Microsoft uses to run some of its live TV shows such as the Hello World daily show.  
+🙂 [LAURENT BUGNION](https://www.linkedin.com/in/lbugnion/) ⚡️ Senior Cloud Developer Advocate @ Microsoft
 
-🕜 **11:30 am @ Room 3**  
-⭐️ **MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS**
-At Zurich Insurance's Investment Management, we moved the processing of the market risk models and the risk analytics to Azure Databricks. This session gives an overview of the solution and the lessons learned from implementation and operations.  
-🙂 VALERIO BÜRKER ⚡️ Program Manager Investment Information Solutions @ Zurich Insurance
+⭐️ **GETTING STARTED WITH KUBERNETES IN AZURE**  
+Container orchestration is like any hot topic: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. In this session, I will help you start your container orchestration journey with Kubernetes, the de-facto orchestrator.After this session, you will know how to create a Kubernetes cluster in Azure and how to deploy, scale and update containerized application there.  
+🙂 [ANNIE TALVASTO](https://www.linkedin.com/in/lbugnion/) ⚡️ Sr. Product Marketing Manager @ Camunda | CNCF Ambassador | Azure MVP
 
-🕜 **1:15 pm @ Room 2**  
-⭐️ **GETTING STARTED WITH AZURE GOVERNANCE AND MANAGEMENT**
-Operations don't go away in the cloud, and you will need to manage your cloud environment and configure guardrails to make sure you stay secure, consistent, and keep your costs under control. In this session, Thomas Maurer will show you how you can get started with Azure governance and management to make sure you can efficiently manage costs, security baselines, company policies, and much more using Azure Governance and management features. This includes features like Azure Policy and Blueprints.  
-🙂 THOMAS MAURER ⚡️ Cloud Advocate @ Microsoft
+⭐️ **I'VE BEEN PWNED - BUT I DON'T CARE**  
+Everyone talks about safeguarding identities in the cloud. But what does that actually mean? Are you confused about terms like MFA,ATP,CASB,PIM,Tokens? The session will be practical and demo heavy, showing value and usage scenarios every Azure AD admin would want to know about!  
+🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Managing Partner and Solutions Architect @ scopewyse
 
-🕜 **1:15 pm @ Room 3**  
-⭐️ **DEBUGGING AND INTERACTING WITH PRODUCTION APPLICATIONS IN AZURE**
-Once an application is up and running on Azure, developers must find ways to debug and interact with the production applications with minimal impact and maximal efficiency. Azure comes with a full set of tools and utilities that can be used to manage and monitor your applications. In this session, we will see how Streaming logs work to monitor the production application in live time. We will also talk about Deployment slots that enable easy A/B testing of new features and show how Snapshot Debugging can be used to live debug applications. We'll also see how other tools can be used to manage your websites and containers live.  
-🙂 LAURENT BUGNION ⚡️ Cloud Developer Advocate @ Microsoft
+⭐️ **HIRING TALENTS AND IMPACTING LIVES**  
+Hiring talents is getting harder day by day, by 2028 the ICT industry in Switzerland will lack the expected demand for 117’000 ICT specialists. It is also estimated that there will be over 1.5 million vacant ICT jobs in the EU by 2025, which is a major market failure that will affect the economy of the region as a whole. In addition, the COVID-19 crisis has both accelerated this digitalization trend and opened up new opportunities in the field of remote working.At the same time, the lack of economic opportunities is one of many reasons for forced displacement. Vulnerable groups (mainly local youth, women, refugees, and migrants) in the MENA Region face high levels of unemployment even if they are qualified for digital jobs. As a consequence they leave their countries to secure jobs which leads to brain drain and is a hindrance to the growth of the digital economies in those countries. [Remotecoders](https://www.remotecoders.org/) is a Swiss non-profit association. It was initiated as a spin-off of Powercoders. Through this project, Remotecoders aims to address these challenges with a complementary problem: the shortage of ICT talent across Europe.  
+🙂 [HUSSAM ALLAHAM](https://www.linkedin.com/in/hussam-allaham/) ⚡️ Co-Founder and Integration Lead @ Remotecoders
 
-🕜 **2:15 pm @ Room 2**  
-⭐️ **AZURE MIGRATE - WHEN IT MAKES SENSE AND WHEN NOT.**
-Overview, configuration and pitfalls on Azure Migrate based on a real-life customer example. Covers the migration from VMware & Hyper-V, agentless and agent based.  
-🙂 MARCO MANNONI ⚡️ Life Begins At The End Of Your Comfort Zone
+⭐️ **MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE**  
+At [Zurich Insurance](https://www.zurich.com/)'s Investment Management, we moved the processing of the market risk models and the risk analytics to Azure Databricks. This session gives an overview of the solution and the lessons learned from implementation and operations.  
+🙂 [VALERIO BÜRKER](https://www.linkedin.com/in/valerio-b%C3%BCrker-2ba855/) ⚡️ Program Manager for Investment Information Solutions @ Zurich Insurance
 
-🕜 **3:15 pm @ Room 3**  
-⭐️ **TOP AZURE SECURITY FAILS AND HOW TO AVOID THEM**
-Karl Ots has assessed the security of over 100 solutions built on the Microsoft Azure cloud. He has found that there are 6 key security pitfalls that are common across all industry verticals and company sizes. In this session, he will share what these security pitfalls are, why do they matter and how to mitigate them.  
-🙂 KARL OTS ⚡️ Azure MVP | Chief Consulting Officer @ Zure
--->
+⭐️ **MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO**  
+Fewer routine operations, less administration, fewer errors. These are some of the benefits of the digital hydropower plant that [Axpo](https://www.axpo.com/ch) is currently piloting at the Sarganserland power plants. Plant operations and maintenance are becoming more efficient thanks to digital technologies. Sensor data and status reports from several Swiss hydropower plants can be used to better determine the condition of the plants using machine learning models. Axpo also uses this data to further develop intelligent maintenance, asset management and power plant deployment.In this session, we will present the technical solution, its benefits and its architecture. Involved technologies are IoT Egde, Azure Stream Analytics, Azure SQL Server Serverless, Python, Flask and Azure Web Apps.  
+🙂 [MEINRAD WEISS](https://www.linkedin.com/in/meinrad-weiss-b6861a5/) ⚡️ Senior Cloud Solution Architect @ Microsoft  
+🙂 [MATHIAS PAWLOWSKY](https://www.linkedin.com/in/mathias-pawlowsky/) ⚡️ Head Data Science @ Axpo Group
+
+⭐️ **YOUR ZERO TRUST GAMEPLAN FOR 2022**  
+Recent incidents have shown: An on-premises attack can affect your cloud environment too. But you still want/need to manage security for the whole picture (on-premises/Cloud/Multicloud). And if you have attended any security webinars in the last two years, it would be hard not to hear about zero trust. The fancy high-level marketing slides gave us all a nice introduction into the topic and into the Zero Trust Deployment model. You may also have heard that Zero Trust is a journey and you need to start somewhere and somehow. But where and how? None of these sessions actually provide concrete answers to these questions.This session “tries” to be different. Martin will provide a gameplan for a Zero Trust implementation. It’s time to cut some (synced) cords from onprem to make your Azure environment more secure, using divided management accounts and Microsoft security services. This session is focused on Azure Active Directory/Microsoft Security/windows-based enterprise environments.  
+🙂 [MARTIN MEYER](https://www.linkedin.com/in/martin-meyer832/) ⚡️
+Senior Cloud Engineer @ scopewyse
