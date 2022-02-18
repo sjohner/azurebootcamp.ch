@@ -36,7 +36,7 @@ Using Azure, it is easier than ever to build event-driven web applications, for 
 
 ⭐️ **GETTING STARTED WITH KUBERNETES IN AZURE**  
 Container orchestration is like any hot topic: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. In this session, I will help you start your container orchestration journey with Kubernetes, the de-facto orchestrator.After this session, you will know how to create a Kubernetes cluster in Azure and how to deploy, scale and update containerized application there.  
-🙂 [ANNIE TALVASTO](https://www.linkedin.com/in/lbugnion/) ⚡️ Sr. Product Marketing Manager @ Camunda | CNCF Ambassador | Azure MVP
+🙂 [ANNIE TALVASTO](https://www.linkedin.com/in/talvasto/) ⚡️ Sr. Product Marketing Manager @ Camunda | CNCF Ambassador | Azure MVP
 
 ⭐️ **I'VE BEEN PWNED - BUT I DON'T CARE**  
 Everyone talks about safeguarding identities in the cloud. But what does that actually mean? Are you confused about terms like MFA,ATP,CASB,PIM,Tokens? The session will be practical and demo heavy, showing value and usage scenarios every Azure AD admin would want to know about!  
