@@ -11,7 +11,8 @@ draft: false
 ## Why Azure Bootcamp?
 Azure Bootcamp Switzerland is the industry’s foremost collaborative and learning event around Microsoft Azure in Switzerland. Our event will bring newcomers and experts together and aims to be an inspirational place to meet and discuss good practices, success stories, challenges and anything else around that rapidly evolving technology.
 
-{{< youtube NJFUKEbvFws >}}
+{{< youtube NJFUKEbvFws >}}  
+
 
 ## What we offer
 Azure Bootcamp Switzerland is **a one-day conference all about the Microsoft Azure Cloud Computing platform**.  Azure Bootcamp Switzerland is the ultimate spot for Azure users who want to learn first hand from subject matter experts and Microsoft Azure professionals.

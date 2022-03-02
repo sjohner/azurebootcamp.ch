@@ -16,7 +16,9 @@ CH-3008 Bern
 Switzerland  
 https://www.welle7.ch
 
-*Please use public transportation, there is only limited parking available on site*
+{{< alert >}}
+Please use [public transportation](https://www.sbb.ch/de/kaufen/pages/fahrplan/fahrplan.xhtml?nach=Bern&datum=10.05.2022&an=true&zeit=8:00), there is only limited parking available on site
+{{< /alert >}}
 
 In the words of Johann Wolfgang von Goethe when he visited Bern in 1779: “Sie ist die Schönste, die wir je gesehen haben” (“It is the most beautiful [city] we have ever seen”). The Old City, a UNESCO World Heritage Site, is the heart of Bern and invite for a leisurely stroll before or after the conference.
 
