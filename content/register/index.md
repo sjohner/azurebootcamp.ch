@@ -8,7 +8,7 @@ showReadingTime: false
 showEdit: false
 ---
 
-Global Azure Bootcamp Switzerland is a full day conference about the Microsoft Azure Cloud Computing Platform. **It is free (except for the small admin fee) and open for everybody to join**.
+Global Azure Bootcamp Switzerland is a full day conference about the Microsoft Azure Cloud Computing Platform. **It is free (except for the small admin fee of CHF 25.-) and open for everybody to join**.
 
 {{< button href="https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2022/96139" target="_self" >}}
 Get your Azure Bootcamp Ticket
