@@ -7,7 +7,7 @@ showAuthor: false
 showReadingTime: false
 showEdit: false
 ---
-We are very happy to be able to offer you a good mix of proven experts and topics. Be it real life use cases from Axpo, Zurich Insurance, REGA and BKW, a kickstart with Kubernetes in Azure or a deep dive on Azure AD Applications - there is something for everyone!
+We are very happy to be able to offer you a good mix of industry experts and topics. Be it **real life use cases from Axpo, Zurich Insurance, REGA and BKW**, a kickstart with **Kubernetes in Azure** or a **deep dive on Azure AD Applications** - there is something for everyone!
 
 We are still finalising the sessions and schedule. More sessions will follow soon 🙂
 
