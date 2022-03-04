@@ -32,7 +32,6 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 ## Check-In & Apéro Sponsors
 {{< figure src="digicomp.png" width="400" alt="digicomp Logo" link="https://digicomp.ch" >}}
-{{< figure src="isolutions.png" width="400" alt="isolutions Logo" link="https://isolutions.ch" >}}
 
 ----
 
