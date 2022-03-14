@@ -15,7 +15,7 @@ We are still finalising the sessions and schedule. More sessions and final sched
 Preliminary session list as of today:
 * [AZURE @ REGA](#rega) 🙂 [Stephan Graber](https://www.linkedin.com/in/stephan-graber-945324178/) & [Georg Hauzenberger](https://www.linkedin.com/in/georg-hauzenberger-767a4894/)
 * [RUNNING AZURE FUNCTIONS @ BKW](#bkw) 🙂 [Maurice Bachor](https://ch.linkedin.com/in/maurice-bachor-a198011a0)
-* [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) 🙂 [Marcel Zehner](https://www.linkedin.com/in/marcelzehner/)
+* [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) 🙂 [Marcel Zehner](https://www.linkedin.com/in/marcelzehner/) & [Martin Ehrnst](https://www.linkedin.com/in/martinehrnst/)
 * [AZURE SWITZERLAND – STATUS UPDATE](#azch) 🙂 [Primo Amrein](https://www.linkedin.com/in/primo-amrein-12a336/)
 * [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) 🙂 [Laurent Bugnion](https://www.linkedin.com/in/lbugnion/)
 * [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) 🙂 [Annie Talvasto](https://www.linkedin.com/in/talvasto/)
@@ -38,7 +38,8 @@ Consider the cloud being nothing but the perfect runtime environment for running
 
 ### <a name="aadapp"></a> ⭐️ DEMYSTIFYING AZURE AD APPLICATIONS
 Did you ever wonder what Application Registrations and Enterprise Applications in Azure AD are used for and how they work? And what the many settings are used for? No worries, these rocket-science-like objects will be discussed and explained in this session by Microsoft Regional Director and Azure MVP Marcel Zehner. He will reveal what you wanted to understand for a long time already...  
-🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP
+🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP  
+🙂 [MARTIN EHRNST](https://www.linkedin.com/in/martinehrnst/) ⚡️ Lead Architect @ Vipps | Azure MVP
 
 ### <a name="azch"></a> ⭐️ AZURE SWITZERLAND – STATUS UPDATE
 In this session, Primo Amrein, the “Mr. Swiss Azure Datacenters” will give an overview about the current state of the Swiss Azure Datacenters.  
