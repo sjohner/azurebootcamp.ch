@@ -8,7 +8,7 @@ showReadingTime: false
 showEdit: false
 ---
 
-We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA and BKW**, a kickstart with **Kubernetes in Azure** or a **deep dive on Azure AD Applications** - these sessions will provide you with insights and the opportunity to connect with peers and speakers.
+We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 We are still finalising the sessions and schedule. More sessions and final schedule will follow soon 🙂
 
@@ -20,10 +20,16 @@ Preliminary session list as of today:
 * [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) 🙂 [Laurent Bugnion](https://www.linkedin.com/in/lbugnion/)
 * [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) 🙂 [Annie Talvasto](https://www.linkedin.com/in/talvasto/)
 * [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) 🙂 [Michael Rüefli](https://www.linkedin.com/in/drmiru/)
+* [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) 🙂 [Kevin Lapagna](https://www.linkedin.com/in/kevin-lapagna/) & [Alexey Loubyansky](https://www.linkedin.com/in/aloubyansky/)
 * [HIRING TALENTS AND IMPACTING LIVES](#talents) 🙂 [Hussam Allaham](https://www.linkedin.com/in/hussam-allaham/)
 * [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) 🙂 [Valerio Bürker](https://www.linkedin.com/in/valerio-b%C3%BCrker-2ba855/)
 * [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) 🙂 [Meinrad Weiss](https://www.linkedin.com/in/meinrad-weiss-b6861a5/) & [Mathias Pawlowsky](https://www.linkedin.com/in/mathias-pawlowsky/)
 * [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) 🙂 [Martin Meyer](https://www.linkedin.com/in/martin-meyer832/)
+* [INTRODUCTION TO AZURE MONITORING](#azmonitor) 🙂 [Thomas Hafermalz](https://www.linkedin.com/in/thomashafermalz/)
+* [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) 🙂 [Abduxukur Abdurixit](https://www.linkedin.com/in/abdurixit/)
+* [AUTOMATING MULTI SAGE AZURE PIPELINES](#azpipelines) 🙂 [RAJKUMAR BALAKRISHNAN](https://www.linkedin.com/in/raj-microsoft/)
+* [TAKE YOUR NETWORK SECURITY TO THE NEXT LEVEL ON AZURE PAAS](#networksec) 🙂 [ERWIN STAAL](https://www.linkedin.com/in/erwinstaal/)
+
 
 ----
 
@@ -57,6 +63,11 @@ Container orchestration is like any hot topic: everyone talks about it, nobody r
 Everyone talks about safeguarding identities in the cloud. But what does that actually mean? Are you confused about terms like MFA,ATP,CASB,PIM,Tokens? The session will be practical and demo heavy, showing value and usage scenarios every Azure AD admin would want to know about!  
 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Managing Partner and Solutions Architect @ scopewyse
 
+### <a name="quarkus"></a> ⭐️ QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT
+QUARKUS is one of the hottest new open source projects, promising to extend Java's dominance of enterprise software development well into the future of container-based and serverless and enhanced applications. At a session, we will give an overview of how you can use it in Azure. ARO OpenShift Container Platform is a Hybrid platform, jointly managed by Microsoft and Red on Azure. In this presentation, we will give you an overview of what it is and how it works.   
+🙂 [KEVIN LAPAGNA](https://www.linkedin.com/in/kevin-lapagna/) ⚡️ Solution Architect @ Red Hat  
+🙂 [ALEXEY LOUBYANSKY](https://www.linkedin.com/in/aloubyansky/) ⚡️ Quarkus Developer @ Red Hat
+
 ### <a name="talents"></a> ⭐️ HIRING TALENTS AND IMPACTING LIVES
 Hiring talents is getting harder day by day, by 2028 the ICT industry in Switzerland will lack the expected demand for 117’000 ICT specialists. It is also estimated that there will be over 1.5 million vacant ICT jobs in the EU by 2025, which is a major market failure that will affect the economy of the region as a whole. In addition, the COVID-19 crisis has both accelerated this digitalization trend and opened up new opportunities in the field of remote working.At the same time, the lack of economic opportunities is one of many reasons for forced displacement. Vulnerable groups (mainly local youth, women, refugees, and migrants) in the MENA Region face high levels of unemployment even if they are qualified for digital jobs. As a consequence they leave their countries to secure jobs which leads to brain drain and is a hindrance to the growth of the digital economies in those countries. [Remotecoders](https://www.remotecoders.org/) is a Swiss non-profit association. It was initiated as a spin-off of Powercoders. Through this project, Remotecoders aims to address these challenges with a complementary problem: the shortage of ICT talent across Europe.  
 🙂 [HUSSAM ALLAHAM](https://www.linkedin.com/in/hussam-allaham/) ⚡️ Co-Founder and Integration Lead @ Remotecoders
@@ -74,3 +85,26 @@ Fewer routine operations, less administration, fewer errors. These are some of t
 Recent incidents have shown: An on-premises attack can affect your cloud environment too. But you still want/need to manage security for the whole picture (on-premises/Cloud/Multicloud). And if you have attended any security webinars in the last two years, it would be hard not to hear about zero trust. The fancy high-level marketing slides gave us all a nice introduction into the topic and into the Zero Trust Deployment model. You may also have heard that Zero Trust is a journey and you need to start somewhere and somehow. But where and how? None of these sessions actually provide concrete answers to these questions.This session “tries” to be different. Martin will provide a gameplan for a Zero Trust implementation. It’s time to cut some (synced) cords from onprem to make your Azure environment more secure, using divided management accounts and Microsoft security services. This session is focused on Azure Active Directory/Microsoft Security/windows-based enterprise environments.  
 🙂 [MARTIN MEYER](https://www.linkedin.com/in/martin-meyer832/) ⚡️
 Senior Cloud Engineer @ scopewyse
+
+### <a name="azmonitor"></a> ⭐️ INTRODUCTION TO AZURE MONITORING
+In this session I am going to provide an overview of the Azure Monitor(ing) options. We will learn from where you can get your telemetry data and how you can analyse it with queries and display options as well as how you can react on it, tangible with examples in a demo.  
+🙂 [THOMAS HAFERMALZ](https://www.linkedin.com/in/thomashafermalz/) ⚡️
+Azure Solution Architect @ Trivadis
+
+### <a name="aziot"></a> ⭐️ UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS
+Leveraging 5G connectivity and Microsoft Azure ecosystems for IoT and data analytics services is an effective means to solve business requirements. By collecting, storing, and processing data at the edge and in the cloud, companies also become more innovative and transform toward a data driven business. Customers like Rhomberg Sersa Rail Group showcase just that and more, when they embarked with us on the journey of digitizing their railway infrastructure construction sites. With that, their benefits became measurable: from increased employee safety, to reduced CO2 emissions, to financial advantages. In this session, we will take a closer look at this particular and other projects to show you how we leveraged Azure services such as IoT Edge, Stream Analytics, SQL database, Logic Apps, Service Bus and more to collect, store and process data in real-time or batch. We will also address some of our lessons learned and take a look at what the future may bring in this area.  
+🙂 [ABDUXUKUR ABDURIXIT](https://www.linkedin.com/in/abdurixit/) ⚡️
+Senior Cloud Architect @ Swisscom
+
+### <a name="azpipelines"></a> ⭐️ AUTOMATING MULTI SAGE AZURE PIPELINES
+Engineering Teams experience toil in repeating the setup of DevOps pipelines every time a new project kicks-off within their organization. Setting up these pipelines, involve creating build definitions, release definitions, branch policies, control gates, infra as code (ARM templates), just to name a few. Imagine doing this repeatedly for every app being built within an organization. This is considerable effort spent over days.
+What if this piece of development effort can be automated? How about the first push into the repository publishes an event that sets off a series of steps, constructing the total development street for your repository. This allows the developers to see their changes in minutes without looking at the nuances of setting up DevOps pipelines for creating dev, test and production infrastructure in azure.
+Next to that, the engineering team can focus on topics that creates direct value for their end users.
+In this talk we learn how to take advantage of Azure DevOps RESTful APIs to automate the provisioning and updating of multistage Pipelines for every repository created within an Azure DevOps Project.  
+🙂 [RAJKUMAR BALAKRISHNAN](https://www.linkedin.com/in/raj-microsoft/) ⚡️
+Customer Success Manager @ Microsoft
+
+### <a name="networksec"></a> ⭐️ TAKE YOUR NETWORK SECURITY TO THE NEXT LEVEL ON AZURE PAAS
+Ever used SQL-server in Azure? If you did, you probably added your IP-address to the firewall whitelist to be able to access it from your dev machine. You checked the ‘allow azure services checkbox’ which allows a web app for example to access your database. I believe in the layered security model where we add different layers on top of each other to strengthen our security. By enabling that ‘allow...’ checkbox we just peeled off one important layer of security. All a hacker now needs to get your data is a service on Azure and a leaked password.
+Over the last year there were quite a few features released in Azure that help us prevent this. In this session, I will show you how you can add additional security layers using virtual networks, Azure Private Link, Service endpoints, VPN connections, and more. For all of these services, I will tell you how to get started and what limitations you can expect. You see me build a demo in which we completely lock-down a database and API and let a front-end application access that securely.  
+🙂 [ERWIN STAAL](https://www.linkedin.com/in/erwinstaal/) ⚡️ Azure Architect @ Xpirit | Azure MVP

@@ -25,12 +25,22 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 ----
 
+## Coffee Break Sponsor
+{{< figure src="softwareone.png" width="400" alt="SoftwareOne Logo" link="https://digicomp.ch" >}}
+
+----
+
+## Networking Apéro Sponsor
+{{< figure src="isolutions.png" width="400" alt="isolutions Logo" link="https://isolutions.ch" >}}
+
+----
+
 ## Bronze Sponsors
 {{< figure src="itpoint.png" width="400" alt="itpoint Logo" link="https://itpoint.ch" >}}
 
 ----
 
-## Check-In & Apéro Sponsors
+## Check-In Sponsor
 {{< figure src="digicomp.png" width="400" alt="digicomp Logo" link="https://digicomp.ch" >}}
 
 ----
