@@ -26,7 +26,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Coffee Break Sponsor
-{{< figure src="softwareone.png" width="400" alt="SoftwareOne Logo" link="https://digicomp.ch" >}}
+{{< figure src="softwareone.png" width="400" alt="SoftwareOne Logo" link="https://softwareone.ch" >}}
 
 ----
 
