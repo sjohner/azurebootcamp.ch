@@ -29,7 +29,7 @@ Preliminary session list as of today:
 * [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) 🙂 [Abduxukur Abdurixit](https://www.linkedin.com/in/abdurixit/)
 * [AUTOMATING MULTI SAGE AZURE PIPELINES](#azpipelines) 🙂 [RAJKUMAR BALAKRISHNAN](https://www.linkedin.com/in/raj-microsoft/)
 * [TAKE YOUR NETWORK SECURITY TO THE NEXT LEVEL ON AZURE PAAS](#networksec) 🙂 [ERWIN STAAL](https://www.linkedin.com/in/erwinstaal/)
-
+* [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) 🙂 [Andrew Craig](https://www.linkedin.com/in/andrewdcraig/) & [Pascal Zanitti](https://www.linkedin.com/in/pascal-zanitti/)
 
 ----
 
@@ -108,3 +108,8 @@ Customer Success Manager @ Microsoft
 Ever used SQL-server in Azure? If you did, you probably added your IP-address to the firewall whitelist to be able to access it from your dev machine. You checked the ‘allow azure services checkbox’ which allows a web app for example to access your database. I believe in the layered security model where we add different layers on top of each other to strengthen our security. By enabling that ‘allow...’ checkbox we just peeled off one important layer of security. All a hacker now needs to get your data is a service on Azure and a leaked password.
 Over the last year there were quite a few features released in Azure that help us prevent this. In this session, I will show you how you can add additional security layers using virtual networks, Azure Private Link, Service endpoints, VPN connections, and more. For all of these services, I will tell you how to get started and what limitations you can expect. You see me build a demo in which we completely lock-down a database and API and let a front-end application access that securely.  
 🙂 [ERWIN STAAL](https://www.linkedin.com/in/erwinstaal/) ⚡️ Azure Architect @ Xpirit | Azure MVP
+
+### <a name="k8snetworking"></a> ⭐️ PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?
+Based on real-world experiences - Hear about building K8s clusters with secure azure private networking. Learn how to overcome challenges around private networking in Azure, how DNS works in such a scenario and what this means to your current and future deployments. After the session, we happily deploy some beer to the attendees at the itnetX booth 😉!  
+🙂 [ANDREW CRAIG](https://www.linkedin.com/in/andrewdcraig/) ⚡️ Architect Azure @ itnetX  
+🙂 [PASCAL ZANITTI](https://www.linkedin.com/in/pascal-zanitti/) ⚡️ Cloud Developer @ itnetX
