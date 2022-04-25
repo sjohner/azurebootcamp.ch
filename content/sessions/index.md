@@ -10,16 +10,34 @@ showEdit: false
 
 We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
+| Time | Track 1 | Track 2 | Track 3 |
+| - | - | - | - | - |
+| 0800 | ⏰ Registration |||
+| 0910 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
+| 1010 <td colspan="3">⭐ Key Note: [AZURE SWITZERLAND - STATUS UPDATE](#azch)</td>
+| 1030 | ☕ Coffee Break |||
+| 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
+| 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
+| 1240 | 🍕 Lunch Break |||
+| 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ tbd |
+| 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
+| 1520 | ☕ Coffee Break |||
+| 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI SAGE AZURE PIPELINES](#azpipelines) |
+| 1655 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td> 
+| 1725 | 🍻 Networking Apéro |||
+|||||
+
+<!--
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c4ww{background-color:#cbcefb;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top}
-.tg .tg-c3ow{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:30%}
-.tg .tg-0pky{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:10%}
-.tg .tg-61xu{background-color:#cbcefb;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top;width:10%}
+.tg .tg-c4ww{background-color:#7c3aed;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top;font-weight:bold;}
+.tg .tg-c3ow{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:30%;font-weight:bold;}
+.tg .tg-0pky{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:10%;font-weight:bold;}
+.tg .tg-61xu{background-color:#7c3aed;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top;width:10%;font-weight:bold;}
 </style>
 <table class="tg">
 <tbody>
@@ -87,7 +105,7 @@ We are very happy to be able to offer you once again an exciting lineup includin
   </tr>
 </tbody>
 </table>
-
+-->
 <!--
 Preliminary session list as of today:
 * [AZURE @ REGA](#rega) 🙂 [Stephan Graber](https://www.linkedin.com/in/stephan-graber-945324178/) & [Georg Hauzenberger](https://www.linkedin.com/in/georg-hauzenberger-767a4894/)
@@ -108,7 +126,7 @@ Preliminary session list as of today:
 * [UNDERSTANDING AZURE SENTINEL](#azsentinel) 🙂 [Matthias Gessenay](https://www.linkedin.com/in/matthias-gessenay/)
 * [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) 🙂 [Andrew Craig](https://www.linkedin.com/in/andrewdcraig/) & [Pascal Zanitti](https://www.linkedin.com/in/pascal-zanitti/)
 -->
-----
+
 
 ### <a name="rega"></a> ⭐️ AZURE @ REGA
 Everybody is familiar with [Rega](https://rega.ch/), the Swiss Air Rescue Service. They offer 24/7 air assistance in medical emergencies and operate 17'000 missions every year.In this session, Georg, who is responsible all the applications related to helicopter rescue operations, their mission control system and the Rega-App, shows us what their journey into the cloud looks like. He will shed some light on their decision making processes. Why cloud? And why Azure? And what is their vision? He got answers. Stephan and his company [GrabX](https://grabx.ch/) support Rega on their way to the Azure Cloud. He will provide us with some insights related to their steps into the public cloud and show us what they are currently working on.  
