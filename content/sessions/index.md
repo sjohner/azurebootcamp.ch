@@ -19,12 +19,12 @@ We are very happy to be able to offer you once again an exciting lineup includin
 | 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
 | 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
 | 1240 | 🍕 Lunch Break |||
-| 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ tbd |
+| 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ [CHALLENGES WITH INFRASTRUCTURE AS CODE AND AZURE APP SERVICE](#appservice) |
 | 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
 | 1520 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
 | 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
-| 1655 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
-| 1725 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
+| 1645 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
+| 1715 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 |||||
 
 <!--
@@ -170,6 +170,11 @@ Fewer routine operations, less administration, fewer errors. These are some of t
 ### <a name="azsentinel"></a> ⭐️ UNDERSTANDING AZURE SENTINEL
 Microsoft Sentinel is your birds-eye view across the enterprise. Put the cloud and large-scale intelligence from decades of Microsoft security experience to work. Make your threat detection and response smarter and faster with artificial intelligence (AI). See Sentinel in Action with Sentinel2Go and see, how easy you can get started with you cloud based security information event management system.  
 🙂 [MATTHIAS GESSENAY](https://www.linkedin.com/in/matthias-gessenay/) ⚡️ Azure Architect & Co-CEO @ Corporate Software | Azure MVP
+
+### <a name="appservice"></a> ⭐️ CHALLENGES WITH INFRASTRUCTURE AS CODE AND AZURE APP SERVICE
+Our team is building a platform for Mobiliar's hundreds of frontend apps on Azure. The large scale, enterprise setting and zero-downtime requirement led us to some unique challenges that we would like to share with you!  
+🙂 [Christof Leuenberger](https://www.linkedin.com/in/christof-leuenberger-a34bab103/) ⚡️ IT Architect and Product Owner @ Die Mobiliar  
+🙂 [Matthias Junker](hhttps://www.linkedin.com/in/matthias-junker-676ba3150/) ⚡️ Freelance Full Stack Software Architect / Engineer @ Software Catering
 
 ### <a name="aziot"></a> ⭐️ UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS
 Leveraging 5G connectivity and Microsoft Azure ecosystems for IoT and data analytics services is an effective means to solve business requirements. By collecting, storing, and processing data at the edge and in the cloud, companies also become more innovative and transform toward a data driven business. Customers like Rhomberg Sersa Rail Group showcase just that and more, when they embarked with us on the journey of digitizing their railway infrastructure construction sites. With that, their benefits became measurable: from increased employee safety, to reduced CO2 emissions, to financial advantages. In this session, we will take a closer look at this particular and other projects to show you how we leveraged Azure services such as IoT Edge, Stream Analytics, SQL database, Logic Apps, Service Bus and more to collect, store and process data in real-time or batch. We will also address some of our lessons learned and take a look at what the future may bring in this area.  
