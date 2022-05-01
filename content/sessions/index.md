@@ -13,18 +13,18 @@ We are very happy to be able to offer you once again an exciting lineup includin
 | Time | Track 1 | Track 2 | Track 3 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
-| 0910 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
+| 0900 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
 | 1010 <td colspan="3">⭐ Key Note: [AZURE SWITZERLAND - STATUS UPDATE](#azch)</td>
-| 1030 | ☕ Coffee Break |||
+| 1030 | ☕ Coffee Break sponsored by SoftwareOne |||
 | 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
 | 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
 | 1240 | 🍕 Lunch Break |||
 | 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ tbd |
 | 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
-| 1520 | ☕ Coffee Break |||
-| 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI SAGE AZURE PIPELINES](#azpipelines) |
-| 1655 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td> 
-| 1725 | 🍻 Networking Apéro |||
+| 1520 | ☕ Coffee Break sponsored by SoftwareOne |||
+| 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
+| 1655 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
+| 1725 | 🍻 Networking Apéro sponsored by isolutions |||
 |||||
 
 <!--
@@ -194,7 +194,7 @@ Based on real-world experiences - Hear about building K8s clusters with secure a
 🙂 [ANDREW CRAIG](https://www.linkedin.com/in/andrewdcraig/) ⚡️Azure  Azure @ itnetX  
 🙂 [PASCAL ZANITTI](https://www.linkedin.com/in/pascal-zanitti/) ⚡️ Cloud Developer @ itnetX
 
-### <a name="azpipelines"></a> ⭐️ AUTOMATING MULTI SAGE AZURE PIPELINES
+### <a name="azpipelines"></a> ⭐️ AUTOMATING MULTI STAGE AZURE PIPELINES
 Engineering Teams experience toil in repeating the setup of DevOps pipelines every time a new project kicks-off within their organization. Setting up these pipelines, involve creating build definitions, release definitions, branch policies, control gates, infra as code (ARM templates), just to name a few. Imagine doing this repeatedly for every app being built within an organization. This is considerable effort spent over days.
 What if this piece of development effort can be automated? How about the first push into the repository publishes an event that sets off a series of steps, constructing the total development street for your repository. This allows the developers to see their changes in minutes without looking at the nuances of setting up DevOps pipelines for creating dev, test and production infrastructure in azure.
 Next to that, the engineering team can focus on topics that creates direct value for their end users.
