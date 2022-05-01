@@ -38,6 +38,8 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ## Bronze Sponsors
 {{< figure src="itpoint.png" width="400" alt="itpoint Logo" link="https://itpoint.ch" >}}
 
+{{< figure src="scopewyse.png" width="400" alt="scopewyse Logo" link="https://scopewyse.ch" >}}
+
 ----
 
 ## Check-In Sponsor
