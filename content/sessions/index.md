@@ -15,16 +15,16 @@ We are very happy to be able to offer you once again an exciting lineup includin
 | 0800 | ⏰ Registration |||
 | 0900 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
 | 1010 <td colspan="3">⭐ Key Note: [AZURE SWITZERLAND - STATUS UPDATE](#azch)</td>
-| 1030 | ☕ Coffee Break sponsored by SoftwareOne |||
+| 1030 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
 | 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
 | 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
 | 1240 | 🍕 Lunch Break |||
 | 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ tbd |
 | 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
-| 1520 | ☕ Coffee Break sponsored by SoftwareOne |||
+| 1520 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
 | 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
 | 1655 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
-| 1725 | 🍻 Networking Apéro sponsored by isolutions |||
+| 1725 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 |||||
 
 <!--
