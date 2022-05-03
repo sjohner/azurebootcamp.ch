@@ -16,13 +16,13 @@ We are very happy to be able to offer you once again an exciting lineup includin
 | 0900 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
 | 1010 <td colspan="3">⭐ Key Note: [AZURE SWITZERLAND - STATUS UPDATE](#azch)</td>
 | 1030 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
-| 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
+| 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
 | 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
 | 1240 | 🍕 Lunch Break |||
 | 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ [CHALLENGES WITH INFRASTRUCTURE AS CODE AND AZURE APP SERVICE](#appservice) |
 | 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
 | 1520 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
-| 1550 | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
+| 1550 | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
 | 1645 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
 | 1715 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 |||||
@@ -141,10 +141,10 @@ In this session, Primo Amrein, the “Mr. Swiss Azure Datacenters” will give a
 Consider the cloud being nothing but the perfect runtime environment for running functions and services of any size. [BKW](https://www.bkw.ch/) is using Azure Functions extensively in order to integrate systems and components in the cloud and on-premise. This approach replaces the usage of large middleware systems completely. BKW benefits in many ways: cost reduction, flexibility and stability. How are we doing it?  
 🙂 [MAURICE BACHOR](https://ch.linkedin.com/in/maurice-bachor-a198011a0) ⚡️ Senior Solution Architect @ BKW
 
-### <a name="aadapp"></a> ⭐️ DEMYSTIFYING AZURE AD APPLICATIONS
-Did you ever wonder what Application Registrations and Enterprise Applications in Azure AD are used for and how they work? And what the many settings are used for? No worries, these rocket-science-like objects will be discussed and explained in this session by Microsoft Regional Director and Azure MVP Marcel Zehner. He will reveal what you wanted to understand for a long time already...  
-🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP  
-🙂 [MARTIN EHRNST](https://www.linkedin.com/in/martinehrnst/) ⚡️ Lead Architect @ Vipps | Azure MVP
+### <a name="quarkus"></a> ⭐️ QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT
+QUARKUS is one of the hottest new open source projects, promising to extend Java's dominance of enterprise software development well into the future of container-based and serverless and enhanced applications. At a session, we will give an overview of how you can use it in Azure. ARO OpenShift Container Platform is a Hybrid platform, jointly managed by Microsoft and Red on Azure. In this presentation, we will give you an overview of what it is and how it works.   
+🙂 [KEVIN LAPAGNA](https://www.linkedin.com/in/kevin-lapagna/) ⚡️ Solution Architect @ Red Hat  
+🙂 [ALEXEY LOUBYANSKY](https://www.linkedin.com/in/aloubyansky/) ⚡️ Quarkus Developer @ Red Hat
 
 ### <a name="azmonitor"></a> ⭐️ INTRODUCTION TO AZURE MONITORING
 In this session I am going to provide an overview of the Azure Monitor(ing) options. We will learn from where you can get your telemetry data and how you can analyse it with queries and display options as well as how you can react on it, tangible with examples in a demo.  
@@ -189,10 +189,10 @@ Senior Cloud Engineer @ scopewyse
 Using Azure, it is easier than ever to build event-driven web applications, for example using Azure Functions and the Azure SignalR service. Laurent Bugnion will show you how he implemented such a solution to solve a real-world problem. This presentation will dive into a production application called [Timekeeper](http://timekeeper.cloud), that Microsoft uses to run some of its live TV shows such as the Hello World daily show.  
 🙂 [LAURENT BUGNION](https://www.linkedin.com/in/lbugnion/) ⚡️ Senior Cloud Developer Advocate @ Microsoft
 
-### <a name="quarkus"></a> ⭐️ QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT
-QUARKUS is one of the hottest new open source projects, promising to extend Java's dominance of enterprise software development well into the future of container-based and serverless and enhanced applications. At a session, we will give an overview of how you can use it in Azure. ARO OpenShift Container Platform is a Hybrid platform, jointly managed by Microsoft and Red on Azure. In this presentation, we will give you an overview of what it is and how it works.   
-🙂 [KEVIN LAPAGNA](https://www.linkedin.com/in/kevin-lapagna/) ⚡️ Solution Architect @ Red Hat  
-🙂 [ALEXEY LOUBYANSKY](https://www.linkedin.com/in/aloubyansky/) ⚡️ Quarkus Developer @ Red Hat
+### <a name="aadapp"></a> ⭐️ DEMYSTIFYING AZURE AD APPLICATIONS
+Did you ever wonder what Application Registrations and Enterprise Applications in Azure AD are used for and how they work? And what the many settings are used for? No worries, these rocket-science-like objects will be discussed and explained in this session by Microsoft Regional Director and Azure MVP Marcel Zehner. He will reveal what you wanted to understand for a long time already...  
+🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP  
+🙂 [MARTIN EHRNST](https://www.linkedin.com/in/martinehrnst/) ⚡️ Lead Architect @ Vipps | Azure MVP
 
 ### <a name="k8snetworking"></a> ⭐️ PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?
 Based on real-world experiences - Hear about building K8s clusters with secure azure private networking. Learn how to overcome challenges around private networking in Azure, how DNS works in such a scenario and what this means to your current and future deployments. After the session, we happily deploy some beer to the attendees at the itnetX booth 😉!  
