@@ -10,7 +10,7 @@ showEdit: false
 
 We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
-| Time | Track 1 | Track 2 | Track 3 |
+| Time | Room 3.54 | Room 3.53 | Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
 | 0900 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
