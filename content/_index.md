@@ -6,18 +6,18 @@ draft: false
 
 {{< lead >}} Learn from practitioners and subject-matter experts and get deep technical insights about current Azure Cloud services. {{< /lead >}}
 
-{{< figure src="banner2022.png" alt="Azure Bootcamp 2022 Banner" link="https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2022/96139" >}}
+{{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
+
+{{< alert "circle-info" >}}
+#Azure Bootcamp 2022 is over. Thank you for attending we had a looooot of fun! 😃 Many thanks to all of our sponsors and speakers for the support! 🙏 Your the best! Check out the [Azure Zürich Speakerdeck](https://speakerdeck.com/azurezurich) for the slides and stay tuned for a 2023 conference edition!
+{{< /alert >}}
 
 ## Why Azure Bootcamp?
 Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland. The conference takes place once a year. Azure Bootcamp Switzerland is the ultimate spot for Azure users who want to learn first hand from subject matter experts and Microsoft Azure professionals.
 
-{{< alert "circle-info" >}}
-Join us for the next Azure Bootcamp 2022 on **Tuesday 10 May at Welle 7 in Bern**
-{{< /alert >}}
-
 Our event will bring newcomers and experts together and aims to be an inspirational place to meet and discuss good practices, success stories, challenges and anything else around that rapidly evolving technology.
 
-{{< youtube NJFUKEbvFws >}}  
+{{< youtube DC4pGCSRrg8 >}}  
 
 
 ## What we offer
