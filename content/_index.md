@@ -6,11 +6,11 @@ draft: false
 
 {{< lead >}} Learn from practitioners and subject-matter experts and get deep technical insights about current Azure Cloud services. {{< /lead >}}
 
+{{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
+
 {{< alert "circle-info" >}}
 We are very happy to announce that Azure Bootcamp Switzerland 2023 will take place on **May 11th at Welle 7 in Bern**. Save the date! More details to follow... 🤩
 {{< /alert >}}
-
-{{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 ## Why Azure Bootcamp?
 Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland. The conference takes place once a year. Azure Bootcamp Switzerland is the ultimate spot for Azure users who want to learn first hand from subject matter experts and Microsoft Azure professionals.
