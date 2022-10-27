@@ -8,7 +8,7 @@ Global Azure Bootcamp Switzerland 2018 was a full day conference about the Micro
 ## Speakers
 Many thanks to all of speakers for the support! Your the best! 🙏
 
-{{< figure src="speakers2018.jpg" alt="Overview of all speakers at Azure Bootcamp Switzerland 2018" >}}
+{{< figure src="images/P1010938.JPG" alt="Overview of all speakers at Azure Bootcamp Switzerland 2018" >}}
 
 Check out the [Azure Zürich Speakerdeck](https://speakerdeck.com/azurezurich) for the session slides of the 2018 event. Also Manuel Meyer wrote a [nice wrap up of the event](https://www.manuelmeyer.net/2018/08/this-was-global-azure-bootcamp-2018/) where you can find more details about the sessions and speakers.
 
