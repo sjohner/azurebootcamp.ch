@@ -7,7 +7,7 @@
 
 colorScheme = "congo"
 darkMode = "auto"
-darkToggle = false
+darkToggle = true
 # logo = "img/logo.png"
 # description = "My awesome website"
 # mainSections = ["section1", "section2"]
@@ -18,9 +18,9 @@ darkToggle = false
   showRecent = false
 
 [article]
-  showDate = true
+  showDate = false
   dateFormat = "2 January 2006"
-  showAuthor = true
+  showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
   showEdit = false
@@ -28,13 +28,13 @@ darkToggle = false
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true
-  showReadingTime = true
+  showReadingTime = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
-  groupByYear = true
+  groupByYear = false
 
 [taxonomy]
   showTermCount = true

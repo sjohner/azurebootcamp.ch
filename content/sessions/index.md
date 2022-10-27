@@ -1,14 +1,12 @@
 ---
 title: "Sessions 📅"
 date: 2022-01-13T20:43:22+01:00
-draft: false
-showDate: false
-showAuthor: false
-showReadingTime: false
-showEdit: false
+
 ---
 
-We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
+Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events [in the event archive](archive) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know. An official call for paper will follow soon.
+
+<!--We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 | Time | Room 3.54 | Room 3.53 | Room 3.14 |
 | - | - | - | - | - |
@@ -26,106 +24,6 @@ We are very happy to be able to offer you once again an exciting lineup includin
 | 1645 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
 | 1715 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 |||||
-
-<!--
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c4ww{background-color:#7c3aed;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top;font-weight:bold;}
-.tg .tg-c3ow{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:30%;font-weight:bold;}
-.tg .tg-0pky{background-color:#ffffff;border-color:#ffffff;text-align:center;vertical-align:top;width:10%;font-weight:bold;}
-.tg .tg-61xu{background-color:#7c3aed;border-color:#ffffff;text-align:center;color:#ffffff;vertical-align:top;width:10%;font-weight:bold;}
-</style>
-<table class="tg">
-<tbody>
-  <tr>
-    <td class="tg-61xu">0800</td>
-    <td class="tg-c4ww" colspan="3">&#9200; Registration</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">0910</td>
-    <td class="tg-c3ow" colspan="3">&#11088; <a href="#rega" rel="noopener noreferrer">AZURE @ REGA</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1010</td>
-    <td class="tg-c3ow" colspan="3">&#11088; <a href="#azch" rel="noopener noreferrer">AZURE SWITZERLAND – STATUS UPDATE</a></td>
-  </tr>
-  <tr>
-    <td class="tg-61xu">1030</td>
-    <td class="tg-c4ww" colspan="3">&#9749; Coffee Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1100</td>
-    <td class="tg-c3ow">&#11088; <a href="#bkw" rel="noopener noreferrer">RUNNING AZURE FUNCTIONS @ BKW</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#aadapp" rel="noopener noreferrer">DEMYSTIFYING AZURE AD APPLICATIONS</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#azmonitor" rel="noopener noreferrer">INTRODUCTION TO AZURE MONITORING</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1155</td>
-    <td class="tg-c3ow">&#11088; <a href="#risk" rel="noopener noreferrer">MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#pwned" rel="noopener noreferrer">I'VE BEEN PWNED - BUT I DON'T CARE</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#k8s" rel="noopener noreferrer">GETTING STARTED WITH KUBERNETES IN AZURE</a></td>
-  </tr>
-  <tr>
-    <td class="tg-61xu">1240</td>
-    <td class="tg-c4ww" colspan="3">&#127829; Lunch</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1340</td>
-    <td class="tg-c3ow">&#11088; <a href="#axpo" rel="noopener noreferrer">MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#azsentinel" rel="noopener noreferrer">UNDERSTANDING AZURE SENTINEL</a></td>
-    <td class="tg-c3ow">&#11088; </td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1435</td>
-    <td class="tg-c3ow">&#11088; <a href="#aziot" rel="noopener noreferrer">UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#zerotrust" rel="noopener noreferrer">YOUR ZERO TRUST GAMEPLAN FOR 2022</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#eventdriven" rel="noopener noreferrer">EVENT-DRIVEN APPLICATIONS IN AZURE</a></td>
-  </tr>
-  <tr>
-    <td class="tg-61xu">1520</td>
-    <td class="tg-c4ww" colspan="3">&#9749; Coffee Break</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1550</td>
-    <td class="tg-c3ow">&#11088; <a href="#quarkus" rel="noopener noreferrer">QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#k8snetworking" rel="noopener noreferrer">PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?</a></td>
-    <td class="tg-c3ow">&#11088; <a href="#azpipelines" rel="noopener noreferrer">AUTOMATING MULTI SAGE AZURE PIPELINES</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">1655</td>
-    <td class="tg-c3ow" colspan="3">&#11088; <a href="#talents" rel="noopener noreferrer">HIRING TALENTS AND IMPACTING LIVES</a></td>
-  </tr>
-  <tr>
-    <td class="tg-61xu">1725</td>
-    <td class="tg-c4ww" colspan="3">&#127867; Networking Apéro</td>
-  </tr>
-</tbody>
-</table>
--->
-<!--
-Preliminary session list as of today:
-* [AZURE @ REGA](#rega) 🙂 [Stephan Graber](https://www.linkedin.com/in/stephan-graber-945324178/) & [Georg Hauzenberger](https://www.linkedin.com/in/georg-hauzenberger-767a4894/)
-* [RUNNING AZURE FUNCTIONS @ BKW](#bkw) 🙂 [Maurice Bachor](https://ch.linkedin.com/in/maurice-bachor-a198011a0)
-* [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) 🙂 [Marcel Zehner](https://www.linkedin.com/in/marcelzehner/) & [Martin Ehrnst](https://www.linkedin.com/in/martinehrnst/)
-* [AZURE SWITZERLAND – STATUS UPDATE](#azch) 🙂 [Primo Amrein](https://www.linkedin.com/in/primo-amrein-12a336/)
-* [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) 🙂 [Laurent Bugnion](https://www.linkedin.com/in/lbugnion/)
-* [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) 🙂 [Annie Talvasto](https://www.linkedin.com/in/talvasto/)
-* [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) 🙂 [Michael Rüefli](https://www.linkedin.com/in/drmiru/)
-* [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) 🙂 [Kevin Lapagna](https://www.linkedin.com/in/kevin-lapagna/) & [Alexey Loubyansky](https://www.linkedin.com/in/aloubyansky/)
-* [HIRING TALENTS AND IMPACTING LIVES](#talents) 🙂 [Hussam Allaham](https://www.linkedin.com/in/hussam-allaham/)
-* [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) 🙂 [Valerio Bürker](https://www.linkedin.com/in/valerio-b%C3%BCrker-2ba855/)
-* [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) 🙂 [Meinrad Weiss](https://www.linkedin.com/in/meinrad-weiss-b6861a5/) & [Mathias Pawlowsky](https://www.linkedin.com/in/mathias-pawlowsky/)
-* [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) 🙂 [Martin Meyer](https://www.linkedin.com/in/martin-meyer832/)
-* [INTRODUCTION TO AZURE MONITORING](#azmonitor) 🙂 [Thomas Hafermalz](https://www.linkedin.com/in/thomashafermalz/)
-* [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) 🙂 [Abduxukur Abdurixit](https://www.linkedin.com/in/abdurixit/)
-* [AUTOMATING MULTI SAGE AZURE PIPELINES](#azpipelines) 🙂 [Rajkumar Balakrishnan](https://www.linkedin.com/in/raj-microsoft/)
-* [UNDERSTANDING AZURE SENTINEL](#azsentinel) 🙂 [Matthias Gessenay](https://www.linkedin.com/in/matthias-gessenay/)
-* [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) 🙂 [Andrew Craig](https://www.linkedin.com/in/andrewdcraig/) & [Pascal Zanitti](https://www.linkedin.com/in/pascal-zanitti/)
--->
 
 
 ### <a name="rega"></a> ⭐️ AZURE @ REGA
@@ -210,3 +108,4 @@ Customer Success Manager @ Microsoft
 ### <a name="talents"></a> ⭐️ HIRING TALENTS AND IMPACTING LIVES
 Hiring talents is getting harder day by day, by 2028 the ICT industry in Switzerland will lack the expected demand for 117’000 ICT specialists. It is also estimated that there will be over 1.5 million vacant ICT jobs in the EU by 2025, which is a major market failure that will affect the economy of the region as a whole. In addition, the COVID-19 crisis has both accelerated this digitalization trend and opened up new opportunities in the field of remote working.At the same time, the lack of economic opportunities is one of many reasons for forced displacement. Vulnerable groups (mainly local youth, women, refugees, and migrants) in the MENA Region face high levels of unemployment even if they are qualified for digital jobs. As a consequence they leave their countries to secure jobs which leads to brain drain and is a hindrance to the growth of the digital economies in those countries. [Remotecoders](https://www.remotecoders.org/) is a Swiss non-profit association. It was initiated as a spin-off of Powercoders. Through this project, Remotecoders aims to address these challenges with a complementary problem: the shortage of ICT talent across Europe.  
 🙂 [HUSSAM ALLAHAM](https://www.linkedin.com/in/hussam-allaham/) ⚡️ Co-Founder and Integration Lead @ Remotecoders
+-->

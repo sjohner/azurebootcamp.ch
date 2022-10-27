@@ -5,7 +5,7 @@
 # baseURL = "https://nervous-goldberg-b34964.netlify.app/"
 languageCode = "en"
 defaultContentLanguage = "en"
-theme = "congo"
+theme = ["congo", "hugo-shortcode-gallery"]
 
 title = "Azure Bootcamp Switzerland"
 copyright = "©️ 2022 Azure Bootcamp Switzerland"
@@ -14,7 +14,6 @@ enableEmoji = true
 enableRobotsTXT = true
 
 summaryLength = 0
-darkToggle = false
 
 #[author]
   # name = "Your name here"

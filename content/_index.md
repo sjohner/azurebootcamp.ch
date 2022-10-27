@@ -6,19 +6,18 @@ draft: false
 
 {{< lead >}} Learn from practitioners and subject-matter experts and get deep technical insights about current Azure Cloud services. {{< /lead >}}
 
-{{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
-
 {{< alert "circle-info" >}}
-#Azure Bootcamp 2022 is over. Thank you for attending we had a looooot of fun! 😃 Many thanks to all of our sponsors and speakers for the support! 🙏 Your the best! Check out the [Azure Zürich Speakerdeck](https://speakerdeck.com/azurezurich) for the slides and stay tuned for a 2023 conference edition!
+We are very happy to announce that Azure Bootcamp Switzerland 2023 will take place on **May 11th at Welle 7 in Bern**. Save the date! More details to follow... 🤩
 {{< /alert >}}
+
+{{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 ## Why Azure Bootcamp?
 Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland. The conference takes place once a year. Azure Bootcamp Switzerland is the ultimate spot for Azure users who want to learn first hand from subject matter experts and Microsoft Azure professionals.
 
-Our event will bring newcomers and experts together and aims to be an inspirational place to meet and discuss good practices, success stories, challenges and anything else around that rapidly evolving technology.
+Our event will bring newcomers and experts together and aims to be an inspirational place to meet and discuss good practices, success stories, challenges and anything else around that rapidly evolving technology. Impressions from past events can be found [in our event archive](archive) 🎥
 
-{{< youtube DC4pGCSRrg8 >}}  
-
+{{< youtube DC4pGCSRrg8 >}}
 
 ## What we offer
 Our Focus is on the [Microsoft Azure Cloud Platform](https://azure.com) and the many services, technologies and opportunities that are included. We provide an open, comfortable environment for experts and newcomers alike to meet and discuss related news, best practices, success stories, challenges, tips and anything else that might arise in this exciting and rapidly evolving technology.
