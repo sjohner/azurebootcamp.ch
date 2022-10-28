@@ -6,8 +6,9 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-darkMode = "auto"
-darkToggle = true
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
 # logo = "img/logo.png"
 # description = "My awesome website"
 # mainSections = ["section1", "section2"]
@@ -41,6 +42,12 @@ darkToggle = true
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
+
+[footer]
+  showAppearanceSwitcher = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
 
 [fathomAnalytics]
   # site = "ABC12345"
