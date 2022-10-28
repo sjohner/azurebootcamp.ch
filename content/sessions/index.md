@@ -6,6 +6,8 @@ date: 2022-01-13T20:43:22+01:00
 
 Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events [in the event archive](archive) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know. An official call for paper will follow soon.
 
+{{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
+
 <!--We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 | Time | Room 3.54 | Room 3.53 | Room 3.14 |
