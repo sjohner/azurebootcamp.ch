@@ -27,7 +27,7 @@ darkToggle = true
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   showHeadingAnchors = true
-  showPagination = true
+  showPagination = false
   showReadingTime = false
   # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
 
