@@ -8,7 +8,7 @@
 colorScheme = "congo"
 defaultAppearance = "light"
 autoSwitchAppearance = true
-enableSearch = true
+enableSearch = false
 # logo = "img/logo.png"
 # description = "My awesome website"
 # mainSections = ["section1", "section2"]
@@ -45,6 +45,7 @@ enableSearch = true
 
 [footer]
   showAppearanceSwitcher = true
+  showCopyright = false
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
