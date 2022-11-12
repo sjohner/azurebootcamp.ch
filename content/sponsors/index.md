@@ -7,12 +7,14 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 
 ## Gold Sponsor
-{{< figure src="swisscom.png" width="600" alt="Swisscom Logo" link="https://swisscom.com" >}}
+{{< figure src="swisscom.png" alt="Swisscom Logo" link="https://swisscom.com" >}}
 
 ----
 
 ## Silver Sponsors
-{{< figure src="diemobiliar.png" width="400" alt="itnetX Logo" link="https://diemobiliar.ch" >}}
+{{< figure src="diemobiliar.png" alt="Die Mobiliar Logo" link="https://diemobiliar.ch" >}}
+
+{{< figure src="aveniq.svg" alt="Aveniq Logo" link="https://aveniq.ch" default="true">}}
 
 ----
 
