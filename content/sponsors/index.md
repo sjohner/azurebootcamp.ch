@@ -16,6 +16,8 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="aveniq.svg" alt="Aveniq Logo" link="https://aveniq.ch" default="true">}}
 
+{{< figure src="scopewyse.png" alt="scopewyse Logo" link="https://scopewyse.ch" default="true">}}
+
 ----
 
 ## Community Partners
