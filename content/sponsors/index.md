@@ -21,7 +21,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Bronze Sponsors
-{{< figure src="jokerit.svg" alt="Joker IT company logo" link="https://jokerit.ch" default="true">}}
+{{< figure src="jokerit.svg" alt="Joker IT company logo" link="https://joker-it.ch" default="true">}}
 
 ----
 
