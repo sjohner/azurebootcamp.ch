@@ -7,16 +7,21 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 
 ## Gold Sponsor
-{{< figure src="swisscom.png" alt="Swisscom Logo" link="https://swisscom.com" >}}
+{{< figure src="swisscom.png" alt="Swisscom company logo" link="https://swisscom.com" default="true">}}
 
 ----
 
 ## Silver Sponsors
-{{< figure src="diemobiliar.png" alt="Die Mobiliar Logo" link="https://diemobiliar.ch" >}}
+{{< figure src="diemobiliar.png" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
-{{< figure src="aveniq.svg" alt="Aveniq Logo" link="https://aveniq.ch" default="true">}}
+{{< figure src="aveniq.svg" alt="Aveniq company logo" link="https://aveniq.ch" default="true">}}
 
-{{< figure src="scopewyse.png" alt="scopewyse Logo" link="https://scopewyse.ch" default="true">}}
+{{< figure src="scopewyse.png" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
+
+----
+
+## Bronze Sponsors
+{{< figure src="jokerit.svg" alt="Joker IT company logo" link="https://jokerit.ch" default="true">}}
 
 ----
 
