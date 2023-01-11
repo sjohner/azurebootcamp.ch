@@ -25,6 +25,8 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="spie.svg" width="485" alt="SPIE ICS AG company logo" link="https://spie.ch" default="true">}}
 
+{{< figure src="grabix.svg" width="485" alt="GrabX company logo" link="https://grabx.ch" default="true">}}
+
 ----
 
 ## Apéro Sponsor

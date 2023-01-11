@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="27.018" viewBox="0 0 160 27.018">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".142" x2=".719" y1=".198" y2=".99" gradientUnits="objectBoundingBox">
+            <stop offset=".001" stop-color="#f5554b"/>
+            <stop offset=".219" stop-color="#f65f51"/>
+            <stop offset=".644" stop-color="#f96d5b"/>
+            <stop offset="1" stop-color="#fa735f"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="3.852" x2="4.43" y1="12.735" y2="13.526" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f5554b"/>
+            <stop offset=".219" stop-color="#f65f51"/>
+            <stop offset=".644" stop-color="#f96d5b"/>
+            <stop offset="1" stop-color="#fa735f"/>
+        </linearGradient>
+        <style>
+            .cls-1{fill:#e1412d}.cls-2{fill:#0f3c5f}
+        </style>
+    </defs>
+    <g id="Gruppe_112" transform="translate(-28.346 -28.346)">
+        <path id="Pfad_139" d="M37.184 28.61l-8.838 13.311L31.717 47l3.371-5.077 8.837-13.313z" class="cls-1" transform="translate(0 -.146)"/>
+        <path id="Pfad_140" d="M373.531 28.656h-6.741l-4.269 6.43 3.371 5.077z" class="cls-2" transform="translate(-185.185 -.172)"/>
+        <path id="Pfad_141" d="M362.522 67.638l4.269 6.43h6.741l-7.639-11.507z" class="cls-2" transform="translate(-185.185 -18.961)"/>
+        <path id="Pfad_142" d="M99.59 54.815v-2.782c-1.17 1.755-3.729 3.33-7.64 3.33-6.983 0-12.942-5.118-12.942-13.49a13.034 13.034 0 0 1 13.271-13.527c6.8 0 10.566 3.985 11.846 7.97L99.3 38.035a6.922 6.922 0 0 0-7.019-4.972c-3.912 0-8.153 2.669-8.153 8.811 0 5.849 3.839 8.884 8.189 8.884 4.79 0 6.982-3.217 7.275-5.045h-8.519v-4.388h12.942v13.49z" class="cls-2" transform="translate(-28.074)"/>
+        <path id="Pfad_143" d="M161.177 45.516h-2.633V55.5h-5.082V29.576h10.128c5.045 0 8.262 3.473 8.262 7.97a7.355 7.355 0 0 1-5.52 7.348l5.557 10.6h-5.63zm1.462-4.351c2.56 0 4.058-1.462 4.058-3.583 0-2.194-1.5-3.619-4.058-3.619h-4.095v7.2z" class="cls-2" transform="translate(-69.334 -.682)"/>
+        <path id="Pfad_144" d="M223.536 49.574h-10.529L210.85 55.5h-5.338l9.944-25.921h5.85l9.871 25.921h-5.484zm-8.848-4.606h7.166l-3.583-9.8z" class="cls-2" transform="translate(-98.177 -.682)"/>
+        <path id="Pfad_145" d="M284.851 29.576c5.045 0 7.9 2.962 7.9 6.983a5.759 5.759 0 0 1-3.766 5.557 6.123 6.123 0 0 1 4.57 6.142c0 4.2-3.144 7.239-8.006 7.239h-10.021V29.576zm-.768 10.712c2.3 0 3.692-1.28 3.692-3.254s-1.28-3.217-3.729-3.217H280.5v6.471zm.511 11c2.45 0 3.912-1.28 3.912-3.363 0-2.047-1.316-3.473-3.839-3.473H280.5v6.837z" class="cls-2" transform="translate(-136.977 -.682)"/>
+        <path id="Pfad_146" fill="url(#linear-gradient)" d="M48.113 71.778l-8.837-13.311-3.371 5.077 5.467 8.235h6.741" transform="translate(-4.189 -16.691)"/>
+        <path id="Pfad_147" d="M339.364 65.468l8.836-13.311-3.37-5.077-3.371 5.077-8.838 13.312z" class="cls-1" transform="translate(-168.616 -10.381)"/>
+        <path id="Pfad_148" fill="url(#linear-gradient-2)" d="M332.623 28.611l8.837 13.311 3.371-5.077-5.467-8.235h-6.741" transform="translate(-168.616 -.146)"/>
+    </g>
+</svg>
