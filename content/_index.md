@@ -9,7 +9,7 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-🤩 We are very happy to announce that Azure Bootcamp Switzerland 2023 will take place on **May 11th at Welle 7 in Bern**. Save the date!
+🤩 We are very happy to announce that Azure Bootcamp Switzerland 2023 will take place on **May 11th at Welle 7 in Bern**. Tickets are available from February 11, 2023. Save the date!
 
 🎙 Call for speakers for is now open. [Submit your session](https://sessionize.com/azure-bootcamp-switzerland-2023/) and be part of the Azure Bootcamp Switzerland 2023! Whether it's a deep dive session on a specific service or a case study on using Azure in your business, we'd love to hear from you!
 {{< /alert >}}
