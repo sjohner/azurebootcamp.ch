@@ -40,5 +40,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Community Partners
-{{< figure src="powercoders.png" width="400" alt="Powercoders Logo" link="https://powercoders.org" >}}
-{{< figure src="remotecoders.png" width="400" alt="Remotecoders Logo" link="https://remotecoders.org" >}}
+{{< figure src="powercoders.png" alt="Powercoders Logo" link="https://powercoders.org" >}}
+{{< figure src="remotecoders.png" alt="Remotecoders Logo" link="https://remotecoders.org" >}}
+{{< figure src="azurebernug.png" width="400" alt="Azure Bern User Group Logo" link="https://www.meetup.com/de-DE/azure-cloud-bern-user-group/" default="true">}}
+{{< figure src="azurezurichug.jpeg" width="250" alt="Azure Zürich User Group Logo" link="https://www.meetup.com/de-DE/microsoft-azure-zurich-user-group/" default="true">}}
