@@ -16,7 +16,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="aveniq.svg" width="500" alt="Aveniq company logo" link="https://aveniq.ch" default="true">}}
 
-{{< figure src="axpo.svg" width="500" alt="Axpo company logo" link="https://axpo.ch" default="true">}}
+{{< figure src="axpo.svg" width="500" alt="Axpo company logo" link="https://axpo.com" default="true">}}
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
@@ -28,8 +28,6 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="jokerit.svg" width="500" alt="Joker IT company logo" link="https://joker-it.ch" default="true">}}
 
 {{< figure src="spie.svg" width="500" alt="SPIE ICS AG company logo" link="https://spie.ch" default="true">}}
-
-
 
 ----
 
