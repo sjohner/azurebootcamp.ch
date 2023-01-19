@@ -4,7 +4,11 @@ date: 2022-01-13T20:43:22+01:00
 
 ---
 
-Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events [in the event archive](archive) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know. An official call for paper will follow soon.
+Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
+
+{{< alert "circle-info" >}}
+🎙 Call for speakers for is now open. [Submit your session](https://sessionize.com/azure-bootcamp-switzerland-2023/) and be part of the Azure Bootcamp Switzerland 2023! Whether it's a deep dive session on a specific service or a case study on using Azure in your business, we'd love to hear from you!
+{{< /alert >}}
 
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
 
