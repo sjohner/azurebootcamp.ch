@@ -26,4 +26,4 @@ In the words of Johann Wolfgang von Goethe when he visited Bern in 1779: “Sie 
 
 {{< figure src="welle7.jpeg" alt="Building Welle7 at railway station Bern PostParc" attr="Genossenschaft Migros Aare, Schönbühl" attrlink="https://www.welle7.ch/" >}}
 
-{{< figure src="eventroom.jpeg" alt="Event room Welle7 for Azure Bootcamp Switzerland" attr="Genossenschaft Migros Aare, Schönbühl" attrlink="https://www.welle7.ch/" >}}
+{{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}

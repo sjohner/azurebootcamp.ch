@@ -4,114 +4,99 @@ date: 2022-01-13T20:43:22+01:00
 
 ---
 
-Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
+<!--Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
 
 {{< alert "circle-info" >}}
 🎙 Call for speakers for is now open. [Submit your session](https://sessionize.com/azure-bootcamp-switzerland-2023/) and be part of the Azure Bootcamp Switzerland 2023! Whether it's a deep dive session on a specific service or a case study on using Azure in your business, we'd love to hear from you!
 {{< /alert >}}
 
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
+-->
 
-<!--We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Zurich Insurance, REGA, Swisscom and BKW**, a kickstart with **Kubernetes or Quarkus in Azure** or **deep dives on Azure AD Applications and network security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
+We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Georg Fischer, and Liiva**, a kickstart with **Azure Quantum Compute or PowerBI in Azure** or **deep dives on Azure networking** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
-| Time | Room 3.54 | Room 3.53 | Room 3.14 |
+The schedule is still subject to change.
+
+| **Time** | **DevOps** </br> Room 3.54 | **Infrastructure** </br> Room 3.53 | **Future Tech** </br> Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
-| 0900 <td colspan="3">⭐ Key Note: [AZURE @ REGA](#rega) </td>
-| 1010 <td colspan="3">⭐ Key Note: [AZURE SWITZERLAND - STATUS UPDATE](#azch)</td>
-| 1030 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
-| 1100 | ⭐ [RUNNING AZURE FUNCTIONS @ BKW](#bkw) | ⭐ [QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT](#quarkus) | ⭐ [INTRODUCTION TO AZURE MONITORING](#azmonitor) |
-| 1155 | ⭐ [MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE](#risk) | ⭐ [I'VE BEEN PWNED - BUT I DON'T CARE](#pwned) | ⭐ [GETTING STARTED WITH KUBERNETES IN AZURE](#k8s) |
-| 1240 | 🍕 Lunch Break |||
-| 1340 | ⭐ [MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO](#axpo) | ⭐ [UNDERSTANDING AZURE SENTINEL](#azsentinel) | ⭐ [CHALLENGES WITH INFRASTRUCTURE AS CODE AND AZURE APP SERVICE](#appservice) |
-| 1435 | ⭐ [UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS](#aziot) | ⭐ [YOUR ZERO TRUST GAMEPLAN FOR 2022](#zerotrust) | ⭐ [EVENT-DRIVEN APPLICATIONS IN AZURE](#eventdriven) |
-| 1520 <td colspan="3"> ☕ Coffee Break sponsored by SoftwareOne </td>
-| 1550 | ⭐ [DEMYSTIFYING AZURE AD APPLICATIONS](#aadapp) | ⭐ [PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?](#k8snetworking) | ⭐ [AUTOMATING MULTI STAGE AZURE PIPELINES](#azpipelines) |
-| 1645 <td colspan="3">⭐ Closing Note: [HIRING TALENTS AND IMPACTING LIVES](#talents) </td>
-| 1715 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
-|||||
+| 0910 <td colspan="3">⭐ Key Note: </br> [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
+| 1010 <td colspan="3"> ☕ Coffee Break</td>
+| 1040 | ⭐ tba | ⭐ tba | ⭐ tba |
+| 1135 | ⭐ tba | ⭐ tba | ⭐ [GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#](#quantum) |
+| 1220 | 🍕 Lunch Break |||
+| 1330 | ⭐ [PUSHING AZURE (DEVOPS) @ GEORG FISCHER](#pushingazure) | ⭐ [AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS](#networkingvnext) | ⭐ [HOW CAN MICROSOFT AZURE HELP WITH SUSTAINABILITY? METHODS TO ESTIMATE YOUR CLOUD’S CARBON FOOTPRINT](#sustainability) |
+| 1425 | ⭐ [PUSH YOUR AZURE TENANT TO THE NEXT LEVEL WITH POWER BI](#powerbi) | ⭐ [AZURE PAAS, BUT AS PRIVATE AS POSSIBLE...](#azurepaas) | ⭐ [USE THE POWER OF OPENAI TO LEVERAGE YOUR BUSINESS APPLICATION](#openai) |
+| 1510 <td colspan="3"> ☕ Coffee Break</td>
+| 1540 | ⭐ [SECURING WEB APPLICATIONS USING AZURE AD](#securingapps) | ⭐ [TAILORING LANDING ZONES TO "START SMALL AND EXPAND", BY EXAMPLE](#landingzones) | ⭐ [EVENTDRIVEN SYSTEMS ON AZURE DONE RIGHT](#eventdriven) |
+| 1635 | ⭐ [FULLY AUTOMATED & CLOUD-NATIVE DATA PLATFORM](#dataplatform)  | ⭐ [BUILDING A BANK IN THE CLOUD](#buildingbank) | ⭐ [DEVELOP FOR INCLUSION USING COGNITIVE SERVICES: AN AZURE STORY](#inclusion) |
+| 1720 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
+| | | | | |
 
 
-### <a name="rega"></a> ⭐️ AZURE @ REGA
-Everybody is familiar with [Rega](https://rega.ch/), the Swiss Air Rescue Service. They offer 24/7 air assistance in medical emergencies and operate 17'000 missions every year.In this session, Georg, who is responsible all the applications related to helicopter rescue operations, their mission control system and the Rega-App, shows us what their journey into the cloud looks like. He will shed some light on their decision making processes. Why cloud? And why Azure? And what is their vision? He got answers. Stephan and his company [GrabX](https://grabx.ch/) support Rega on their way to the Azure Cloud. He will provide us with some insights related to their steps into the public cloud and show us what they are currently working on.  
-🙂 [STEPHAN GRABER](https://www.linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner @ GrabX Solutions  
-🙂 [GEORG HAUZENBERGER](https://www.linkedin.com/in/georg-hauzenberger-767a4894/) ⚡️ Agile Transformation and Project Manager @ Rega
+### <a name="decentriq"></a> ⭐️ How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq
+[Decentriq](https://www.decentriq.com/) is a Zurich based startup developing leading-edge data privacy products for sensitive industries. They have been awarded the startup of the year 2022 award by Microsoft.
+This presentation will open with an overview of Microsoft’s confidential computing strategy and Azure's Confidential Compute offering. Decentriq will then present their confidential computing-based data collaboration platform, a deeper dive into the technology as well as use-cases of their customers ranging from banks to pharmaceutical companies.
+In many cases it would be desirable to combine sensitive datasets from multiple sources to compute anonymous statistics. Examples range from healthcare research to customer analytics to anti-money laundering and marketing. However, the fact that data comes from multiple sources means that at least one party has to disclose sensitve data to another. In practice this usually means that such use-cases are blocked either for legal or lack-of-trust reasons.
+Confidential computing is a CPU-rooted privacy technology that enables the processing of data while keeping the data inaccessible to all parties - including all participants, the SaaS platform and infrastructure providers. Encryption in-use enables data to stay encrypted also in memory and prevent access by the operating system. Remote attestation enables users to remotely verify that a server indeed runs in confidential computing and even what code it is running.ir steps into the public cloud and show us what they are currently working on.   
+🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) ⚡️ Head of Product @ Decentriq  
 
-### <a name="azch"></a> ⭐️ AZURE SWITZERLAND – STATUS UPDATE
-In this session, Primo Amrein, the “Mr. Swiss Azure Datacenters” will give an overview about the current state of the Swiss Azure Datacenters.  
-🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) ⚡️ Cloud Lead @ Microsoft
+### <a name="quantum"></a> ⭐️ GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#
+Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, prompting Albert Einstein to remark “God doesn’t play dice”.
+Today, we are at the dawn of the quantum computing age, a multidisciplinary field that sits at the intersection of physics, computer science, mathematics and chemistry and may revolutionize the technological world. In this talk, we will dive into the bizarre quantum world and explore the high-level mathematical foundations of quantum computing, quantum programming circuits and some basic ideas behind it using a new quantum programming language, Q#.   
+🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) ⚡️ Cloud Architect | Microsoft Quantum MVP
 
-### <a name="bkw"></a> ⭐️ RUNNING AZURE FUNCTIONS @ BKW
-Consider the cloud being nothing but the perfect runtime environment for running functions and services of any size. [BKW](https://www.bkw.ch/) is using Azure Functions extensively in order to integrate systems and components in the cloud and on-premise. This approach replaces the usage of large middleware systems completely. BKW benefits in many ways: cost reduction, flexibility and stability. How are we doing it?  
-🙂 [MAURICE BACHOR](https://ch.linkedin.com/in/maurice-bachor-a198011a0) ⚡️ Senior Solution Architect @ BKW
+### <a name="pushingazure"></a> ⭐️ PUSHING AZURE (DEVOPS) @ GEORG FISCHER
+Tips and tricks how a small team can handle big infra and distributed system on scale.    
+🙂 [Martin Stanek](https://www.linkedin.com/in/awitec/) ⚡️ Software Architect @ Georg Fischer Machining Solutions
 
-### <a name="quarkus"></a> ⭐️ QUARKUS SERVERLESS WITH AZURE FUNCTIONS & ARO AZURE RED HAT OPENSHIFT
-QUARKUS is one of the hottest new open source projects, promising to extend Java's dominance of enterprise software development well into the future of container-based and serverless and enhanced applications. At a session, we will give an overview of how you can use it in Azure. ARO OpenShift Container Platform is a Hybrid platform, jointly managed by Microsoft and Red on Azure. In this presentation, we will give you an overview of what it is and how it works.   
-🙂 [KEVIN LAPAGNA](https://www.linkedin.com/in/kevin-lapagna/) ⚡️ Solution Architect @ Red Hat  
-🙂 [ALEXEY LOUBYANSKY](https://www.linkedin.com/in/aloubyansky/) ⚡️ Quarkus Developer @ Red Hat
+### <a name="networkingvnext"></a> ⭐️ AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS
+When you are working with Microsoft Azure Services you will come across the topic of Network Integration. But is a classical VPN the right solution? Do I always need ExpressRoute? Should I adopt VirtualWAN? And what about my APIs in the Cloud?
+This session will help you to understand the available options to build modern Azure Networks. We will figure out how a solution-design could look like and which limitations apply. Also we will have a look into services that do not have options to integrate into a classical network and how you could mitigate this. Let's figure out how to modernize networking in Azure!   
+🙂 [ERIC BERG](linkedin.com/in/ericbergde) ⚡️ Vice President Consulting Expert @ CGI | Microsoft Azure MVP 
 
-### <a name="azmonitor"></a> ⭐️ INTRODUCTION TO AZURE MONITORING
-In this session I am going to provide an overview of the Azure Monitor(ing) options. We will learn from where you can get your telemetry data and how you can analyse it with queries and display options as well as how you can react on it, tangible with examples in a demo.  
-🙂 [THOMAS HAFERMALZ](https://www.linkedin.com/in/thomashafermalz/) ⚡️ Azure Solution Architect @ Trivadis
+### <a name="sustainability"></a> ⭐️ HOW CAN MICROSOFT AZURE HELP WITH SUSTAINABILITY? METHODS TO ESTIMATE YOUR CLOUD’S CARBON FOOTPRINT
+Climate change and the looming energy crisis increasingly also have an impact on IT. Apart from moral responsibility there are serious commercial forces connected to this, including rising costs and risks of business interruption as well as influences on corporate image and government regulations. Cloud computing is debated to be both a problem as well as an answer here. Therefore, it is important to consider the sustainability of Microsoft Azure.
+Microsoft provides several tools to evaluate and drive sustainability aspects such as energy consumption and carbon footprint. This goes from a simple website to estimate the emission savings for Microsoft Cloud over the Emissions Impact Dashboard for Microsoft Azure in Power BI up to the Microsoft Sustainability Manager, an elaborated solution to record, report and reduce your environmental impact. Furthermore, there are external solutions such as the free and open source tool Cloud Carbon Footprint, which allows to estimate the energy consumption and carbon emissions of cloud usage across several hyperscalers.
+This talk starts with a summary about what is publicly known regarding the sustainability of the Microsoft Azure cloud in general. We then look at the different tools that are available to estimate important metrics such as carbon emissions and what their capabilities and use cases are. I’ll also show limits, in particular the complexity to calculate sustainability indicators for on-premises data centers in comparison to cloud. Goal is to give you an overview at hand helping you to judge how well the Microsoft Azure cloud supports you on your way to a more sustainable future.   
+🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) ⚡️ Head of Biz Dev Cloud & DC @ SPIE ICS AG
 
-### <a name="risk"></a> ⭐️ MONTE CARLO MARKET RISK PROCESSING AND ANALYTICS WITH AZURE DATABRICKS @ ZURICH INSURANCE
-At [Zurich Insurance](https://www.zurich.com/)'s Investment Management, we moved the processing of the market risk models and the risk analytics to Azure Databricks. This session gives an overview of the solution and the lessons learned from implementation and operations.  
-🙂 [VALERIO BÜRKER](https://www.linkedin.com/in/valerio-b%C3%BCrker-2ba855/) ⚡️ Program Manager for Investment Information Solutions @ Zurich Insurance
+### <a name="powerbi"></a> ⭐️ PUSH YOUR AZURE TENANT TO THE NEXT LEVEL WITH POWER BI
+You've already heard a lot about Microsoft Power BI, but you're not sure how you can use it?
+In this session I will give you an introduction of what exactly is Power BI and what you can do with it. I will demonstrate what other companies already do with it and especially how you can use it, to get the most out of your Azure tenant!  
+🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) ⚡️ Principal Consultant @ b.telligent
 
-### <a name="pwned"></a> ⭐️ I'VE BEEN PWNED - BUT I DON'T CARE
-Everyone talks about safeguarding identities in the cloud. But what does that actually mean? Are you confused about terms like MFA,ATP,CASB,PIM,Tokens? The session will be practical and demo heavy, showing value and usage scenarios every Azure AD admin would want to know about!  
-🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Managing Partner and Solutions Architect @ scopewyse
+### <a name="azurepaas"></a> ⭐️ AZURE PAAS, BUT AS PRIVATE AS POSSIBLE...
+Azure PaaS is a great option to modernize your environment, but what happens if everything needs to be secured and the services need to be as private as possible? What is possible and where are limitations? Are there best practices and when is it necessary to change the mindset?   
+🙂 [STEPHAN GRABER](linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner and Cloud Engineer @ GrabX Solutions
 
-### <a name="k8s"></a> ⭐️ GETTING STARTED WITH KUBERNETES IN AZURE
-Container orchestration is like any hot topic: everyone talks about it, nobody really knows how to do it, everyone thinks everyone else is doing it, so everyone claims they are doing it. In this session, I will help you start your container orchestration journey with Kubernetes, the de-facto orchestrator.After this session, you will know how to create a Kubernetes cluster in Azure and how to deploy, scale and update containerized application there.  
-🙂 [ANNIE TALVASTO](https://www.linkedin.com/in/talvasto/) ⚡️ Sr. Product Marketing Manager @ Camunda | CNCF Ambassador | Azure MVP
+### <a name="openai"></a> ⭐️ USE THE POWER OF OPENAI TO LEVERAGE YOUR BUSINESS APPLICATION
+In recent months, AI models have made huge strides. In this session, you'll learn how to make a business application fit for the future thanks to Azure OpenAI Services.   
+🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) ⚡️ CTO @ isolutions | Microsoft Azure MVP
 
-### <a name="axpo"></a> ⭐️ MORE EFFICIENT HYDROPOWER PLANTS WITH AZURE @ AXPO
-Fewer routine operations, less administration, fewer errors. These are some of the benefits of the digital hydropower plant that [Axpo](https://www.axpo.com/ch) is currently piloting at the Sarganserland power plants. Plant operations and maintenance are becoming more efficient thanks to digital technologies. Sensor data and status reports from several Swiss hydropower plants can be used to better determine the condition of the plants using machine learning models. Axpo also uses this data to further develop intelligent maintenance, asset management and power plant deployment.In this session, we will present the technical solution, its benefits and its architecture. Involved technologies are IoT Egde, Azure Stream Analytics, Azure SQL Server Serverless, Python, Flask and Azure Web Apps.  
-🙂 [MEINRAD WEISS](https://www.linkedin.com/in/meinrad-weiss-b6861a5/) ⚡️ Senior Cloud Solution Architect @ Microsoft  
-🙂 [MATHIAS PAWLOWSKY](https://www.linkedin.com/in/mathias-pawlowsky/) ⚡️ Head Data Science @ Axpo Group
+### <a name="landingzones"></a> ⭐️ TAILORING LANDING ZONES TO "START SMALL AND EXPAND", BY EXAMPLE
+Starting with design and implementation of the "enterprise-scale landing zone concept" from Microsoft’s Cloud Adoption Framework can be overwhelming. For smaller companies it even can be seen as an "overkill". However, through tailoring the concept to the specific needs, it can be built in an agile way while still profit from the benefits.
+By the example of the platform [Liiva.ch](https://liiva.ch), Lorenz Wolf will present the approach how Zühlke tailored the landing zone concept to the needs of the young startup and tell about the customers journey to the Azure cloud during the initial implementation phase and public go-live of Liiva.  
+🙂 [LORENZ WOLF](https://www.linkedin.com/in/lorenz-wolf/) ⚡️ Lead Software Architect @ Zühlke  
 
-### <a name="azsentinel"></a> ⭐️ UNDERSTANDING AZURE SENTINEL
-Microsoft Sentinel is your birds-eye view across the enterprise. Put the cloud and large-scale intelligence from decades of Microsoft security experience to work. Make your threat detection and response smarter and faster with artificial intelligence (AI). See Sentinel in Action with Sentinel2Go and see, how easy you can get started with you cloud based security information event management system.  
-🙂 [MATTHIAS GESSENAY](https://www.linkedin.com/in/matthias-gessenay/) ⚡️ Azure Architect & Co-CEO @ Corporate Software | Azure MVP
+### <a name="eventdriven"></a> ⭐️ EVENTDRIVEN SYSTEMS ON AZURE DONE RIGHT
+Event-driven architectures (EDA) are becoming increasingly popular as a way to build scalable, responsive, and resilient systems.In this talk, we will explore the benefits of EDA and how to implement it on Azure. It will cover key concepts of EDA, such as Event Sourcing, CQRS, Event-based communication, event-driven data processing and its matching services on Azure (e.g. Event Grid, Event Hub, Service-Bus, Functions). Additionally, we will introduce best practices for designing, implementing and testing EDA on Azure. By the end of this talk, all attendees will have an overview of possibilities with EDAs on Azure, pitfalls and best practices related. Also they will ava a starting point to apply this knowledge to their own projects.  
+🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) ⚡️ Azure Architect @ Xpirit
 
-### <a name="appservice"></a> ⭐️ CHALLENGES WITH INFRASTRUCTURE AS CODE AND AZURE APP SERVICE
-Our team is building a platform for Mobiliar's hundreds of frontend apps on Azure. The large scale, enterprise setting and zero-downtime requirement led us to some unique challenges that we would like to share with you!  
-🙂 [Christof Leuenberger](https://www.linkedin.com/in/christof-leuenberger-a34bab103/) ⚡️ IT Architect and Product Owner @ Die Mobiliar  
-🙂 [Matthias Junker](hhttps://www.linkedin.com/in/matthias-junker-676ba3150/) ⚡️ Freelance Full Stack Software Architect / Engineer @ Software Catering
+### <a name="inclusion"></a> ⭐️ DEVELOP FOR INCLUSION USING COGNITIVE SERVICES: AN AZURE STORY
+Disabilities are not limitations. Technology helps balance the scale.
+This session shows some practical examples for real world usage, and you are encouraged to use these technologies to make your projects even more amazing and welcoming to everyone.   
+🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) ⚡️ Owner & Principal Consultant @ LunarCat.PT
 
-### <a name="aziot"></a> ⭐️ UNLOCKING THE VALUE OF AZURE IOT AND DATA ANALYTICS
-Leveraging 5G connectivity and Microsoft Azure ecosystems for IoT and data analytics services is an effective means to solve business requirements. By collecting, storing, and processing data at the edge and in the cloud, companies also become more innovative and transform toward a data driven business. Customers like Rhomberg Sersa Rail Group showcase just that and more, when they embarked with us on the journey of digitizing their railway infrastructure construction sites. With that, their benefits became measurable: from increased employee safety, to reduced CO2 emissions, to financial advantages. In this session, we will take a closer look at this particular and other projects to show you how we leveraged Azure services such as IoT Edge, Stream Analytics, SQL database, Logic Apps, Service Bus and more to collect, store and process data in real-time or batch. We will also address some of our lessons learned and take a look at what the future may bring in this area.  
-🙂 [ABDUXUKUR ABDURIXIT](https://www.linkedin.com/in/abdurixit/) ⚡️ Senior Cloud Architect @ Swisscom
+### <a name="securingapps"></a> ⭐️ SECURING WEB APPLICATIONS USING AZURE AD
+This developer session shows how authentication, authorization and security requirements can be implemented using Azure AD and Azure AD B2C as an identity provider. Some of the different approaches when implementing these in SPAs like Angular or Blazor, server rendered applications like ASP.NET Core Razor/MVC will be explained as well as the different OpenID Connect/OAuth flows which should be used or can be used for these types of solutions.  
+🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) ⚡️ Consultant @ isolutions
 
-### <a name="zerotrust"></a> ⭐️ YOUR ZERO TRUST GAMEPLAN FOR 2022
-Recent incidents have shown: An on-premises attack can affect your cloud environment too. But you still want/need to manage security for the whole picture (on-premises/Cloud/Multicloud). And if you have attended any security webinars in the last two years, it would be hard not to hear about zero trust. The fancy high-level marketing slides gave us all a nice introduction into the topic and into the Zero Trust Deployment model. You may also have heard that Zero Trust is a journey and you need to start somewhere and somehow. But where and how? None of these sessions actually provide concrete answers to these questions.This session “tries” to be different. Martin will provide a gameplan for a Zero Trust implementation. It’s time to cut some (synced) cords from onprem to make your Azure environment more secure, using divided management accounts and Microsoft security services. This session is focused on Azure Active Directory/Microsoft Security/windows-based enterprise environments.  
-🙂 [MARTIN MEYER](https://www.linkedin.com/in/martin-meyer832/) ⚡️
-Senior Cloud Engineer @ scopewyse
+### <a name="buildingbank"></a> ⭐️ BUILDING A BANK IN THE CLOUD
+Considerations when deploying a green field Financial Services Landing Zone in Azure. "Best practice" and gotchas.   
+🙂 [MATTHEW KEY](https://www.linkedin.com/in/matthewselkirkkey/) ⚡️ Azure Architect @ Nordcloud
 
-### <a name="eventdriven"></a> ⭐️ EVENT-DRIVEN APPLICATIONS IN AZURE
-Using Azure, it is easier than ever to build event-driven web applications, for example using Azure Functions and the Azure SignalR service. Laurent Bugnion will show you how he implemented such a solution to solve a real-world problem. This presentation will dive into a production application called [Timekeeper](http://timekeeper.cloud), that Microsoft uses to run some of its live TV shows such as the Hello World daily show.  
-🙂 [LAURENT BUGNION](https://www.linkedin.com/in/lbugnion/) ⚡️ Senior Cloud Developer Advocate @ Microsoft
+### <a name="dataplatform"></a> ⭐️ FULLY AUTOMATED & CLOUD-NATIVE DATA PLATFORM
+For a large insurer in Switzerland, we implemented a fully automated and cloud-native data platform using Azure and Bicep. Among other things, Azure DevOps, Azure Data Lake Storage, Azure Synapse and Databricks were used. Business stakeholders also have the ability to set up a 3-tier analytics workspace based on Azure Synapse and Azure DevOps at the click of a button and start exploring the data lake and implementing use cases. The data lake is loaded in real time via Kafka/Databricks and batch-oriented via Azure Data Factory - in total over 100 different data pipelines. These pipelines feed the core Data Warehouse, implemented with Azure Synapse.   
+🙂 [TIM GIGER](https://www.linkedin.com/in/tim-giger-265412b5/) ⚡️ Senior Data & Analytics Consultant @ Swisscom
 
-### <a name="aadapp"></a> ⭐️ DEMYSTIFYING AZURE AD APPLICATIONS
-Did you ever wonder what Application Registrations and Enterprise Applications in Azure AD are used for and how they work? And what the many settings are used for? No worries, these rocket-science-like objects will be discussed and explained in this session by Microsoft Regional Director and Azure MVP Marcel Zehner. He will reveal what you wanted to understand for a long time already...  
-🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner/) ⚡️ Microsoft Cloud Champion @ SoftwareOne | Microsoft Regional Director | Azure MVP  
-🙂 [MARTIN EHRNST](https://www.linkedin.com/in/martinehrnst/) ⚡️ Lead Architect @ Vipps | Azure MVP
-
-### <a name="k8snetworking"></a> ⭐️ PRIVATE NETWORKING WITH KUBERNETES - WHY? HOW?
-Based on real-world experiences - Hear about building K8s clusters with secure azure private networking. Learn how to overcome challenges around private networking in Azure, how DNS works in such a scenario and what this means to your current and future deployments. After the session, we happily deploy some beer to the attendees at the itnetX booth 😉!  
-🙂 [ANDREW CRAIG](https://www.linkedin.com/in/andrewdcraig/) ⚡️Azure  Azure @ itnetX  
-🙂 [PASCAL ZANITTI](https://www.linkedin.com/in/pascal-zanitti/) ⚡️ Cloud Developer @ itnetX
-
-### <a name="azpipelines"></a> ⭐️ AUTOMATING MULTI STAGE AZURE PIPELINES
-Engineering Teams experience toil in repeating the setup of DevOps pipelines every time a new project kicks-off within their organization. Setting up these pipelines, involve creating build definitions, release definitions, branch policies, control gates, infra as code (ARM templates), just to name a few. Imagine doing this repeatedly for every app being built within an organization. This is considerable effort spent over days.
-What if this piece of development effort can be automated? How about the first push into the repository publishes an event that sets off a series of steps, constructing the total development street for your repository. This allows the developers to see their changes in minutes without looking at the nuances of setting up DevOps pipelines for creating dev, test and production infrastructure in azure.
-Next to that, the engineering team can focus on topics that creates direct value for their end users.
-In this talk we learn how to take advantage of Azure DevOps RESTful APIs to automate the provisioning and updating of multistage Pipelines for every repository created within an Azure DevOps Project.  
-🙂 [RAJKUMAR BALAKRISHNAN](https://www.linkedin.com/in/raj-microsoft/) ⚡️
-Customer Success Manager @ Microsoft
-
-### <a name="talents"></a> ⭐️ HIRING TALENTS AND IMPACTING LIVES
-Hiring talents is getting harder day by day, by 2028 the ICT industry in Switzerland will lack the expected demand for 117’000 ICT specialists. It is also estimated that there will be over 1.5 million vacant ICT jobs in the EU by 2025, which is a major market failure that will affect the economy of the region as a whole. In addition, the COVID-19 crisis has both accelerated this digitalization trend and opened up new opportunities in the field of remote working.At the same time, the lack of economic opportunities is one of many reasons for forced displacement. Vulnerable groups (mainly local youth, women, refugees, and migrants) in the MENA Region face high levels of unemployment even if they are qualified for digital jobs. As a consequence they leave their countries to secure jobs which leads to brain drain and is a hindrance to the growth of the digital economies in those countries. [Remotecoders](https://www.remotecoders.org/) is a Swiss non-profit association. It was initiated as a spin-off of Powercoders. Through this project, Remotecoders aims to address these challenges with a complementary problem: the shortage of ICT talent across Europe.  
-🙂 [HUSSAM ALLAHAM](https://www.linkedin.com/in/hussam-allaham/) ⚡️ Co-Founder and Integration Lead @ Remotecoders
--->
