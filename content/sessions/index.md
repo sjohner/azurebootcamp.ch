@@ -20,7 +20,7 @@ The schedule is still subject to change.
 | **Time** | **DevOps** </br> Room 3.54 | **Infrastructure** </br> Room 3.53 | **Future Tech** </br> Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
-| 0910 <td colspan="3">⭐ Key Note: </br> [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
+| 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
 | 1040 | ⭐ tba | ⭐ tba | ⭐ tba |
 | 1135 | ⭐ tba | ⭐ tba | ⭐ [GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#](#quantum) |
@@ -40,6 +40,7 @@ This presentation will open with an overview of Microsoft’s confidential compu
 In many cases it would be desirable to combine sensitive datasets from multiple sources to compute anonymous statistics. Examples range from healthcare research to customer analytics to anti-money laundering and marketing. However, the fact that data comes from multiple sources means that at least one party has to disclose sensitve data to another. In practice this usually means that such use-cases are blocked either for legal or lack-of-trust reasons.
 Confidential computing is a CPU-rooted privacy technology that enables the processing of data while keeping the data inaccessible to all parties - including all participants, the SaaS platform and infrastructure providers. Encryption in-use enables data to stay encrypted also in memory and prevent access by the operating system. Remote attestation enables users to remotely verify that a server indeed runs in confidential computing and even what code it is running.ir steps into the public cloud and show us what they are currently working on.   
 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) ⚡️ Head of Product @ Decentriq  
+🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) ⚡️ Cloud Lead @ Microsoft Switzerland 
 
 ### <a name="quantum"></a> ⭐️ GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#
 Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, prompting Albert Einstein to remark “God doesn’t play dice”.
