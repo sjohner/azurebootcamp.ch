@@ -45,11 +45,11 @@ Confidential computing is a CPU-rooted privacy technology that enables the proce
 ### <a name="quantum"></a> ⭐️ GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#
 Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, prompting Albert Einstein to remark “God doesn’t play dice”.
 Today, we are at the dawn of the quantum computing age, a multidisciplinary field that sits at the intersection of physics, computer science, mathematics and chemistry and may revolutionize the technological world. In this talk, we will dive into the bizarre quantum world and explore the high-level mathematical foundations of quantum computing, quantum programming circuits and some basic ideas behind it using a new quantum programming language, Q#.   
-🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) ⚡️ Cloud Architect | Microsoft Quantum MVP
+🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) ⚡️ Cloud Architect @ Sonova | Microsoft Quantum MVP
 
 ### <a name="pushingazure"></a> ⭐️ PUSHING AZURE (DEVOPS) @ GEORG FISCHER
 Tips and tricks how a small team can handle big infra and distributed system on scale.    
-🙂 [Martin Stanek](https://www.linkedin.com/in/awitec/) ⚡️ Software Architect @ Georg Fischer Machining Solutions
+🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) ⚡️ Software Architect @ Georg Fischer Machining Solutions
 
 ### <a name="networkingvnext"></a> ⭐️ AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS
 When you are working with Microsoft Azure Services you will come across the topic of Network Integration. But is a classical VPN the right solution? Do I always need ExpressRoute? Should I adopt VirtualWAN? And what about my APIs in the Cloud?
