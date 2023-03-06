@@ -54,7 +54,7 @@ Tips and tricks how a small team can handle big infra and distributed system on 
 ### <a name="networkingvnext"></a> ⭐️ AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS
 When you are working with Microsoft Azure Services you will come across the topic of Network Integration. But is a classical VPN the right solution? Do I always need ExpressRoute? Should I adopt VirtualWAN? And what about my APIs in the Cloud?
 This session will help you to understand the available options to build modern Azure Networks. We will figure out how a solution-design could look like and which limitations apply. Also we will have a look into services that do not have options to integrate into a classical network and how you could mitigate this. Let's figure out how to modernize networking in Azure!   
-🙂 [ERIC BERG](linkedin.com/in/ericbergde) ⚡️ Vice President Consulting Expert @ CGI | Microsoft Azure MVP 
+🙂 [ERIC BERG](https://linkedin.com/in/ericbergde) ⚡️ Vice President Consulting Expert @ CGI | Microsoft Azure MVP 
 
 ### <a name="sustainability"></a> ⭐️ HOW CAN MICROSOFT AZURE HELP WITH SUSTAINABILITY? METHODS TO ESTIMATE YOUR CLOUD’S CARBON FOOTPRINT
 Climate change and the looming energy crisis increasingly also have an impact on IT. Apart from moral responsibility there are serious commercial forces connected to this, including rising costs and risks of business interruption as well as influences on corporate image and government regulations. Cloud computing is debated to be both a problem as well as an answer here. Therefore, it is important to consider the sustainability of Microsoft Azure.
@@ -69,7 +69,7 @@ In this session I will give you an introduction of what exactly is Power BI and 
 
 ### <a name="azurepaas"></a> ⭐️ AZURE PAAS, BUT AS PRIVATE AS POSSIBLE...
 Azure PaaS is a great option to modernize your environment, but what happens if everything needs to be secured and the services need to be as private as possible? What is possible and where are limitations? Are there best practices and when is it necessary to change the mindset?   
-🙂 [STEPHAN GRABER](linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner and Cloud Engineer @ GrabX Solutions
+🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner and Cloud Engineer @ GrabX Solutions
 
 ### <a name="openai"></a> ⭐️ USE THE POWER OF OPENAI TO LEVERAGE YOUR BUSINESS APPLICATION
 In recent months, AI models have made huge strides. In this session, you'll learn how to make a business application fit for the future thanks to Azure OpenAI Services.   
