@@ -1,5 +1,5 @@
 ---
-title: "Sessions 📅"
+title: "Sessions 🗓️"
 date: 2022-01-13T20:43:22+01:00
 
 ---
@@ -13,7 +13,7 @@ date: 2022-01-13T20:43:22+01:00
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
 -->
 
-We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Axpo, Georg Fischer, and Liiva**, a kickstart with **Azure Quantum Compute or PowerBI in Azure** or **deep dives on Azure networking** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
+We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Pax insurance, Axpo, Georg Fischer, and Liiva**, a kickstart with **FinOps on Azure, Azure Quantum Compute or PowerBI** or **deep dives on Azure networking** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 The schedule is still subject to change.
 
@@ -22,14 +22,14 @@ The schedule is still subject to change.
 | 0800 | ⏰ Registration |||
 | 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ tba | ⭐ tba | ⭐ tba |
-| 1135 | ⭐ tba | ⭐ tba | ⭐ [GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#](#quantum) |
+| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) | ⭐ tba | ⭐ [Keeping your cloud costs in check](#cloudcost) |
+| 1135 | ⭐ tba | ⭐ tba | ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) |
 | 1220 | 🍕 Lunch Break |||
-| 1330 | ⭐ [PUSHING AZURE (DEVOPS) @ GEORG FISCHER](#pushingazure) | ⭐ [AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS](#networkingvnext) | ⭐ [HOW CAN MICROSOFT AZURE HELP WITH SUSTAINABILITY? METHODS TO ESTIMATE YOUR CLOUD’S CARBON FOOTPRINT](#sustainability) |
-| 1425 | ⭐ [PUSH YOUR AZURE TENANT TO THE NEXT LEVEL WITH POWER BI](#powerbi) | ⭐ [AZURE PAAS, BUT AS PRIVATE AS POSSIBLE...](#azurepaas) | ⭐ [USE THE POWER OF OPENAI TO LEVERAGE YOUR BUSINESS APPLICATION](#openai) |
+| 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) |
+| 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) |
 | 1510 <td colspan="3"> ☕ Coffee Break</td>
-| 1540 | ⭐ [SECURING WEB APPLICATIONS USING AZURE AD](#securingapps) | ⭐ [TAILORING LANDING ZONES TO "START SMALL AND EXPAND", BY EXAMPLE](#landingzones) | ⭐ [EVENTDRIVEN SYSTEMS ON AZURE DONE RIGHT](#eventdriven) |
-| 1635 | ⭐ [FULLY AUTOMATED & CLOUD-NATIVE DATA PLATFORM](#dataplatform)  | ⭐ [BUILDING A BANK IN THE CLOUD](#buildingbank) | ⭐ [DEVELOP FOR INCLUSION USING COGNITIVE SERVICES: AN AZURE STORY](#inclusion) |
+| 1540 | ⭐ [Securing web applications using Azure AD](#securingapps) | ⭐ [Tailoring landing zones to "start small and expand", by example](#landingzones) | ⭐ [Eventdriven systems on Azure done right](#eventdriven) |
+| 1635 | ⭐ [Fully automated & cloud-native data platform](#dataplatform)  | ⭐ [Building a bank in the cloud](#buildingbank) | ⭐ [Develop for inclusion using cognitive services: an Azure story](#inclusion) |
 | 1720 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
 
@@ -42,13 +42,23 @@ Confidential computing is a CPU-rooted privacy technology that enables the proce
 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) ⚡️ Head of Product @ Decentriq  
 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) ⚡️ Cloud Lead @ Microsoft Switzerland 
 
+### <a name="paxdevops"></a> ⭐️ Kubernetes @ PAX - DevOps at a Swiss Insurance
+Listen to the experience of a DevOps journey in the insurance industry with Azure Kubernetes Service and Aveniq DevOps Service. In this session, you will see how [PAX](https://www.pax.ch/) is leveraging the benefits of DevOps and Kubernetes to streamline their software development process and shift their business logic to a self-healing, auto scalable and highly available microservices platform. Experience how Azure Kubernetes Service can enable developers, shorten Time to Market and continuously deliver updated products and services to business partners and end customers without interruption.   
+🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) ⚡️ Tech Lead Container Platform & DevSecOps @ Aveniq  
+🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/) ⚡️ Software Engineer @ Pax Versicherung
+
+### <a name="cloudcost"></a> ⭐️ Keeping your cloud costs in check
+In this demo-packed session, Stefan and Roland from Swisscom FinOps Service show you how to crack the hard shell of your Azure consumption data to find the hidden gems of cost optimization. They will talk about the Elephants in the room of Cloud Economics, like reservations, right-sizing, and right-tiering, but also show you some less obvious savings potentials and optimization tricks from their daily work as Azure FinOps Consultants.   
+🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) ⚡️ Azure Cloud Architect @ Swisscom  
+🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/) ⚡️ Azure Solution Architect @ Swisscom
+
 ### <a name="quantum"></a> ⭐️ GOD REALLY PLAYS DICE - INTRODUCTION TO QUANTUM COMPUTING WITH Q#
 Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, prompting Albert Einstein to remark “God doesn’t play dice”.
 Today, we are at the dawn of the quantum computing age, a multidisciplinary field that sits at the intersection of physics, computer science, mathematics and chemistry and may revolutionize the technological world. In this talk, we will dive into the bizarre quantum world and explore the high-level mathematical foundations of quantum computing, quantum programming circuits and some basic ideas behind it using a new quantum programming language, Q#.   
 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) ⚡️ Cloud Architect @ Sonova | Microsoft Quantum MVP
 
 ### <a name="pushingazure"></a> ⭐️ PUSHING AZURE (DEVOPS) @ GEORG FISCHER
-Tips and tricks how a small team can handle big infra and distributed system on scale.    
+Tips and tricks how a small team at [Georg Fischer Machining Solutions](https://www.georgfischer.com/) can handle big infra and distributed system on scale.    
 🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) ⚡️ Software Architect @ Georg Fischer Machining Solutions
 
 ### <a name="networkingvnext"></a> ⭐️ AZURE NETWORKING VNEXT - HOW TO BUILD MODERN CONNECTIVITY FOR IAAS, PAAS AND SAAS
