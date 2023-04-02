@@ -1,16 +1,12 @@
 ---
 title: "Register 🥳"
-date: 2022-03-02T13:30:43+01:00
-draft: false
-showDate: false
-showAuthor: false
-showReadingTime: false
-showEdit: false
+date: 2023-04-01T13:30:43+01:00
+description: "Register for Azure Bootcamp Switzerland conference"
 ---
 
 Global Azure Bootcamp Switzerland is a full day conference about the Microsoft Azure Cloud Computing Platform. **It is free (except for the small admin fee of CHF 25.-) and open for everybody to join**.
 
-{{< button href="https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2022/96139" target="_self" >}}
+{{< button href="https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2023/173886" target="_self" >}}
 Get your Azure Bootcamp Ticket
 {{< /button >}}
 

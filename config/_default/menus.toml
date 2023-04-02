@@ -10,10 +10,10 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-#[[main]]
-#  name = "Register"
-#  pageRef = "register"
-#  weight = 4
+[[main]]
+  name = "Register"
+  pageRef = "register"
+  weight = 3
 
 [[main]]
   name = "Sessions"
