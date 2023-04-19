@@ -33,7 +33,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
-
+{{< figure src="nordcloud.png" width="500" alt="Nordcloud company logo" link="https://nordcloud.ch" default="true">}}
 
 ----
 
