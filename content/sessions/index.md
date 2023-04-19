@@ -22,8 +22,8 @@ The schedule is still subject to change.
 | 0800 | ⏰ Registration |||
 | 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) | ⭐ tba | ⭐ [Azure FinOps: The Quiz](#cloudcost) |
-| 1135 | ⭐ tba | ⭐ tba | ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) |
+| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) | ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) | ⭐ [Azure FinOps: The Quiz](#cloudcost) |
+| 1135 | ⭐  tba | ⭐ [The immutable laws of security](#lawsofsecurity) | ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) |
 | 1220 | 🍕 Lunch Break |||
 | 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) |
 | 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) |
@@ -47,6 +47,23 @@ Listen to the experience of a DevOps journey in the insurance industry with Azur
 🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) ⚡️ Tech Lead Container Platform & DevSecOps @ Aveniq  
 🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/) ⚡️ Software Engineer @ Pax Versicherung
 
+### <a name="lakehouse"></a> ⭐️ Building a Lakehouse Platform on Azure with Databricks
+In this talk, we will introduce Hadron, a project that involves building a new platform for die Mobiliar to run all BI, ML, Analytics, and AI workloads. The platform is built on the Lakehouse architecture from Databricks and hosted on Azure. We use multiple Databricks Workspaces and UnityCatalog from Databricks. Our project needs to adhere to the pre-defined cloud architecture for application deployment on Azure within our company. The data on the platform is organized using the DataMesh/DataProduct approach. We began the project in February 2022 and have made significant progress in building the infrastructure, allowing for large-scale data products to be deployed on the platform.
+
+Our talk will cover the following topics:
+1. Introduction: We'll discuss our goals for the new platform and why we chose the Databricks Lakehouse approach.
+2. The key components of the Lakehouse architecture: Unity Catalog, Databricks Workspaces, and how access control is managed.
+3. Overview of the cloud architecture within our company and how it informs the infrastructure of the platform.
+4. Infrastructure overview: how we organize Databricks Workspaces, Azure Data Lake Storages, and how the storage is networked with the workspaces to ensure secure access.
+5. Automation: We'll explain how we use GitLab Pipelines and Terraform, as well as Databricks APIs, to automate the deployment of resources and manage access controls.
+6. Key decisions made during the architecture design and why they were important.
+7. Challenges we encountered during the project and how we overcame them.
+8. Current status of the infrastructure: what data is available and who is currently using the platform.
+9. Next steps: where we plan to go from here.
+
+🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) ⚡️ IT Architect @ Die Mobiliar  
+🙂 [NIK WOLFGRAMM](https://www.linkedin.com/in/nikwol/) ⚡️ IT Architect @ Die Mobiliar
+
 ### <a name="cloudcost"></a> ⭐️ Azure FinOps: The Quiz
 Are you looking for ways to save money on your Azure bill? Join us for a fun and interactive quiz-based session on Azure cost optimization. As experienced Azure FinOps consultants, we've seen it all when it comes to inefficient resource usage, unexpected cost spikes, and other common Azure cost pitfalls. In this session, we'll present several real-life scenarios that we've encountered in our daily work and challenge the audience to come up with cost-saving solutions.
 
@@ -58,6 +75,13 @@ You'll learn:
 Whether you're an Azure newcomer or an experienced user, this session will give you a fresh perspective on cost optimization and help you save money on your Azure bill. Join us for an engaging and informative session, and put your Azure cost-saving skills to the test!   
 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Consultant @ Swisscom  
 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/) ⚡️ FinOps Consultant @ Swisscom
+
+### <a name="lawsofsecurity"></a> ⭐️ The immutable laws of security
+Since the original immutable laws, information security has grown from a technical discipline into a cybersecurity risk management discipline that includes cloud, IoT and OT devices. Now security is part of the fabric of our daily lives, business risk discussions, elections, and more.
+This session will cover the 10 laws of cybersecurity risks and show, how you can prevent against attackt during your daily job. A small extract of a few of this laws are:
+"Cybersecurity is a team sport", "your network isn’t as trustworthy as you think it is" and "technology doesn't solve people and process problems". We will cover 7 more.   
+🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) ⚡️ Solutions Architect @ scopewyse | Microsoft Security MVP  
+🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Solutions Architect @ scopewyse | Microsoft Azure MVP
 
 ### <a name="quantum"></a> ⭐️ God really plays dice - Introduction to quantum computing with Q#
 Quantum mechanics is one of the fundamental theories of physics, and has been tremendously successful at describing the behavior of subatomic particles. However, its counter-intuitive probabilistic nature, bizarre rules and confusing epistemology have troubled some of the greatest physicists of the 20th century, prompting Albert Einstein to remark “God doesn’t play dice”.
