@@ -13,7 +13,7 @@ date: 2022-01-13T20:43:22+01:00
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
 -->
 
-We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Pax insurance, Axpo, Georg Fischer, and Liiva**, a kickstart with **FinOps on Azure, Azure Quantum Compute or PowerBI** or **deep dives on Azure networking** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
+We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local and international community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Pax insurance, Axpo, Georg Fischer, and Die Mobiliar**, a kickstart with **FinOps on Azure, Azure Quantum Compute or PowerBI** or **deep dives on Azure networking** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 The schedule is still subject to change.
 
@@ -22,7 +22,7 @@ The schedule is still subject to change.
 | 0800 | ⏰ Registration |||
 | 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) <br /> 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) <br /> 🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) <br /> 🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/)| ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) <br /> 🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) <br /> 🙂 [NIK WOLFGRAMM](https://www.linkedin.com/in/nikwol/)| ⭐ [Azure FinOps: The Quiz](#cloudcost) <br /> 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) <br /> 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/)|
+| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) <br /> 🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) <br /> 🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/)| ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) <br /> 🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) <br /> 🙂 [MATHIAS HERZOG](https://www.linkedin.com/in/mathias-herzog-888a6788/)| ⭐ [Azure FinOps: The Quiz](#cloudcost) <br /> 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) <br /> 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/)|
 | 1135 | ⭐  [Axpo DevOps Dojo](#axpodevops) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) | ⭐ [The immutable laws of security](#lawsofsecurity) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/)| ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
 | 1220 | 🍕 Lunch Break |||
 | 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) <br /> 🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) <br /> 🙂 [ERIC BERG](https://linkedin.com/in/ericbergde) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) <br /> 🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) |
@@ -62,7 +62,7 @@ Our talk will cover the following topics:
 9. Next steps: where we plan to go from here.
 
 🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) ⚡️ IT Architect @ Die Mobiliar  
-🙂 [NIK WOLFGRAMM](https://www.linkedin.com/in/nikwol/) ⚡️ IT Architect @ Die Mobiliar
+🙂 [MATHIAS HERZOG](https://www.linkedin.com/in/mathias-herzog-888a6788/) ⚡️ Cloud Consultant @ peakscale.ch
 
 ### <a name="cloudcost"></a> ⭐️ Azure FinOps: The Quiz
 Are you looking for ways to save money on your Azure bill? Join us for a fun and interactive quiz-based session on Azure cost optimization. As experienced Azure FinOps consultants, we've seen it all when it comes to inefficient resource usage, unexpected cost spikes, and other common Azure cost pitfalls. In this session, we'll present several real-life scenarios that we've encountered in our daily work and challenge the audience to come up with cost-saving solutions.
