@@ -20,16 +20,16 @@ The schedule is still subject to change.
 | **Time** | **DevOps** </br> Room 3.54 | **Infrastructure** </br> Room 3.53 | **Future Tech** </br> Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
-| 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) </td>
+| 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) <br /> 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) | ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) | ⭐ [Azure FinOps: The Quiz](#cloudcost) |
-| 1135 | ⭐  tba | ⭐ [The immutable laws of security](#lawsofsecurity) | ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) |
+| 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) <br /> 🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) <br /> 🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/)| ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) <br /> 🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) <br /> 🙂 [NIK WOLFGRAMM](https://www.linkedin.com/in/nikwol/)| ⭐ [Azure FinOps: The Quiz](#cloudcost) <br /> 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) <br /> 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/)|
+| 1135 | ⭐  [Axpo DevOps Dojo](#axpodevops) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) | ⭐ [The immutable laws of security](#lawsofsecurity) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/)| ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
 | 1220 | 🍕 Lunch Break |||
-| 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) |
-| 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) |
+| 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) <br /> 🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) <br /> 🙂 [ERIC BERG](https://linkedin.com/in/ericbergde) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) <br /> 🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) |
+| 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) <br /> 🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) <br /> 🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) |
 | 1510 <td colspan="3"> ☕ Coffee Break</td>
-| 1540 | ⭐ [Securing web applications using Azure AD](#securingapps) | ⭐ [Tailoring landing zones to "start small and expand", by example](#landingzones) | ⭐ [Eventdriven systems on Azure done right](#eventdriven) |
-| 1635 | ⭐ [Fully automated & cloud-native data platform](#dataplatform)  | ⭐ [Building a bank in the cloud](#buildingbank) | ⭐ [Develop for inclusion using cognitive services: an Azure story](#inclusion) |
+| 1540 | ⭐ [Securing web applications using Azure AD](#securingapps) <br /> 🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) | ⭐ [Azure Virtual Network Manager: The future of network management?](#avnm) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Eventdriven systems on Azure done right](#eventdriven) <br /> 🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) |
+| 1635 | ⭐ [Fully automated & cloud-native data platform](#dataplatform) <br /> 🙂 [TIM GIGER](https://www.linkedin.com/in/tim-giger-265412b5/) | ⭐ [Building a bank in the cloud](#buildingbank) <br /> 🙂 [MATTHEW KEY](https://www.linkedin.com/in/matthewselkirkkey/) | ⭐ [Develop for inclusion using cognitive services: an Azure story](#inclusion) <br /> 🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) |
 | 1720 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
 
@@ -76,6 +76,11 @@ Whether you're an Azure newcomer or an experienced user, this session will give 
 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Consultant @ Swisscom  
 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/) ⚡️ FinOps Consultant @ Swisscom
 
+### <a name="axpodevops"></a> ⭐️ Axpo DevOps Dojo
+Axpo Solutions Journey to DevOps.   
+🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ 
+Senior IT Infrastructure Specialist @ Axpo | Microsoft Azure MVP  
+
 ### <a name="lawsofsecurity"></a> ⭐️ The immutable laws of security
 Since the original immutable laws, information security has grown from a technical discipline into a cybersecurity risk management discipline that includes cloud, IoT and OT devices. Now security is part of the fabric of our daily lives, business risk discussions, elections, and more.
 This session will cover the 10 laws of cybersecurity risks and show, how you can prevent against attackt during your daily job. A small extract of a few of this laws are:
@@ -113,17 +118,17 @@ Azure PaaS is a great option to modernize your environment, but what happens if 
 🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) ⚡️ Partner and Cloud Engineer @ GrabX Solutions
 
 ### <a name="openai"></a> ⭐️ Use the power of OpenAI to leverage your business application
-In recent months, AI models have made huge strides. In this session, you'll learn how to make a business application fit for the future thanks to Azure OpenAI Services.   
-🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) ⚡️ CTO @ isolutions | Microsoft Azure MVP
+In recent months, AI models have made huge strides. In this session, you'll learn how to make a business application fit for the future thanks to Azure OpenAI Services. We will discuss some uses on how you can empower your business application users with OpenAI.
+However, the large language models must first build the company's knowledge. With embeddings, you can "teach" them domain knowledge. You will learn how to create and consume such embeddings but also get some ideas about how to integrate them in your application. There will be a lot of demos, but we won't go into the details.   
+🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) ⚡️ CTO @ isolutions | Microsoft M365 Apps and Services MVP
 
 ### <a name="securingapps"></a> ⭐️ Securing web applications using Azure AD
 This developer session shows how authentication, authorization and security requirements can be implemented using Azure AD and Azure AD B2C as an identity provider. Some of the different approaches when implementing these in SPAs like Angular or Blazor, server rendered applications like ASP.NET Core Razor/MVC will be explained as well as the different OpenID Connect/OAuth flows which should be used or can be used for these types of solutions.  
-🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) ⚡️ Consultant @ isolutions
+🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) ⚡️ Consultant @ isolutions | Microsoft Developer Technologies MVP
 
-### <a name="landingzones"></a> ⭐️ Tailoring landing zones to "start small and expand", by example
-Starting with design and implementation of the "enterprise-scale landing zone concept" from Microsoft’s Cloud Adoption Framework can be overwhelming. For smaller companies it even can be seen as an "overkill". However, through tailoring the concept to the specific needs, it can be built in an agile way while still profit from the benefits.
-By the example of the platform [Liiva.ch](https://liiva.ch), Lorenz Wolf will present the approach how Zühlke tailored the landing zone concept to the needs of the young startup and tell about the customers journey to the Azure cloud during the initial implementation phase and public go-live of Liiva.  
-🙂 [LORENZ WOLF](https://www.linkedin.com/in/lorenz-wolf/) ⚡️ Lead Software Architect @ Zühlke  
+### <a name="avnm"></a> ⭐️ Azure Virtual Network Manager: The future of network management?
+Having control over you hybrid network is key because many services require rock-solid and secure connectivity. There are multiple options available today to deploy, maintain and extend your network environment. But which one is the best fit for you? The latest service that Microsoft released recently to address this is 'Azure Virtual Network Manager' (AVNM). In this session, Marcel introduces you to this new service and gives you a behind-the-scenes view so that you are weaponized to use it out in the wild.  
+🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Regional Director & Azure MVP 
 
 ### <a name="eventdriven"></a> ⭐️ Eventdriven systems on Azure done right
 Event-driven architectures (EDA) are becoming increasingly popular as a way to build scalable, responsive, and resilient systems.In this talk, we will explore the benefits of EDA and how to implement it on Azure. It will cover key concepts of EDA, such as Event Sourcing, CQRS, Event-based communication, event-driven data processing and its matching services on Azure (e.g. Event Grid, Event Hub, Service-Bus, Functions). Additionally, we will introduce best practices for designing, implementing and testing EDA on Azure. By the end of this talk, all attendees will have an overview of possibilities with EDAs on Azure, pitfalls and best practices related. Also they will ava a starting point to apply this knowledge to their own projects.  
