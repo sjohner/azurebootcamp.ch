@@ -9,7 +9,8 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-🤩 We are very happy to announce that Azure Bootcamp Switzerland 2023 will take place on **May 11th at Welle 7 in Bern**. Tickets are now ON SALE! Seats are limited, so [get yours today](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2023/173886)!
+🤩 Azure Bootcamp Switzerland 2023 is SOLD OUT! Thanks a lot to our sponsors which make this event possible and to all of you which are joining us for a full day of Azure knowledge!
+We are very much looking forward to seeing you next week!
 {{< /alert >}}
 
 ## Why Azure Bootcamp?

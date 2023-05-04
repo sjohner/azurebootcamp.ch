@@ -20,10 +20,10 @@ The schedule is still subject to change.
 | **Time** | **DevOps** </br> Room 3.54 | **Infrastructure** </br> Room 3.53 | **Future Tech** </br> Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
-| 0910 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) <br /> 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
+| 0900 <td colspan="3">⭐ [How we Build Data Clean Rooms on Azure Confidential Computing at Decentriq](#decentriq) <br /> 🙂 [DAVID STURZENEGGER](https://www.linkedin.com/in/david-sturzenegger/) <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
 | 1040 | ⭐ [Kubernetes @ PAX - DevOps at a Swiss Insurance](#paxdevops) <br /> 🙂 [SASCHA SPREITZER](https://www.linkedin.com/in/sspreitzer/) <br /> 🙂 [ESRA DOERKSEN](https://www.linkedin.com/in/esra-doerksen-560a9b177/)| ⭐ [Building a Lakehouse Platform on Azure with Databricks](#lakehouse) <br /> 🙂 [HANSJÖRG WINGEIER](https://www.linkedin.com/in/hansjoerg-wingeier) <br /> 🙂 [MATHIAS HERZOG](https://www.linkedin.com/in/mathias-herzog-888a6788/)| ⭐ [Azure FinOps: The Quiz](#cloudcost) <br /> 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) <br /> 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/)|
-| 1135 | ⭐  [Axpo DevOps Dojo](#axpodevops) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) | ⭐ [The immutable laws of security](#lawsofsecurity) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/)| ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
+| 1135 | ⭐  [Advanced Analytics with Azure DevOps Dojo](#axpodevops) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) <br /> 🙂 [ADRIAN SENN](https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html)| ⭐ [The immutable laws of security](#lawsofsecurity) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/)| ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
 | 1220 | 🍕 Lunch Break |||
 | 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) <br /> 🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) <br /> 🙂 [ERIC BERG](https://linkedin.com/in/ericbergde) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) <br /> 🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) |
 | 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) <br /> 🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) <br /> 🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) |
@@ -77,9 +77,11 @@ Whether you're an Azure newcomer or an experienced user, this session will give 
 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/) ⚡️ FinOps Consultant @ Swisscom
 
 ### <a name="axpodevops"></a> ⭐️ Axpo DevOps Dojo
-Axpo Solutions Journey to DevOps.   
+In this session, we would like to share with you, our insights of running Data Science and Machine Learning use cases on Azure Analytics Platform within the business area of Trading & Sales at Axpo. As those use cases are running 24/7, we are striving to write robust and production-ready code, allowing us to react fast and meaningful, based on the most recent market changes.
+Hence, we are relying heavily on Azure DevOps CI/CD for managing our codebase and deployment pipelines. Together with Cloud Platform Team, we have built a comprehensive set of automated DevOps processes, helping us to reduce the time to market of new ideas and scaling DevOps best practices with the entire organisation.   
 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ 
-Senior IT Infrastructure Specialist @ Axpo | Microsoft Azure MVP  
+Senior IT Infrastructure Specialist @ Axpo | Microsoft Developer Technologies MVP  
+🙂 [ADRIAN SENN](https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html) ⚡️ Senior Machine Learning Engineer @ Axpo
 
 ### <a name="lawsofsecurity"></a> ⭐️ The immutable laws of security
 Since the original immutable laws, information security has grown from a technical discipline into a cybersecurity risk management discipline that includes cloud, IoT and OT devices. Now security is part of the fabric of our daily lives, business risk discussions, elections, and more.
