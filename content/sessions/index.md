@@ -76,7 +76,7 @@ Whether you're an Azure newcomer or an experienced user, this session will give 
 🙂 [ROLAND KRUMMENACHER](https://linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Consultant @ Swisscom  
 🙂 [STEFAN DENK](https://www.linkedin.com/in/stefandenk/) ⚡️ FinOps Consultant @ Swisscom
 
-### <a name="axpodevops"></a> ⭐️ Axpo DevOps Dojo
+### <a name="axpodevops"></a> ⭐️ Advanced Analytics with Azure DevOps Dojo
 In this session, we would like to share with you, our insights of running Data Science and Machine Learning use cases on Azure Analytics Platform within the business area of Trading & Sales at Axpo. As those use cases are running 24/7, we are striving to write robust and production-ready code, allowing us to react fast and meaningful, based on the most recent market changes.
 Hence, we are relying heavily on Azure DevOps CI/CD for managing our codebase and deployment pipelines. Together with Cloud Platform Team, we have built a comprehensive set of automated DevOps processes, helping us to reduce the time to market of new ideas and scaling DevOps best practices with the entire organisation.   
 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ 
