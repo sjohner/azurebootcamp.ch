@@ -26,10 +26,10 @@ The schedule is still subject to change.
 | 1135 | ⭐  [Advanced Analytics with Azure DevOps Dojo](#axpodevops) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) <br /> 🙂 [ADRIAN SENN](https://www.alpinsolar.ch/content/axpo19/ch/en/about-us/lightboxes/adrian-senn.html)| ⭐ [The immutable laws of security](#lawsofsecurity) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/)| ⭐ [God really plays dice - Introduction to quantum computing with Q#](#quantum) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
 | 1220 | 🍕 Lunch Break |||
 | 1330 | ⭐ [Pushing Azure (DevOps) @ Georg Fischer](#pushingazure) <br /> 🙂 [MARTIN STANEK](https://www.linkedin.com/in/awitec/) | ⭐ [Azure Networking vNext - How to build modern connectivity for IaaS, PaaS and SaaS](#networkingvnext) <br /> 🙂 [ERIC BERG](https://linkedin.com/in/ericbergde) | ⭐ [How can Microsoft Azure help with sustainability? Methods to estimate your cloud’s carbon footprint](#sustainability) <br /> 🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) |
-| 1425 | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) <br /> 🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) <br /> 🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) |
+| 1425 | ⭐ [Eventdriven systems on Azure done right](#eventdriven) <br /> 🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) | ⭐ [Azure PaaS, but as private as possible...](#azurepaas) <br /> 🙂 [STEPHAN GRABER](https://linkedin.com/in/stephan-graber-945324178/) | ⭐ [Use the power of OpenAI to leverage your business application](#openai) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) |
 | 1510 <td colspan="3"> ☕ Coffee Break</td>
-| 1540 | ⭐ [Securing web applications using Azure AD](#securingapps) <br /> 🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) | ⭐ [Azure Virtual Network Manager: The future of network management?](#avnm) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Eventdriven systems on Azure done right](#eventdriven) <br /> 🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) |
-| 1635 | ⭐ [Fully automated & cloud-native data platform](#dataplatform) <br /> 🙂 [TIM GIGER](https://www.linkedin.com/in/tim-giger-265412b5/) | ⭐ [Building a bank in the cloud](#buildingbank) <br /> 🙂 [MATTHEW KEY](https://www.linkedin.com/in/matthewselkirkkey/) | ⭐ [Develop for inclusion using cognitive services: an Azure story](#inclusion) <br /> 🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) |
+| 1540 | ⭐ [Securing web applications using Azure AD](#securingapps) <br /> 🙂 [DAMIEN BOWDEN](https://www.linkedin.com/in/damien-bowden-42a450176/) | ⭐ [Azure Virtual Network Manager: The future of network management?](#avnm) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Push your Azure tenant to the next level with Power BI](#powerbi) <br /> 🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) |
+| 1635 | ⭐ [Fully automated & cloud-native data platform](#dataplatform) <br /> 🙂 [TIM GIGER](https://www.linkedin.com/in/tim-giger-265412b5/) | ⭐ [More than a facade - Azure API Management "from zeron to hero"](#apimgmt) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) | ⭐ [Develop for inclusion using cognitive services: an Azure story](#inclusion) <br /> 🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) <br /> 🙂 [KAY SAUTER](https://www.linkedin.com/in/kaysauter/) |
 | 1720 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
 
@@ -110,10 +110,9 @@ Microsoft provides several tools to evaluate and drive sustainability aspects su
 This talk starts with a summary about what is publicly known regarding the sustainability of the Microsoft Azure cloud in general. We then look at the different tools that are available to estimate important metrics such as carbon emissions and what their capabilities and use cases are. I’ll also show limits, in particular the complexity to calculate sustainability indicators for on-premises data centers in comparison to cloud. Goal is to give you an overview at hand helping you to judge how well the Microsoft Azure cloud supports you on your way to a more sustainable future.   
 🙂 [WIBKE SUDHOLT](https://ch.linkedin.com/in/wibkesudholt) ⚡️ Head of Biz Dev Cloud & DC @ SPIE ICS AG
 
-### <a name="powerbi"></a> ⭐️ Push your Azure tenant to the next level with Power BI
-You've already heard a lot about Microsoft Power BI, but you're not sure how you can use it?
-In this session I will give you an introduction of what exactly is Power BI and what you can do with it. I will demonstrate what other companies already do with it and especially how you can use it, to get the most out of your Azure tenant!  
-🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) ⚡️ Principal Consultant @ b.telligent
+### <a name="eventdriven"></a> ⭐️ Eventdriven systems on Azure done right
+Event-driven architectures (EDA) are becoming increasingly popular as a way to build scalable, responsive, and resilient systems.In this talk, we will explore the benefits of EDA and how to implement it on Azure. It will cover key concepts of EDA, such as Event Sourcing, CQRS, Event-based communication, event-driven data processing and its matching services on Azure (e.g. Event Grid, Event Hub, Service-Bus, Functions). Additionally, we will introduce best practices for designing, implementing and testing EDA on Azure. By the end of this talk, all attendees will have an overview of possibilities with EDAs on Azure, pitfalls and best practices related. Also they will ava a starting point to apply this knowledge to their own projects.  
+🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) ⚡️ Azure Architect @ Xpirit
 
 ### <a name="azurepaas"></a> ⭐️ Azure PaaS, but as private as possible...
 Azure PaaS is a great option to modernize your environment, but what happens if everything needs to be secured and the services need to be as private as possible? What is possible and where are limitations? Are there best practices and when is it necessary to change the mindset?   
@@ -132,20 +131,22 @@ This developer session shows how authentication, authorization and security requ
 Having control over you hybrid network is key because many services require rock-solid and secure connectivity. There are multiple options available today to deploy, maintain and extend your network environment. But which one is the best fit for you? The latest service that Microsoft released recently to address this is 'Azure Virtual Network Manager' (AVNM). In this session, Marcel introduces you to this new service and gives you a behind-the-scenes view so that you are weaponized to use it out in the wild.  
 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Regional Director & Azure MVP 
 
-### <a name="eventdriven"></a> ⭐️ Eventdriven systems on Azure done right
-Event-driven architectures (EDA) are becoming increasingly popular as a way to build scalable, responsive, and resilient systems.In this talk, we will explore the benefits of EDA and how to implement it on Azure. It will cover key concepts of EDA, such as Event Sourcing, CQRS, Event-based communication, event-driven data processing and its matching services on Azure (e.g. Event Grid, Event Hub, Service-Bus, Functions). Additionally, we will introduce best practices for designing, implementing and testing EDA on Azure. By the end of this talk, all attendees will have an overview of possibilities with EDAs on Azure, pitfalls and best practices related. Also they will ava a starting point to apply this knowledge to their own projects.  
-🙂 [ROBIN KONRAD](https://www.linkedin.com/in/robin-konrad) ⚡️ Azure Architect @ Xpirit
+### <a name="powerbi"></a> ⭐️ Push your Azure tenant to the next level with Power BI
+You've already heard a lot about Microsoft Power BI, but you're not sure how you can use it?
+In this session I will give you an introduction of what exactly is Power BI and what you can do with it. I will demonstrate what other companies already do with it and especially how you can use it, to get the most out of your Azure tenant!  
+🙂 [DENIS SELIMOVIC](https://www.linkedin.com/in/denis-selimovic/) ⚡️ Principal Consultant @ b.telligent
 
 ### <a name="dataplatform"></a> ⭐️ Fully automated & cloud-native data platform
 For a large insurer in Switzerland, we implemented a fully automated and cloud-native data platform using Azure and Bicep. Among other things, Azure DevOps, Azure Data Lake Storage, Azure Synapse and Databricks were used. Business stakeholders also have the ability to set up a 3-tier analytics workspace based on Azure Synapse and Azure DevOps at the click of a button and start exploring the data lake and implementing use cases. The data lake is loaded in real time via Kafka/Databricks and batch-oriented via Azure Data Factory - in total over 100 different data pipelines. These pipelines feed the core Data Warehouse, implemented with Azure Synapse.   
 🙂 [TIM GIGER](https://www.linkedin.com/in/tim-giger-265412b5/) ⚡️ Senior Data & Analytics Consultant @ Swisscom
 
-### <a name="buildingbank"></a> ⭐️ Building a bank in the cloud
-Considerations when deploying a green field Financial Services Landing Zone in Azure. "Best practice" and gotchas.   
-🙂 [MATTHEW KEY](https://www.linkedin.com/in/matthewselkirkkey/) ⚡️ Azure Architect @ Nordcloud
+### <a name="apimgmt"></a> ⭐️ More than a facade - Azure API Management "from zero to hero"
+APIs are the common endpoints for applications, allowing the consumption of services and connecting systems and users. This session will bring you up to speed with the most common and challenging problems when starting with Azure API Management. After the session, you will be enabled to kick the tires and secure your APIs.   
+🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Solutions Architect @ scopewyse | Microsoft Azure MVP
 
 ### <a name="inclusion"></a> ⭐️ Develop for inclusion using cognitive services: an Azure story
 Disabilities are not limitations. Technology helps balance the scale.
 This session shows some practical examples for real world usage, and you are encouraged to use these technologies to make your projects even more amazing and welcoming to everyone.   
-🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) ⚡️ Owner & Principal Consultant @ LunarCat.PT
+🙂 [ANDRÉ MELANCIA](https://linkedin.com/in/AndreMelancia) ⚡️ Owner & Principal Consultant @ LunarCat.PT  
+🙂 [KAY SAUTER](https://www.linkedin.com/in/kaysauter/) ⚡️ Solution Architect Data & Analytics @ Bechtle Schweiz | Microsoft Data Platform MVP
 
