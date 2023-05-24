@@ -9,8 +9,7 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-🤩 Azure Bootcamp Switzerland 2023 is **SOLD OUT**! Thanks a lot to our sponsors which make this event possible and to all of you which are joining us for a full day of Azure knowledge!
-We are very much looking forward to seeing you next week!
+Thank you for attending Azure Bootcamp Switzerland 2023! We had a lot of fun and can look back on a successful conference with over 220 participants and speakers! 😃 A big shout-out and a heartfelt thank you goes to our amazing sponsors and speakers! For some impressions of the 2023 event, check out the images [in our event archive](archive/2023/) 🎥
 {{< /alert >}}
 
 ## Why Azure Bootcamp?
