@@ -16,7 +16,7 @@ enableRobotsTXT = true
 summaryLength = 0
 
 # Increase timeout because of image processing
-timeout = 60000
+timeout = 120000
 
 #[author]
   # name = "Your name here"
