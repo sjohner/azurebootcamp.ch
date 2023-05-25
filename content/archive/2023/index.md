@@ -8,9 +8,11 @@ Thank you for attending Azure Bootcamp Switzerland 2023 at Welle 7 [in the very 
 ## Community
 As you know, #Azure Bootcamp Switzerland is a 100% #community non-profit conference. Any positive financial balance will be invested into future events or donated to our charity partner organisations.
 
+<!--
 {{< alert "circle-info" >}}
 For the 2023 edition of the Azure Bootcamp we were able to donate CHF 5210.- to our community partner Powercoders and Remotecoders! 🥳
 {{< /alert >}}
+-->
 
 ## Speakers and agenda
 Many thanks to all of speakers for the support! Your the best! 🙏
