@@ -3,7 +3,7 @@ title: "Azure Bootcamp 2023"
 description: "This was Azure Bootcamp Switzerland 2023"
 ---
 
-Thank you for attending Azure Bootcamp Switzerland 2023 at Welle 7 [in the very heart of beautiful city of Bern](https://goo.gl/maps/4ywbjsd14bSvqnaF7)! We had a lot of fun and can look back on a successful conference with over 220 participants and speakers! 😃
+Thank you for attending Azure Bootcamp Switzerland 2023 at [Welle 7 in Bern](https://goo.gl/maps/4ywbjsd14bSvqnaF7)! We had a lot of fun and can look back on a successful conference with over 220 participants and speakers! 😃
 
 ## Community
 As you know, #Azure Bootcamp Switzerland is a 100% #community non-profit conference. Any positive financial balance will be invested into future events or donated to our charity partner organisations.
