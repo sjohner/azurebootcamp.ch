@@ -9,7 +9,7 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-Thank you for attending Azure Bootcamp Switzerland 2023! We had a lot of fun and can look back on a successful conference with over 220 participants and speakers! 😃 A big shout-out and a heartfelt thank you goes to our amazing sponsors and speakers! For some impressions of the 2023 event, check out the images [in our event archive](archive/2023/) 🎥
+Azure Bootcamp Switzerland 2024 will take place on **May 16th 2024 at Welle 7 in Bern** 🤩 Save the date and follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/azurebootcampswitzerland) to get the latests updates. Tickets will go on sale in December.
 {{< /alert >}}
 
 ## Why Azure Bootcamp?
