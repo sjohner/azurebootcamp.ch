@@ -12,6 +12,8 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Silver Sponsors
+{{< figure src="digitecgalaxus.svg" width="500" alt="digitec galaxus company logo" link="https://www.digitec.ch/" default="true">}}
+
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
 {{< figure src="aveniq.svg" width="500" alt="Aveniq company logo" link="https://aveniq.ch" default="true">}}
@@ -34,6 +36,11 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
 {{< figure src="nordcloud.png" width="500" alt="Nordcloud company logo" link="https://nordcloud.ch" default="true">}}
+
+----
+
+## Ice Cream Sponsor
+{{< figure src="grabix.svg" width="500" alt="grabx company logo" link="https://grabx.ch" default="true">}}
 
 ----
 
