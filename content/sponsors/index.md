@@ -12,7 +12,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Silver Sponsors
-{{< figure src="digitecgalaxus2.svg" width="700" alt="digitec galaxus company logo" link="https://www.digitec.ch/" default="true">}}
+{{< figure src="digax.jpg" width="700" alt="digitec galaxus company logo" link="https://www.digitec.ch/" default="true">}}
 
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
@@ -20,7 +20,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
-{{< figure src="softwareone.jpg" width="500" alt="software one company logo" link="https://www.softwareone.com/en-ch" default="true">}}
+{{< figure src="softwareone2.jpg" width="500" alt="software one company logo" link="https://www.softwareone.com/en-ch" default="true">}}
 
 ----
 
