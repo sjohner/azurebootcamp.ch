@@ -16,26 +16,19 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
-{{< figure src="aveniq.svg" width="500" alt="Aveniq company logo" link="https://aveniq.ch" default="true">}}
-
 {{< figure src="axpo.svg" width="500" alt="Axpo company logo" link="https://axpo.com" default="true">}}
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
+{{< figure src="softwareone.jpg" width="500" alt="software one company logo" link="https://www.softwareone.com/en-ch" default="true">}}
+
+
 ----
 
 ## Bronze Sponsors
-{{< figure src="jokerit.svg" width="500" alt="Joker IT company logo" link="https://joker-it.ch" default="true">}}
+{{< figure src="techtask.svg" width="500" alt="Techtask company logo" link="https://www.techtask.com/" default="true">}}
 
-{{< figure src="spie.svg" width="500" alt="SPIE ICS AG company logo" link="https://spie.ch" default="true">}}
-
-{{< figure src="grabix.svg" width="500" alt="GrabX company logo" link="https://grabx.ch" default="true">}}
-
-{{< figure src="baggenstos.svg" width="500" alt="Baggenstos company logo" link="https://baggenstos.ch" default="true">}}
-
-{{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
-
-{{< figure src="nordcloud.png" width="500" alt="Nordcloud company logo" link="https://nordcloud.ch" default="true">}}
+{{< figure src="techtask-logo.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
 ----
 
