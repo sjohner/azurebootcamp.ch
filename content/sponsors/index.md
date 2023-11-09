@@ -25,9 +25,9 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Bronze Sponsors
-{{< figure src="techtask.svg" width="500" alt="Techtask company logo" link="https://www.techtask.com/" default="true">}}
-
 {{< figure src="techtask-logo.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
+
+{{< figure src="itnetx.webp" width="500" alt="ItnetX company logo" link="https://www.itnetx.ch/" default="true">}}
 
 ----
 
