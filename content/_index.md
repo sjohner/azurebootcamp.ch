@@ -1,5 +1,5 @@
 ---
-title: "Technology conference focusing on the Microsoft Azure Cloud ☁️"
+title: "Technology conference focusing on the Microsoft Azure Cloud ☁️ "
 date: 2021-12-16T22:03:32+01:00
 draft: false
 ---
