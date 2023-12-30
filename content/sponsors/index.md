@@ -50,3 +50,4 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="powercoders.png" width="500" alt="Powercoders Logo" link="https://powercoders.org" default="true">}}
 {{< figure src="remotecoders.png" width="500" alt="Remotecoders Logo" link="https://remotecoders.org" default="true">}}
 {{< figure src="azureusergroups.svg" width="500" alt="Azure Zürich and Bern User Group Logos" default="true">}}
+{{< figure src="uphillconf.svg" width="500" alt="Uphill Conf" link="https://www.uphillconf.com" default="true">}}
