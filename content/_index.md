@@ -9,9 +9,9 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-Azure Bootcamp Switzerland 2024 will take place on **May 16th 2024 at Welle 7 in Bern** 🤩 
+Azure Bootcamp Switzerland 2024 will take place on **May 16th 2024 at Welle 7 in Bern** 🤩 Tickets are on sale in the [Azure Bootcamp Ticketshop](https://www.ticketino.com/de/Event/Azure-Bootcamp-Switzerland-2024/185226)
 
-Tickets are on sale in the [Azure Bootcamp Ticketshop](https://www.ticketino.com/de/Event/Azure-Bootcamp-Switzerland-2024/185226)
+Would you like to be a speaker at Azure Bootcamp Switzerland 2024? 🎙 Call for papers is open until end of January 2024. We are looking forward to your [session submission on Sessionize](https://sessionize.com/azure-bootcamp-switzerland-2024)! 
 
 Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/azurebootcampswitzerland) to get the latests updates.
 {{< /alert >}}
