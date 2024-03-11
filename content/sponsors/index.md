@@ -31,6 +31,11 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 
 ----
 
+## Working Lounge Sponsor
+{{< figure src="microsoft.svg" width="500" alt="Microsoft company logo" link="https://microsoft.ch" default="true">}}
+
+----
+
 ## Ice Cream Sponsor
 {{< figure src="grabx.svg" width="500" alt="grabx company logo" link="https://grabx.ch" default="true">}}
 
