@@ -26,17 +26,17 @@ The schedule is still subject to change.
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers and Azure Switzerland Update by Primo Amrein <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
-| 0915 <td colspan="3">⭐ [Navigating the Azure Cloud at Digitec Galaxus: Our Journey and Lessons Learned](#digitec) <br /> 🙂 [OLIVER GIRARD](https://www.linkedin.com/in/oligirard/) <br /> 🙂 [GERALD SCHERMANN](https://www.linkedin.com/in/gerald-schermann/) </td>
-| 1015 <td colspan="3">🪄 Surprise </td>
+| 0915 <td colspan="3">⭐ Keynote: [Navigating the Azure Cloud at Digitec Galaxus: Our Journey and Lessons Learned](#digitec) <br /> 🙂 [OLIVER GIRARD](https://www.linkedin.com/in/oligirard/) <br /> 🙂 [GERALD SCHERMANN](https://www.linkedin.com/in/gerald-schermann/) </td>
+| 1015 <td colspan="3">🪄 Surprise Guest</td>
 | 1030 <td colspan="3"> ☕ Coffee Break</td>
-| 1100 | ⭐ [Kill your IAM system now - Entra ID is here!](#entraid) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [The Era of Copilots - PoV from Microsoft](#copilotera) <br /> 🙂 [MIKE BLOECHLINGER](linkedin.com/in/mike-bloechlinger/)  🙂 [RICHARD LAGRANGE](linkedin.com/in/richard-lagrange/) | ⭐ [Model Platform](#modelplatform) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
-| 1155 | ⭐  [Breaching the Cloud: How to Exploit and Mitigate Common Security Risks](#breachingcloud) <br /> 🙂 [HANS-PETER WEISS](linkedin.com/in/hpweiss) <br /> 🙂 [JAN SCHNEIDER](https://www.linkedin.com/in/jan-schneider-a02a3026a)| ⭐ [ChatGPT over your own data](#gptowndata) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) | ⭐ [Mobiliar chatGPT & Friends](#mobichatgpt) <br /> 🙂 [MATTHIAS SCHRANZ](https://www.linkedin.com/in/matthias-schranz/) <br /> 🙂 [ALEXANDER MEIER](https://www.linkedin.com/in/alexandermeier/) |
+| 1100 | ⭐ [Kill your IAM system now - Entra ID is here!](#entraid) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [The Era of Copilots - PoV from Microsoft](#copilotera) <br /> 🙂 [MIKE BLOECHLINGER](https://www.linkedin.com/in/mike-bloechlinger/)  🙂 [RICHARD LAGRANGE](https://www.linkedin.com/in/richard-lagrange/) | ⭐ [Model Platform](#modelplatform) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
+| 1155 | ⭐  [Breaching the Cloud: How to Exploit and Mitigate Common Security Risks](#breachingcloud) <br /> 🙂 [HANS-PETER WEISS](https://www.linkedin.com/in/hpweiss) <br /> 🙂 [JAN SCHNEIDER](https://www.linkedin.com/in/jan-schneider-a02a3026a)| ⭐ [ChatGPT over your own data](#gptowndata) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166) | ⭐ [Mobiliar chatGPT & Friends](#mobichatgpt) <br /> 🙂 [MATTHIAS SCHRANZ](https://www.linkedin.com/in/matthias-schranz/) <br /> 🙂 [ALEXANDER MEIER](https://www.linkedin.com/in/alexandermeier/) |
 | 1240 | 🍕 Lunch Break |||
 | 1340 | ⭐ [From Zero to Infrastructure as Code at Swiss Life](#swisslife) <br /> 🙂 [ANDREA OLTEAN](https://www.linkedin.com/in/andreea-oltean/) <br /> 🙂 [JEDRZEJ LISOWSKI](https://www.linkedin.com/in/jlisowski/) | ⭐ [How Criminals Breach your Azure Environment](#azurebreach) <br /> 🙂 [MARCO SCHMIDT](https://www.linkedin.com/in/marco-schmidt-securityguy/) <br /> 🙂 [MANUEL MEYER](https://www.linkedin.com/in/manuelmeyer1/) | ⭐ [OpenAI models with your own data using Azure OpenAI](#owndataopenai) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
 | 1435 | ⭐ [Top 10 Best Practices for YAML Pipelines in Azure DevOps](#devops) <br /> 🙂 [MARC MÜLLER](https://www.linkedin.com/in/marcromanmueller/) | ⭐ [Building an Enterprise Data Platform with Microsoft Fabric](#fabric) <br /> 🙂 [GERALD REIF](https://www.linkedin.com/in/geraldreif/) <br /> 🙂 [WEILI GAO](https://www.linkedin.com/in/weiligao) | ⭐ [Implementing AI: Successes and Lessons from a Software Agency](#implementingai) <br /> 🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) |
 | 1510 <td colspan="3"> ☕ Coffee Break</td>
 | 1550 | ⭐ [Extend Microsoft 365 Copilot and relax](#extendcopilot) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) | ⭐ [Maximizing Cost Optimization with FinOps in Azure: Best Practices and Strategies](#costmgmt) <br /> 🙂 [FRANCISCO TELES](https://www.linkedin.com/in/franciscoteles/) | ⭐ [Azure AI deep dive with Ausgleichskasse Basel Stadt](#aideepdive) <br /> 🙂 [JÖRG BIERI](https://www.linkedin.com/in/joerg-bieri/) <br /> 🙂 IVAN BABIC |
-| 1635 <td colspan="3">⭐ Digitalization, people and money <br /> 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) <br /> 🙂 [ANDREAS KÜHNI](https://www.linkedin.com/in/patrick-kühni/)</td>
+| 1635 <td colspan="3">⭐ Closing Note: [Digitalization, people and money](#bitcoin) <br /> 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) <br /> 🙂 [ANDREAS KÜHNI](https://www.linkedin.com/in/patrick-kühni/)</td>
 | 1735 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
 
@@ -72,12 +72,12 @@ As the demand for intelligent chatbots grows, organizations seek ways to tailor 
 ### <a name="mobichatgpt"></a> ⭐️ Mobiliar chatGPT & Friends
 Erleben Sie eine spannende Reise in die Welt der künstlichen Intelligenz. In dieser Präsentation werden wir uns auf die Anwendung von Mobiliar ChatGPT und generativen KI-Modellen konzentrieren und Ihnen zeigen, wie Sie das volle Potenzial dieser Technologien ausschöpfen können. Wir werden Ihnen eine Einführung in Mobiliar ChatGPT und seine Komponenten geben und Ihnen zeigen, wie wir es geschafft haben, GPT in die Mobiliar zu integrieren. Außerdem werden wir Ihnen zeigen, wie Sie gute Prompts schreiben und ChatGPT effektiv nutzen können, um Ihre Arbeitsabläufe zu optimieren.
 Aber das ist noch nicht alles! Wir werden auch einen Einblick in die Welt der generativen KI-Modelle geben und Ihnen zeigen, wie sie sich von klassischen Modellen unterscheiden. Wir werden Ihnen zeigen, wie diese Modelle arbeiten und wie sie die Zukunft der künstlichen Intelligenz gestalten werden.
-Klingt gut? Wurde mit mobi-chatGPT generiert und zeigt eindrücklich die Möglichkeiten generativer KI. 
+Klingt gut? Wurde mit mobi-chatGPT generiert und zeigt eindrücklich die Möglichkeiten generativer KI.   
 🙂 [MATTHIAS SCHRANZ](https://www.linkedin.com/in/matthias-schranz/) ⚡️ Data Scientist with Focus on NLP and GenAI @ Die Mobiliar   
 🙂 [ALEXANDER MEIER](https://www.linkedin.com/in/alexandermeier/) ⚡️ DevOps Engineer @ Die Mobiliar
 
 ### <a name="swisslife"></a> ⭐️ From Zero to Infrastructure as Code at Swiss Life
-A compelling outlook on Swiss Life's transition in cloud strategy, shifting from a decentralised to a centralised approach and spotlighting efficient provisioning of Azure resources with Infrastructure as Code.
+A compelling outlook on Swiss Life's transition in cloud strategy, shifting from a decentralised to a centralised approach and spotlighting efficient provisioning of Azure resources with Infrastructure as Code.   
 🙂 [ANDREA OLTEAN](https://www.linkedin.com/in/andreea-oltean/) ⚡️ DevOps Engineer @ Swiss Life  
 🙂 [JEDRZEJ LISOWSKI](https://www.linkedin.com/in/jlisowski/) ⚡️ DevOps Engineer @ Swiss Life
 
@@ -122,5 +122,5 @@ Witihin this session, we will demonstrate how we implemented a "Chat GPT" like s
 
 ### <a name="bitcoin"></a> ⭐️ Digitalization, people and money
 Bitcoin and the Future of Money: What are the Impacts of Bitcoin on the Future of Money and Finance?   
-🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) ⚡️ Bitcoiner, Economist & Humanist
+🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) ⚡️ Bitcoiner, Economist & Humanist  
 🙂 [ANDREAS KÜHNI](https://www.linkedin.com/in/patrick-kühni/) ⚡️ Bitcoiner, Avionic Engineer
