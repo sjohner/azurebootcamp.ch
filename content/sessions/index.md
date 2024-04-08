@@ -36,7 +36,7 @@ The schedule is still subject to change.
 | 1435 | ⭐ [Top 10 Best Practices for YAML Pipelines in Azure DevOps](#devops) <br /> 🙂 [MARC MÜLLER](https://www.linkedin.com/in/marcromanmueller/) | ⭐ [Building an Enterprise Data Platform with Microsoft Fabric](#fabric) <br /> 🙂 [GERALD REIF](https://www.linkedin.com/in/geraldreif/) <br /> 🙂 [WEILI GAO](https://www.linkedin.com/in/weiligao) | ⭐ [Implementing AI: Successes and Lessons from a Software Agency](#implementingai) <br /> 🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) |
 | 1510 <td colspan="3"> ☕ Coffee Break</td>
 | 1550 | ⭐ [Extend Microsoft 365 Copilot and relax](#extendcopilot) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) | ⭐ [Maximizing Cost Optimization with FinOps in Azure: Best Practices and Strategies](#costmgmt) <br /> 🙂 [FRANCISCO TELES](https://www.linkedin.com/in/franciscoteles/) | ⭐ [Azure AI deep dive with Ausgleichskasse Basel Stadt](#aideepdive) <br /> 🙂 [JÖRG BIERI](https://www.linkedin.com/in/joerg-bieri/) <br /> 🙂 IVAN BABIC |
-| 1635 <td colspan="3">⭐ Closing Note: [Digitalization, people and money](#bitcoin) <br /> 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) <br /> 🙂 [ANDREAS KÜHNI](https://www.linkedin.com/in/patrick-kühni/)</td>
+| 1635 <td colspan="3">⭐ Closing Note: [Digitalization, people and money](#bitcoin) <br /> 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) <br /> 🙂 [PATRICK KÜHNI](https://www.linkedin.com/in/patrick-kühni/)</td>
 | 1735 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
 
@@ -123,4 +123,4 @@ Witihin this session, we will demonstrate how we implemented a "Chat GPT" like s
 ### <a name="bitcoin"></a> ⭐️ Digitalization, people and money
 Bitcoin and the Future of Money: What are the Impacts of Bitcoin on the Future of Money and Finance?   
 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) ⚡️ Bitcoiner, Economist & Humanist  
-🙂 [ANDREAS KÜHNI](https://www.linkedin.com/in/patrick-kühni/) ⚡️ Bitcoiner, Avionic Engineer
+🙂 [PATRICK KÜHNI](https://www.linkedin.com/in/patrick-kühni/) ⚡️ Bitcoiner, Avionic Engineer
