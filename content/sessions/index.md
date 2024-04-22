@@ -101,9 +101,10 @@ In this session we share our hands-on experience with using Microsoft Fabric to 
 🙂 [GERALD REIF](https://www.linkedin.com/in/geraldreif/) ⚡️ Principal Architect, Director @ ipt Innovation Process Technology AG  
 🙂 [WEILI GAO](https://www.linkedin.com/in/weiligao) ⚡️ Principal Architect @ ipt Innovation Process Technology AG
 
-### <a name="implementingai"></a> ⭐️ Use the power of OpenAI to leverage your business application
-In recent months, AI models have made huge strides. In this session, you'll learn how to make a business application fit for the future thanks to Azure OpenAI Services. We will discuss some uses on how you can empower your business application users with OpenAI.
-However, the large language models must first build the company's knowledge. With embeddings, you can "teach" them domain knowledge. You will learn how to create and consume such embeddings but also get some ideas about how to integrate them in your application. There will be a lot of demos, but we won't go into the details.   
+### <a name="implementingai"></a> ⭐️ Implementing AI: Successes and Lessons from a Software Agency
+In this talk, we explore our journey of implementing Artificial Intelligence (AI) within a software agency, detailing both our successes and the challenges we faced. We will share valuable lessons learned on communication, training, and change management for the internal rollout. Takeaways on governance and hands-on experiences from the rollout will be presented.
+
+This talk is aimed at anyone interested in AI implementation within an organization. Join us for a candid insight into the transformation process and an open discussion on the challenges.   
 🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) ⚡️ Mr. AI @ Nexplore AG
 
 ### <a name="extendcopilot"></a> ⭐️ Extend Microsoft 365 Copilot and relax
