@@ -73,10 +73,12 @@ As the demand for intelligent chatbots grows, organizations seek ways to tailor 
 
 ### <a name="mobichatgpt"></a> ⭐️ Mobi-ChatGPT & Friends - or how to integrate enterprise ready Gen-AI at scale
 Experience an exciting journey into the world of artificial intelligence. In this session, we will focus on generative AI and show you how to fully leverage the potential of such technologies with a focus on large language models (LLMs). We will exemplify this with practical examples of how we implement Gen-AI use cases at La Mobilière (Mobi-ChatGPT and more).
-But that's not all! We will also provide quick history of Gen-AIan, insight into the world of generative AI models and explain how they differ from classical models. We will show you how to integrate LLMs with your own data and how such models will shape the future of how we work with artificial intelligence.
+
+But that's not all! We will also provide quick history of Gen-AI, an insight into the world of generative AI models and explain how they differ from classical models. We will show you how to integrate LLMs with your own data and how such models will shape the future of how we work with artificial intelligence.
+
 Sounds good? This was generated with mobi-chatGPT and impressively demonstrates one of the possibilities of generative AI.   
-🙂 [MATTHIAS SCHRANZ](https://www.linkedin.com/in/matthias-schranz/) ⚡️ Data Scientist with Focus on NLP and GenAI @ Die Mobiliar   
-🙂 [ALEXANDER MEIER](https://www.linkedin.com/in/alexandermeier/) ⚡️ DevOps Engineer @ Die Mobiliar
+🙂 [MATTHIAS SCHRANZ](https://www.linkedin.com/in/matthias-schranz/) ⚡️ Data Scientist with Focus on NLP and GenAI @ La Mobilière   
+🙂 [ALEXANDER MEIER](https://www.linkedin.com/in/alexandermeier/) ⚡️ GenAI Data Engineer @ La Mobilière
 
 ### <a name="swisslife"></a> ⭐️ From Zero to Infrastructure as Code and AKS at Swiss Life
 A compelling outlook on Swiss Life's transition in cloud strategy, shifting from a decentralised to a centralised approach and spotlighting efficient provisioning of Azure resources with Infrastructure as Code.   
