@@ -91,9 +91,9 @@ In this session we look at how malicious attackers exploit even the slightest mi
 🙂 [MANUEL MEYER](https://www.linkedin.com/in/manuelmeyer1/) ⚡️ Azure Architect @ GrabX Solutions
 
 ### <a name="modelplatform"></a> ⭐️ Model Platform
-MoNet ('Mo'del 'Net'work) is a micro service based architecture developed by Axpo Solutions for model development and deployment. MoNet support models in multiple languages, is an API first platform and has been developed in Azure Cloud. In this session, we describe the motivations, the challenges and the architecture that underpins this initiative. 
+MoNet ('Mo'del 'Net'work) is a micro service based architecture developed by Axpo Solutions for model development and deployment. MoNet support models in multiple languages, is an API first platform and has been developed in Azure Cloud. In this session, we describe the motivations, the challenges and the architecture that underpins this initiative.  
 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ Infrastructure SME @ Axpo | Microsoft Developer Technologies MVP  
-🙂 [ANASS ALHYAR](https://www.linkedin.com/in/anass-alhyar-4ab02238/) ⚡️ Product Owner @ Axpo
+🙂 [ANASS ALHYAR](https://www.linkedin.com/in/anass-alhyar-4ab02238/) ⚡️ Product Owner @ Axpo  
 🙂 [RAJ SUBRAMANI](https://www.linkedin.com/in/rajsubramani/) ⚡️ Application SME @ Axpo
 
 ### <a name="devops"></a> ⭐️ Top 10 Best Practices for YAML Pipelines in Azure DevOps
