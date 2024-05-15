@@ -26,7 +26,7 @@ The schedule is still subject to change.
 | - | - | - | - | - |
 | 0800 | ⏰ Registration |||
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers and Azure Switzerland Update by Primo Amrein <br /> 🙂 [PRIMO AMREIN](https://www.linkedin.com/in/primo-amrein-12a336/) </td>
-| 0915 <td colspan="3">⭐ Keynote: [Navigating the Azure Cloud at Digitec Galaxus: Our Journey and Lessons Learned](#digitec) <br /> 🙂 [OLIVER GIRARD](https://www.linkedin.com/in/oligirard/) <br /> 🙂 [GERALD SCHERMANN](https://www.linkedin.com/in/gerald-schermann/) </td>
+| 0915 <td colspan="3">⭐ Keynote: [Navigating the Azure Cloud at Digitec Galaxus: Our Journey and Lessons Learned](#digitec) <br /> 🙂 [OLIVIER GIRARD](https://www.linkedin.com/in/oligirard/) <br /> 🙂 [GERALD SCHERMANN](https://www.linkedin.com/in/gerald-schermann/) </td>
 | 1015 <td colspan="3">🪄 Surprise Guest</td>
 | 1030 <td colspan="3"> ☕ Coffee Break</td>
 | 1100 | ⭐ [Kill your IAM system now - Entra ID is here!](#entraid) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [The Era of Copilots - PoV from Microsoft](#copilotera) <br /> 🙂 [MIKE BLOECHLINGER](https://www.linkedin.com/in/mike-bloechlinger/)  🙂 [RICHARD LAGRANGE](https://www.linkedin.com/in/richard-lagrange/) | ⭐ [OpenAI models with your own data using Azure OpenAI](#owndataopenai) <br /> 🙂 [FILIP WOJCIESZYN](https://www.strathweb.com/) |
@@ -43,7 +43,7 @@ The schedule is still subject to change.
 
 ### <a name="digitec"></a> ⭐️ Navigating the Azure Cloud at Digitec Galaxus: Our Journey and Lessons Learned
 Our story starts in 2015 with our on-prem .NET monolith running on Windows Server, accompanied by a single, clunky MS SQL database, powered by fusion-io disks and many other touchable hardware in a server-room - all built-up with about 5 teams back then. Today, our system is highly distributed and modular, entirely operating in the cloud, and processing significantly more data. It is continuously developed and maintained by over 45 Scrum teams. In our talk, we will delve into our experiences spanning the last 9 years – discussing how we work and organize ourselves, tracing the evolution of our system architecture up to the present, and, of course, exploring the role Azure plays in it all. Spoiler: not everything has always gone according to plan…   
-🙂 [OLIVER GIRARD](https://www.linkedin.com/in/oligirard/) ⚡️ Domain Architect for Platform and Online Shop @ Digitec Galaxus  
+🙂 [OLIVIER GIRARD](https://www.linkedin.com/in/oligirard/) ⚡️ Domain Architect for Platform and Online Shop @ Digitec Galaxus  
 🙂 [GERALD SCHERMANN](https://www.linkedin.com/in/gerald-schermann/) ⚡️ Software Architec @ Digitec Galaxus
 
 ### <a name="entraid"></a> ⭐️ Kill your IAM system now - Entra ID is here!
