@@ -9,13 +9,11 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< alert "circle-info" >}}
-**You rock! 🤘 Azure Bootcamp 2024 is officially sold out! We are very much looking forward to seeing you at the conference! 🥳**
+Thank you for attending Azure Bootcamp Switzerland 2024! We had a lot of fun and can look back on a successful conference with over 220 participants and speakers! 😃 A big shout-out and a heartfelt thank you goes to our amazing sponsors and speakers! 
 
-Azure Bootcamp Switzerland 2024 will take place on **May 16th 2024 at Welle 7 in Bern** 🤩 Check out our [agenda](sessions) for Azure Bootcamp 2024. We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. 
+Slide decks of Azure Bootcamp Switzerland 2024 sessions can be found [on the Speaker Deck of the Azure Zürich User Group](https://speakerdeck.com/azurezurich). We will publish some impressions of the conference as soon as the photos are ready.
 
-<!--Tickets are on sale in the [Azure Bootcamp Ticketshop](https://www.ticketino.com/de/Event/Azure-Bootcamp-Switzerland-2024/185226)
-Would you like to be a speaker at Azure Bootcamp Switzerland 2024? 🎙 Call for speakers is open until end of January 2024. We are looking forward to your [session submission on Sessionize](https://sessionize.com/azure-bootcamp-switzerland-2024)! -->
-Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/azurebootcampswitzerland) to get the latests updates.
+The next Azure Bootcamp is scheduled for **June 5 2025**. We would be very happy if you join us again! Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events.
 {{< /alert >}}
 
 ## Why Azure Bootcamp?
