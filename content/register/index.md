@@ -6,10 +6,11 @@ description: "Register for Azure Bootcamp Switzerland conference"
 
 Global Azure Bootcamp Switzerland is a full day conference about the Microsoft Azure Cloud Computing Platform. **It is free (except for the small admin fee of CHF 25.-) and open for everybody to join**.
 
-
+<!-->
 {{< button href="https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2024/185226" target="_self" >}}
 Get your Azure Bootcamp Ticket
 {{< /button >}}
+-->
 
 ## Azure Bootcamp Switzerland is a free community event. Why do I have to pay for the ticket?
 We decided to request a small fee for the ticket for the following reasons.
