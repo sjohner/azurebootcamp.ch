@@ -3,12 +3,12 @@ title: "Sessions 🗓️"
 date: 2022-01-13T20:43:22+01:00
 
 ---
-<!--
+
 Please check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions.
 
 {{< figure src="keynote2023.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2023" >}}
 
-
+<!--
 Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
 
 {{< alert "circle-info" >}}
@@ -16,7 +16,7 @@ Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. C
 {{< /alert >}}
 
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
--->
+
 
 We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Digitec Galaxus, Swiss Life insurance, Ausgleichskasse Basel Stadt and Die Mobiliar**, a kickstart with **Microsoft Copilot and Azure AI Services** or **deep dives on Azure Security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
@@ -129,3 +129,4 @@ Witihin this session, we will demonstrate how we implemented a "Chat GPT" like s
 Bitcoin and the Future of Money: What are the Impacts of Bitcoin on the Future of Money and Finance?   
 🙂 [ANDREAS WENGER](https://www.linkedin.com/in/andreas-wenger-5aa3141a1/) ⚡️ Bitcoiner, Economist & Humanist  
 🙂 [PATRICK KÜHNI](https://www.linkedin.com/in/patrick-kühni/) ⚡️ Bitcoiner, Avionic Engineer
+-->
