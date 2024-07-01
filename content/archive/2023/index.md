@@ -9,7 +9,7 @@ Thank you for attending Azure Bootcamp Switzerland 2023 at [Welle 7 in Bern](htt
 As you know, #Azure Bootcamp Switzerland is a 100% #community non-profit conference. Any positive financial balance will be invested into future events or donated to our charity partner organisations.
 
 {{< alert "circle-info" >}}
-For the 2023 edition of the Azure Bootcamp we were able to donate CHF 5000.- to our community partner Powercoders and Remotecoders plus we were able to donate another CHF 5000.- to the [Allani Kinderhospiz Bern](https://allani.ch/de/)! 🥳
+For the 2023 edition of the Azure Bootcamp we were able to donate CHF 5000.- to our community partner [Powercoders](https://powercoders.org) and [Remotecoders](https://remotecoders.org) plus we were able to donate another CHF 5000.- to the [Allani Kinderhospiz Bern](https://allani.ch/de/)! 🥳
 {{< /alert >}}
 
 ## Speakers and agenda
