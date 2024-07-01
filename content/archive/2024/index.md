@@ -17,7 +17,7 @@ For the 2023 edition of the Azure Bootcamp we were able to donate CHF 5210.- to 
 ## Speakers and agenda
 Many thanks to all of speakers for the support! Your the best! 🙏
 
-{{< figure src="images/abcs-317.jpg" alt="Overview of all speakers at Azure Bootcamp Switzerland 2024" >}}
+{{< figure src="images/abcs-317.jpeg" alt="Overview of all speakers at Azure Bootcamp Switzerland 2024" >}}
 
 The whole day our speakers delivered 18 sessions in total in three different tracks. Check out the [Azure Zürich Speakerdeck](https://speakerdeck.com/azurezurich) for the session slides.
 
