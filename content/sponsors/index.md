@@ -3,24 +3,16 @@ title: "Sponsors ❤️"
 date: 2021-12-16T22:45:17+01:00
 ---
 
-In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please connect with us!
-
-
-## Gold Sponsor
-{{< figure src="swisscom.png" alt="Swisscom company logo" link="https://swisscom.com" default="true">}}
-
-----
+In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please [connect with us](mailto:info@azurebootcamp.ch)!
 
 ## Silver Sponsors
-{{< figure src="digax.jpg" width="500" alt="digitec galaxus company logo" link="https://www.digitec.ch/" default="true">}}
-
-{{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
+{{< figure src="swisscom.png" alt="Swisscom company logo" link="https://swisscom.com" default="true">}}
 
 {{< figure src="axpo.svg" width="500" alt="Axpo company logo" link="https://axpo.com" default="true">}}
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
-{{< figure src="softwareone2.jpg" width="500" alt="software one company logo" link="https://www.softwareone.com/en-ch" default="true">}}
+{{< figure src="fujitsu.svg" width="500" alt="Fujitsu company logo" link="https://global.fujitsu/de-ch" default="true">}}
 
 ----
 
@@ -28,6 +20,8 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="techtask-logo.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
 {{< figure src="itnetx.jpg" width="500" alt="itnetx company logo" link="https://www.itnetx.ch/" default="true">}}
+
+{{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
 ----
 
