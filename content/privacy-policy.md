@@ -57,7 +57,6 @@ We may update this privacy policy from time-to-time, particularly as technology 
 If you have any questions about this privacy policy or your personal data, please reach out to us. Responsible body in terms of data protection laws, in particular the EU General Data Protection Regulation (DSGVO), is:
 
 Association Microsoft IT Pro Schweiz User Group
-
-3312 Fraubrunnen
+5014 Gretzenbach 
 
 E-mail: info@azurebootcamp.ch
