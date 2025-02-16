@@ -11,7 +11,7 @@ draft: false
 {{< alert "circle-info" >}}
 The next Azure Bootcamp is scheduled for **June 5 2025**. 
 
-**Tickets are on sale in the [Azure Bootcamp ticketshop](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2025/199803) starting 20th of February.**
+**Tickets will be available from February 20, 2025 in the [Azure Bootcamp ticketshop](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2025/199803).**
 
 **Would you like to be a speaker at Azure Bootcamp Switzerland 2025? Call for papers is open NOW!**
 Whether it's a deep dive session on a specific service or notes from the field on the use of Azure in your company, we would be very happy to receive your contribution to the Azure Bootcamp 2025! Please submit your session on the [Azure Bootcamp Sessionize page](https://sessionize.com/azure-bootcamp-switzerland-2025). If you have any questions around the conference, feel free to [contact us](mailto:info@azurebootcamp.ch).
