@@ -5,6 +5,9 @@ date: 2021-12-16T22:45:17+01:00
 
 In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please [connect with us](mailto:info@azurebootcamp.ch)!
 
+## Gold Sponsor
+{{< figure src="glueckkanja.svg" width="500" alt="GlueckKanja company logo" link="https://www.glueckkanja.com/de/" default="true">}}
+
 ## Silver Sponsors
 {{< figure src="swisscom.png" alt="Swisscom company logo" link="https://swisscom.com" default="true">}}
 
