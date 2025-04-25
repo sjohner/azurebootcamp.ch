@@ -44,7 +44,7 @@ The schedule is still subject to change.
 In today’s rapidly evolving business environment, organizations face unprecedented challenges: rapidly shifting customer demands, intensifying competition, and a growing shortage of skilled professionals. Agility and speed have become critical to survival. This talk will showcase how Platform Engineering, powered by Azure, serves as the foundation for overcoming these challenges. By automating complex workflows and infrastructure provisioning, it delivers the scalability and flexibility needed to adapt swiftly, innovate faster, and address skill gaps effectively.
 Through in-depth insights, real-world examples, and a live platform demo, this session will explore how Azure-driven platform strategies can transform development processes, enhance productivity, and enable the rapid delivery of high-quality software. Attendees will discover actionable techniques for overcoming scaling challenges, improving developer experience, and streamlining operations by leveraging DevOps practices within a robust, Azure-integrated platform.   
 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/) ⚡️ Global Chief of DevOps @ Zühlke  
-<!-->
+<!--
 ### <a name="entraid"></a> ⭐️ Kill your IAM system now - Entra ID is here!
 Identity and access management (IAM) requirements have dramatically changed in the last years. With more and more companies heavily consuming cloud apps, new tools and processes are needed to address modern IAM needs. In this session, Marcel Zehner, a long-term Microsoft MVP and Regional Director, will demonstrate from real-world business cases, how comprehensive IAM solution can be build with Entra ID instead of using clumsy, cumbersome, not-so-modern IAM solutions.   
 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Regional Director & Azure MVP
@@ -62,14 +62,14 @@ Join me to learn about the interesting set of challenges, trade-offs, and constr
 ### <a name="gobeyn"></a> ⭐️ Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project
 Thinking of using Azure OpenAI in production? In this session, I’ll share detailed hard-earned lessons from my latest GenAI project, where I combined Azure OpenAI GPT-4 with data integration workflows. As both a solution architect and hands-on developer, I’ll walk you through what worked, what flopped, and what I wish I knew earlier. We’ll dive into managing costs, securing data, reducing hallucinations, fine-tuning prompts, and keeping token usage in check. Whether you’re exploring AI or scaling it, this session is packed with tips to help you avoid pitfalls and build smarter, more efficient AI solutions.   
 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) ⚡️ Cloud Solution Architect | Azure MVP  
-<!-->
+<!--
 ### <a name="gptowndata"></a> ⭐️ ChatGPT over your own data
 As the demand for intelligent chatbots grows, organizations seek ways to tailor these conversational agents to their specific needs. In this session, we explore how to create a private ChatGPT instance that leverages your own data. Whether you’re building a customer support bot, an internal knowledge base, or a specialized domain-specific assistant, understanding the architecture and data requirements is crucial.   
 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) ⚡️ Senior Cloud Engineer @ scopewyse   
 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Solutions Architect @ scopewyse
 -->
 ### <a name="schwab"></a> ⭐️ Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway
-Discover how Rhaetian Railway is modernizing its data landscape using Azure Databricks, Terraform Infrastructure-as-Code, and Azure DevOps. We’ll explore how CI/CD pipelines streamline development, testing, and deployment across multiple environments, while a configuration file–driven approach brings flexibility and agility to data pipeline management. Learn about our key design principles, best practices for parameterizing data flows at scale, how we incorporate data quality checks to ensure reliable analytics, and the lessons we’ve learned on our journey toward a fully automated, high-performance data platform.
+Discover how Rhaetian Railway is modernizing its data landscape using Azure Databricks, Terraform Infrastructure-as-Code, and Azure DevOps. We’ll explore how CI/CD pipelines streamline development, testing, and deployment across multiple environments, while a configuration file–driven approach brings flexibility and agility to data pipeline management. Learn about our key design principles, best practices for parameterizing data flows at scale, how we incorporate data quality checks to ensure reliable analytics, and the lessons we’ve learned on our journey toward a fully automated, high-performance data platform.   
 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) ⚡️ Senior Data & AI Consultant @ Swisscom   
 
 ### <a name="mendelin"></a> ⭐️ Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search
@@ -85,6 +85,7 @@ In this session Stefan will focus on Azure Security topics from the network pers
 * Network segmentation/isolation (zone models)
 * Traffic management and control on cloud networks
 * Security for external interfaces and endpoints
+
 The audience will get the knowledge of how to create a secure platform and use Azure services the right way to build secure applications as well as to avoid potential vulnerabilities in the Azure “Landing Zone”. Based on the strict security and compliance requirements of organizations, Stefan will share all relevant recommendations, best practices, practical experience, and potential pitfalls to provision and mange cloud workload in Azure the secure and smart way.   
 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) ⚡️ Cloud Solution Architect @ Xebia | Microsoft Azure Infrastructure as Code MVP 
 
@@ -92,7 +93,7 @@ The audience will get the knowledge of how to create a secure platform and use A
 In this session, attendees will learn how to leverage the new FinOps billing standard FOCUS and Microsoft Fabric to gain better visibility over their Cloud Costs.
 We will compare this stack against the native Azure Cost Management tools and see why it may sometimes be a better fit (FinOps personas, Subscriptions types, etc.).  
 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) ⚡️ Sr. Cloud FinOps Engineer @ FinOps Foundation | FinOps Certified Professional  
-<!-->
+<!--
 ### <a name="devops"></a> ⭐️ Top 10 Best Practices for YAML Pipelines in Azure DevOps
 Azure Pipelines definitions can be defined with the new YAML standard since some time. We are sure that many have already created their first pipelines or migrated existing pipelines. So it's high time to look at the most important best practices from our wealth of experience together. This session will show the top 10 best practices from many customer projects related to YAML pipelines. Among other things, topics such as splitting pipelines (chained builds), using templates, as well as ensuring enterprise specifications and quality assurance will be covered.  
 🙂 [MARC MÜLLER](https://www.linkedin.com/in/marcromanmueller/) ⚡️ Principal Consultant @ 4tecture GmbH
@@ -101,9 +102,9 @@ Azure Pipelines definitions can be defined with the new YAML standard since some
 Within this session I will run through the core concepts and components of Azure Virtual WAN, and explore how it can create a powerful Cloud-centric network within Azure and beyond.
 As well as a technical exploration, this session will explore the benefits that Azure Virtual WAN brings to Azure Environments, including network control, expansion, and security.
 As well as covering the above I will dive into the various deployment methods and options, and showcase how Azure Virtual WAN enables flexibility and rapid network expansion with ease. Security will also be a core focus, and I will discuss and showcase how services like Azure Firewall can be integrated into Azure Virtual WAN.
-I'll also run through a demonstration of Azure Virtual WAN, and explore various deployment options, including Infrastructure as Code and more. There will also be time for questions and discussion..   
+I'll also run through a demonstration of Azure Virtual WAN, and explore various deployment options, including Infrastructure as Code and more. There will also be time for questions and discussion.   
 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) ⚡️ Senior Solution Architect @ CDW UK | Microsoft Azure MVP & Hashicorp Ambassador  
-<!-->
+<!--
 ### <a name="implementingai"></a> ⭐️ Implementing AI: Successes and Lessons from a Software Agency
 In this talk, we explore our journey of implementing Artificial Intelligence (AI) within a software agency, detailing both our successes and the challenges we faced. We will share valuable lessons learned on communication, training, and change management for the internal rollout. Takeaways on governance and hands-on experiences from the rollout will be presented.
 
@@ -118,7 +119,7 @@ Is the role of software developers at risk, or does AI open up new opportunities
 ### <a name="costmgmt"></a> ⭐️ DNS in hybrid cloud environments - can it be that hard?
 In short, no, DNS is not simple. It has been around for decades and is an essential component of a hybrid cloud environment. Despite this, many environments still struggle when it comes to designing rock-solid, hybrid DNS solutions, and trust me, it comes with a lot of pitfalls! After attending this session you know what you need to know - and how to avoid name resolution disasters.  
 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Azure MVP & Microsoft Regional Director
-<!-->
+<!--
 ### <a name="aideepdive"></a> ⭐️ Azure AI deep dive with Ausgleichskasse Basel Stadt
 Witihin this session, we will demonstrate how we implemented a "Chat GPT" like solution at the Ausgleichskasse Basel Stadt. We will dive into the technical details and present our learnings.  
 🙂 [JÖRG BIERI](https://www.linkedin.com/in/joerg-bieri/) ⚡️ CTO @ GARAIO AG  
