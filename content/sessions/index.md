@@ -29,7 +29,7 @@ The schedule is still subject to change.
 | 0915 <td colspan="3">⭐ Keynote: [Transforming DevOps with Azure: Platform Engineering for the Digital Age](#keynote)<br /> 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/)</td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
 | 1040 | ⭐ tba | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
-| 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ tba | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
+| 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
 | 1415 | ⭐ tba | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ tba |
@@ -62,12 +62,19 @@ Join me to learn about the interesting set of challenges, trade-offs, and constr
 ### <a name="gobeyn"></a> ⭐️ Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project
 Thinking of using Azure OpenAI in production? In this session, I’ll share detailed hard-earned lessons from my latest GenAI project, where I combined Azure OpenAI GPT-4 with data integration workflows. As both a solution architect and hands-on developer, I’ll walk you through what worked, what flopped, and what I wish I knew earlier. We’ll dive into managing costs, securing data, reducing hallucinations, fine-tuning prompts, and keeping token usage in check. Whether you’re exploring AI or scaling it, this session is packed with tips to help you avoid pitfalls and build smarter, more efficient AI solutions.   
 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) ⚡️ Cloud Solution Architect | Azure MVP  
-<!--
-### <a name="gptowndata"></a> ⭐️ ChatGPT over your own data
-As the demand for intelligent chatbots grows, organizations seek ways to tailor these conversational agents to their specific needs. In this session, we explore how to create a private ChatGPT instance that leverages your own data. Whether you’re building a customer support bot, an internal knowledge base, or a specialized domain-specific assistant, understanding the architecture and data requirements is crucial.   
-🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) ⚡️ Senior Cloud Engineer @ scopewyse   
-🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Solutions Architect @ scopewyse
--->
+
+### <a name="stoeckl"></a> ⭐️ Azure Emergency Response Environments - Be Ready When It Matters Most
+In the face of modern threats like ransomware attacks, infrastructure compromise, or operational disruptions, organizations need to act quickly and decisively. In this session, Florian Stöckl presents AzERE (Azure Emergency Response Environments), a proven solution designed to empower crisis teams and IT operations during the most critical hours.
+
+You’ll learn how AzERE enables organizations to:
+• Rapidly restore communication and coordination channels
+• Access essential data and services in a secure fallback environment
+• Detect and eliminate attacker persistence and backdoors
+• Maintain control, even when core systems are compromised
+
+Based on real-world experience from multiple emergency scenarios, this session offers practical insights into designing a resilient, automated fallback environment using native Azure technologies. If you’re responsible for business continuity, disaster recovery, or security response, this is a must-attend session.   
+🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) ⚡️ Azure Lead @ glueckkanja AG   
+
 ### <a name="schwab"></a> ⭐️ Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway
 Discover how Rhaetian Railway is modernizing its data landscape using Azure Databricks, Terraform Infrastructure-as-Code, and Azure DevOps. We’ll explore how CI/CD pipelines streamline development, testing, and deployment across multiple environments, while a configuration file–driven approach brings flexibility and agility to data pipeline management. Learn about our key design principles, best practices for parameterizing data flows at scale, how we incorporate data quality checks to ensure reliable analytics, and the lessons we’ve learned on our journey toward a fully automated, high-performance data platform.   
 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) ⚡️ Senior Data & AI Consultant @ Swisscom   
