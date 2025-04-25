@@ -67,10 +67,10 @@ Thinking of using Azure OpenAI in production? In this session, I’ll share deta
 In the face of modern threats like ransomware attacks, infrastructure compromise, or operational disruptions, organizations need to act quickly and decisively. In this session, Florian Stöckl presents AzERE (Azure Emergency Response Environments), a proven solution designed to empower crisis teams and IT operations during the most critical hours.
 
 You’ll learn how AzERE enables organizations to:
-• Rapidly restore communication and coordination channels
-• Access essential data and services in a secure fallback environment
-• Detect and eliminate attacker persistence and backdoors
-• Maintain control, even when core systems are compromised
+* Rapidly restore communication and coordination channels
+* Access essential data and services in a secure fallback environment
+* Detect and eliminate attacker persistence and backdoors
+* Maintain control, even when core systems are compromised
 
 Based on real-world experience from multiple emergency scenarios, this session offers practical insights into designing a resilient, automated fallback environment using native Azure technologies. If you’re responsible for business continuity, disaster recovery, or security response, this is a must-attend session.   
 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) ⚡️ Azure Lead @ glueckkanja AG   
