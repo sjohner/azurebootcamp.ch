@@ -28,11 +28,11 @@ The schedule is still subject to change.
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers</td>
 | 0915 <td colspan="3">⭐ Keynote: [Transforming DevOps with Azure: Platform Engineering for the Digital Age](#keynote)<br /> 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/)</td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ tba | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
-| 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
+| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
+| 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
-| 1415 | ⭐ tba | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ tba |
+| 1415 | ⭐ tba | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ [Platform Engineering with Terraform, Crossplane and Port](#mitra) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
 | 1500 <td colspan="3"> ☕ Coffee Break</td>
 | 1530 | ⭐ [From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role](#sogl) <br /> 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) | ⭐ [DNS in hybrid cloud environments - can it be that hard?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ tba |
 | 1630 <td colspan="3">⭐ Closing Note: [The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services](#closingnote) <br /> 🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) </td>
@@ -44,11 +44,12 @@ The schedule is still subject to change.
 In today’s rapidly evolving business environment, organizations face unprecedented challenges: rapidly shifting customer demands, intensifying competition, and a growing shortage of skilled professionals. Agility and speed have become critical to survival. This talk will showcase how Platform Engineering, powered by Azure, serves as the foundation for overcoming these challenges. By automating complex workflows and infrastructure provisioning, it delivers the scalability and flexibility needed to adapt swiftly, innovate faster, and address skill gaps effectively.
 Through in-depth insights, real-world examples, and a live platform demo, this session will explore how Azure-driven platform strategies can transform development processes, enhance productivity, and enable the rapid delivery of high-quality software. Attendees will discover actionable techniques for overcoming scaling challenges, improving developer experience, and streamlining operations by leveraging DevOps practices within a robust, Azure-integrated platform.   
 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/) ⚡️ Global Chief of DevOps @ Zühlke  
-<!--
-### <a name="entraid"></a> ⭐️ Kill your IAM system now - Entra ID is here!
-Identity and access management (IAM) requirements have dramatically changed in the last years. With more and more companies heavily consuming cloud apps, new tools and processes are needed to address modern IAM needs. In this session, Marcel Zehner, a long-term Microsoft MVP and Regional Director, will demonstrate from real-world business cases, how comprehensive IAM solution can be build with Entra ID instead of using clumsy, cumbersome, not-so-modern IAM solutions.   
-🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Regional Director & Azure MVP
--->
+
+### <a name="herve"></a> ⭐️ It takes more than a prompt - implemeting GenAI for insurance
+Implementing end to end use case leveraging GenAI under strict Finma and LPD regulation in Switzerland is a bit more complex than simply typing a prompt in ChatGPT.
+From data privacy, to proper orchestration including non regression, testing, validation, follow up, use case evolution and integration with external services, our speakers will guide you through their journey.   
+🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance
+
 ### <a name="boehm"></a> ⭐️ How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me
 A leaked credential in a Git repo. It's a weekend with no one on call. A crypto miner spins up dozens of VMs—by Monday, the invoice is in the thousands. How could we've done better?
 In this session, I'll walk you through my nightmare real-world cloud breach scenario and show how ideas and best practices from Azure's Cloud Adoption Framework (CAF) could have prevented it. Let's discuss combining technical controls, governance policies, and organizational readiness to secure the cloud before it's too late.   
@@ -111,19 +112,21 @@ As well as a technical exploration, this session will explore the benefits that 
 As well as covering the above I will dive into the various deployment methods and options, and showcase how Azure Virtual WAN enables flexibility and rapid network expansion with ease. Security will also be a core focus, and I will discuss and showcase how services like Azure Firewall can be integrated into Azure Virtual WAN.
 I'll also run through a demonstration of Azure Virtual WAN, and explore various deployment options, including Infrastructure as Code and more. There will also be time for questions and discussion.   
 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) ⚡️ Senior Solution Architect @ CDW UK | Microsoft Azure MVP & Hashicorp Ambassador  
-<!--
-### <a name="implementingai"></a> ⭐️ Implementing AI: Successes and Lessons from a Software Agency
-In this talk, we explore our journey of implementing Artificial Intelligence (AI) within a software agency, detailing both our successes and the challenges we faced. We will share valuable lessons learned on communication, training, and change management for the internal rollout. Takeaways on governance and hands-on experiences from the rollout will be presented.
 
-This talk is aimed at anyone interested in AI implementation within an organization. Join us for a candid insight into the transformation process and an open discussion on the challenges.   
-🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) ⚡️ Mr. AI @ Nexplore AG
--->
+### <a name="mitra"></a> ⭐️ Platform Engineering with Terraform, Crossplane and Port
+In this Session, Arindam will walk you through creating an internal developer portal with Terraform, Crossplane and Port
+1. Platform Engineering Concepts,
+2. Platform Engineering with Terraform and Azure Devops,
+3. Platform Engineering with Crossplane,
+4. Port - Internal developer portal.   
+🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ Cloud Services Lead @ Axpo Group
+
 ### <a name="sogl"></a> ⭐️ From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role
 AI-powered coding tools like GitHub Copilot, Cursor, bolt.new, and v0 are rapidly changing software development. They write code, suggest optimizations, and automate entire workflows – but what does this mean for us as developers?
 Is the role of software developers at risk, or does AI open up new opportunities? This keynote explores how AI coding tools are reshaping our daily work, which skills will be essential in the future, and how you can future-proof your career. Discover how to leverage AI to work more productively, increase your value, and actively shape your professional path.  
 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) ⚡️ Software Architect @ Thinktecture
 
-### <a name="costmgmt"></a> ⭐️ DNS in hybrid cloud environments - can it be that hard?
+### <a name="zehner"></a> ⭐️ DNS in hybrid cloud environments - can it be that hard?
 In short, no, DNS is not simple. It has been around for decades and is an essential component of a hybrid cloud environment. Despite this, many environments still struggle when it comes to designing rock-solid, hybrid DNS solutions, and trust me, it comes with a lot of pitfalls! After attending this session you know what you need to know - and how to avoid name resolution disasters.  
 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Azure MVP & Microsoft Regional Director
 <!--
