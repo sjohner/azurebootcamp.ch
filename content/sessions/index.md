@@ -34,7 +34,7 @@ The schedule is still subject to change.
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
 | 1415 | ⭐ tba | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ [Platform Engineering with Terraform, Crossplane and Port](#mitra) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
 | 1500 <td colspan="3"> ☕ Coffee Break</td>
-| 1530 | ⭐ [From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role](#sogl) <br /> 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) | ⭐ [DNS in hybrid cloud environments - can it be that hard?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ tba |
+| 1530 | ⭐ [From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role](#sogl) <br /> 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) | ⭐ [DNS in hybrid cloud environments - can it be that hard?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Make Microsoft Defender XDR Work for You: Mastering Automatic Attack Disruption](#schneiter) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166/) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) |
 | 1630 <td colspan="3">⭐ Closing Note: [The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services](#closingnote) <br /> 🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) </td>
 | 1730 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
 | | | | | |
@@ -95,7 +95,7 @@ In this session Stefan will focus on Azure Security topics from the network pers
 * Security for external interfaces and endpoints
 
 The audience will get the knowledge of how to create a secure platform and use Azure services the right way to build secure applications as well as to avoid potential vulnerabilities in the Azure “Landing Zone”. Based on the strict security and compliance requirements of organizations, Stefan will share all relevant recommendations, best practices, practical experience, and potential pitfalls to provision and mange cloud workload in Azure the secure and smart way.   
-🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) ⚡️ Cloud Solution Architect @ Xebia | Microsoft Azure Infrastructure as Code MVP 
+🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) ⚡️ Cloud Solution Architect @ Xebia | Microsoft Azure Infra-As-Code MVP 
 
 ### <a name="pares"></a> ⭐️ Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric
 In this session, attendees will learn how to leverage the new FinOps billing standard FOCUS and Microsoft Fabric to gain better visibility over their Cloud Costs.
@@ -119,7 +119,7 @@ In this Session, Arindam will walk you through creating an internal developer po
 2. Platform Engineering with Terraform and Azure Devops,
 3. Platform Engineering with Crossplane,
 4. Port - Internal developer portal.   
-🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ Cloud Services Lead @ Axpo Group
+🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ Microsoft Azure Infra-As-Code MVP
 
 ### <a name="sogl"></a> ⭐️ From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role
 AI-powered coding tools like GitHub Copilot, Cursor, bolt.new, and v0 are rapidly changing software development. They write code, suggest optimizations, and automate entire workflows – but what does this mean for us as developers?
@@ -129,12 +129,20 @@ Is the role of software developers at risk, or does AI open up new opportunities
 ### <a name="zehner"></a> ⭐️ DNS in hybrid cloud environments - can it be that hard?
 In short, no, DNS is not simple. It has been around for decades and is an essential component of a hybrid cloud environment. Despite this, many environments still struggle when it comes to designing rock-solid, hybrid DNS solutions, and trust me, it comes with a lot of pitfalls! After attending this session you know what you need to know - and how to avoid name resolution disasters.  
 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Azure MVP & Microsoft Regional Director
-<!--
-### <a name="aideepdive"></a> ⭐️ Azure AI deep dive with Ausgleichskasse Basel Stadt
-Witihin this session, we will demonstrate how we implemented a "Chat GPT" like solution at the Ausgleichskasse Basel Stadt. We will dive into the technical details and present our learnings.  
-🙂 [JÖRG BIERI](https://www.linkedin.com/in/joerg-bieri/) ⚡️ CTO @ GARAIO AG  
-🙂 IVAN BABIC ⚡️ Developer @ GARAIO AG  
--->
+
+### <a name="schneiter"></a> ⭐️ Make Microsoft Defender XDR Work for You: Mastering Automatic Attack Disruption
+Microsoft Defender XDR features one of the most advanced response capabilities in modern cybersecurity: Attack Disruption — an automated mechanism that detects and interrupts high-impact attacks before they spread.
+But here’s the catch: it doesn’t run automatically out of the box.
+What you’ll learn:
+* What Attack Disruption really does—and how it stops live threats in real time
+* Required product configurations to ensure seamless cross-solution automation
+* How to validate that Attack Disruption is working in your environment
+* Real-world examples of disrupted attacks across identity, endpoint, and cloud
+  
+Whether you’re just starting with Defender XDR or already operational, this session will help you take full advantage of a feature that could stop your next breach before it begins.  
+🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166/)⚡️ Managing Partner & Solutions Architect @ scopewyse | Microsoft Security MVP  
+🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Managing Partner & Solutions Architect @ scopewyse  
+
 ### <a name="closingnote"></a> ⭐️ The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services
 The rapid evolution of Artificial Intelligence (AI), from Generative AI to autonomous AI Agents, is fundamentally reshaping cloud computing paradigms. This session explores how the latest developments in AI—particularly the emergence of intelligent, autonomous AI agents—are driving transformative changes in cloud architectures, deployment models, and service delivery. With a specific focus on Azure cloud environments, we examine how developers and technology leaders can leverage new AI capabilities to unlock significant business opportunities, enhance operational efficiency, and accelerate innovation. We will discuss key technological breakthroughs, practical implications, strategic opportunities, and critical challenges, offering actionable insights and forward-looking guidance tailored specifically for cloud developers and architects.   
 🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) ⚡️ Business Director Switzerland @ NVIDIA  
