@@ -28,7 +28,7 @@ The schedule is still subject to change.
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers</td>
 | 0915 <td colspan="3">⭐ Keynote: [Transforming DevOps with Azure: Platform Engineering for the Digital Age](#keynote)<br /> 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/)</td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
+| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) <br /> 🙂 YACINE OULD BOUKHITINE | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
 | 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
@@ -48,7 +48,8 @@ Through in-depth insights, real-world examples, and a live platform demo, this s
 ### <a name="herve"></a> ⭐️ It takes more than a prompt - implemeting GenAI for insurance
 Implementing end to end use case leveraging GenAI under strict Finma and LPD regulation in Switzerland is a bit more complex than simply typing a prompt in ChatGPT.
 From data privacy, to proper orchestration including non regression, testing, validation, follow up, use case evolution and integration with external services, our speakers will guide you through their journey.   
-🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance
+🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance   
+🙂 YACINE OULD BOUKHITINE ⚡️ Cloud Techincal Architect @ Swisscom
 
 ### <a name="boehm"></a> ⭐️ How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me
 A leaked credential in a Git repo. It's a weekend with no one on call. A crypto miner spins up dozens of VMs—by Monday, the invoice is in the thousands. How could we've done better?
