@@ -32,7 +32,7 @@ The schedule is still subject to change.
 | 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
-| 1415 | ⭐ tba | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ [Platform Engineering with Terraform, Crossplane and Port](#mitra) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
+| 1415 | ⭐ [Migrate to Modernize - A journey from VMware On-Prem to Azure Native Services](#krebs) <br /> 🙂 [FABRICE KREBS](https://www.linkedin.com/in/fabricekrebs/) <br /> 🙂 [ANDRÉ PEREIRA](https://www.linkedin.com/in/andrefgpereira/) | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ [Platform Engineering with Terraform, Crossplane and Port](#mitra) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
 | 1500 <td colspan="3"> ☕ Coffee Break</td>
 | 1530 | ⭐ [From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role](#sogl) <br /> 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) | ⭐ [DNS in hybrid cloud environments - can it be that hard?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Make Microsoft Defender XDR Work for You: Mastering Automatic Attack Disruption](#schneiter) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166/) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) |
 | 1630 <td colspan="3">⭐ Closing Note: [The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services](#closingnote) <br /> 🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) </td>
@@ -49,7 +49,7 @@ Through in-depth insights, real-world examples, and a live platform demo, this s
 Implementing end to end use case leveraging GenAI under strict Finma and LPD regulation in Switzerland is a bit more complex than simply typing a prompt in ChatGPT.
 From data privacy, to proper orchestration including non regression, testing, validation, follow up, use case evolution and integration with external services, our speakers will guide you through their journey.   
 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance   
-🙂 YACINE OULD BOUKHITINE ⚡️ Cloud Techincal Architect @ Swisscom
+🙂 YACINE OULD BOUKHITINE ⚡️ Cloud Technical Architect @ Swisscom
 
 ### <a name="boehm"></a> ⭐️ How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me
 A leaked credential in a Git repo. It's a weekend with no one on call. A crypto miner spins up dozens of VMs—by Monday, the invoice is in the thousands. How could we've done better?
@@ -102,11 +102,12 @@ The audience will get the knowledge of how to create a secure platform and use A
 In this session, attendees will learn how to leverage the new FinOps billing standard FOCUS and Microsoft Fabric to gain better visibility over their Cloud Costs.
 We will compare this stack against the native Azure Cost Management tools and see why it may sometimes be a better fit (FinOps personas, Subscriptions types, etc.).  
 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) ⚡️ Sr. Cloud FinOps Engineer @ FinOps Foundation | FinOps Certified Professional  
-<!--
-### <a name="devops"></a> ⭐️ Top 10 Best Practices for YAML Pipelines in Azure DevOps
+
+### <a name="krebs"></a> ⭐️ Migrate to Modernize - A journey from VMware On-Prem to Azure Native Services
 Azure Pipelines definitions can be defined with the new YAML standard since some time. We are sure that many have already created their first pipelines or migrated existing pipelines. So it's high time to look at the most important best practices from our wealth of experience together. This session will show the top 10 best practices from many customer projects related to YAML pipelines. Among other things, topics such as splitting pipelines (chained builds), using templates, as well as ensuring enterprise specifications and quality assurance will be covered.  
-🙂 [MARC MÜLLER](https://www.linkedin.com/in/marcromanmueller/) ⚡️ Principal Consultant @ 4tecture GmbH
--->
+🙂 [FABRICE KREBS](https://www.linkedin.com/in/fabricekrebs/) ⚡️ Senior Azure Technical Specialist @ Microsoft   
+🙂 [ANDRÉ PEREIRA](https://www.linkedin.com/in/andrefgpereira/) ⚡️ Azure Technical Specialist @ Microsoft
+
 ### <a name="walsh"></a> ⭐️ Building a Cloud Centric Network with Azure Virtual WAN
 Within this session I will run through the core concepts and components of Azure Virtual WAN, and explore how it can create a powerful Cloud-centric network within Azure and beyond.
 As well as a technical exploration, this session will explore the benefits that Azure Virtual WAN brings to Azure Environments, including network control, expansion, and security.
