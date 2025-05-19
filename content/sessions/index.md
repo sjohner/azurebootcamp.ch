@@ -104,7 +104,7 @@ We will compare this stack against the native Azure Cost Management tools and se
 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) ⚡️ Sr. Cloud FinOps Engineer @ FinOps Foundation | FinOps Certified Professional  
 
 ### <a name="krebs"></a> ⭐️ Migrate to Modernize - A journey from VMware On-Prem to Azure Native Services
-Azure Pipelines definitions can be defined with the new YAML standard since some time. We are sure that many have already created their first pipelines or migrated existing pipelines. So it's high time to look at the most important best practices from our wealth of experience together. This session will show the top 10 best practices from many customer projects related to YAML pipelines. Among other things, topics such as splitting pipelines (chained builds), using templates, as well as ensuring enterprise specifications and quality assurance will be covered.  
+This session will showcase a live demonstration of how transitioning an application from VMware On-Prem to Azure can look like. We'll first demonstrate how to achieve a smooth and rapid transition from VMware On-Prem to Azure VMware Solution (AVS) using HCX. The second step of the migration will illustrate how to modernize the application by moving it from a standard VM and database deployment to Azure Native services such as Azure Database for PostgreSQL flexible server, Azure Application Gateway and Azure Container Apps.  
 🙂 [FABRICE KREBS](https://www.linkedin.com/in/fabricekrebs/) ⚡️ Senior Azure Technical Specialist @ Microsoft   
 🙂 [ANDRÉ PEREIRA](https://www.linkedin.com/in/andrefgpereira/) ⚡️ Azure Technical Specialist @ Microsoft
 
