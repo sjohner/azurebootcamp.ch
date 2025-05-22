@@ -20,13 +20,13 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Bronze Sponsors
-{{< figure src="techtask-color.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
+{{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
 {{< figure src="itnetx.jpg" width="500" alt="itnetx company logo" link="https://www.itnetx.ch/" default="true">}}
 
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
-{{< figure src="advision.png" width="500" alt="AdVision Swiss company logo" link="https://advision.swiss" default="true">}}
+{{< figure src="advision.svg" width="500" alt="AdVision Swiss company logo" link="https://advision.swiss" default="true">}}
 
 ----
 
