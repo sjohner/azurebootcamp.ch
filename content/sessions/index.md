@@ -28,7 +28,7 @@ The schedule is still subject to change.
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers</td>
 | 0915 <td colspan="3">⭐ Keynote: [Transforming DevOps with Azure: Platform Engineering for the Digital Age](#keynote)<br /> 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/)</td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) <br /> 🙂 YACINE OULD BOUKHITINE | ⭐ [How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me](#boehm) <br /> 🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
+| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) <br /> 🙂 YACINE OULD BOUKHITINE | ⭐ [Building and Operating a Productive AI Application for Swiss Government on Azure](#kluge) <br /> 🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
 | 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) <br /> 🙂 [LUKAS HEUSSER](https://www.linkedin.com/in/lukasheusser/) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
@@ -51,10 +51,20 @@ From data privacy, to proper orchestration including non regression, testing, va
 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance   
 🙂 YACINE OULD BOUKHITINE ⚡️ Cloud Technical Architect @ Swisscom
 
-### <a name="boehm"></a> ⭐️ How They Broke into our Cloud – And How the Azure CAF Could Have Saved Me
-A leaked credential in a Git repo. It's a weekend with no one on call. A crypto miner spins up dozens of VMs—by Monday, the invoice is in the thousands. How could we've done better?
-In this session, I'll walk you through my nightmare real-world cloud breach scenario and show how ideas and best practices from Azure's Cloud Adoption Framework (CAF) could have prevented it. Let's discuss combining technical controls, governance policies, and organizational readiness to secure the cloud before it's too late.   
-🙂 [TIMO BÖHM](https://www.linkedin.com/in/timo-boehm-overlap/) ⚡️ Team Lead Cloud Transformation & Infrastructure @ b.telligent  
+### <a name="kluge"></a> ⭐️ Building and Operating a Productive AI Application for Swiss Government on Azure
+What does it take to bring a real-world AI application into production for a public sector client with strict compliance, complex stakeholder landscapes, and evolving requirements?
+
+In this session, we’ll take you behind the scenes of delivering and operating a production-grade AI solution for a Swiss government department. From the first line of code to stable operations in Azure, you'll learn how we built and shipped a secure, maintainable, and scalable application using Terraform, Azure Landing Zones, and modern DevOps practices.
+
+We’ll dive into:
+* Architecting and deploying AI workloads on Azure with reproducibility and compliance in mind
+* Handling data management, access control, and incident response in regulated environments
+* Navigating stakeholder complexity through iterative workshops and rapid feedback loops
+* Real-world failures, security incidents, and how we improved resilience and observability
+* Lessons learned in managing environments, pipelines, and infrastructure using Infrastructure as Code (IaC)
+
+This talk is ideal for cloud architects, developers, and IT pros who want to learn from practical experience delivering AI systems in high-trust environments.   
+🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) ⚡️ Mr. AI - Solution Expert for AI @ incratec  
 
 ### <a name="pritchard"></a> ⭐️ True Tales of Cloud Modernisation: From Legacy to Serverless
 A story of how I helped migrate legacy solutions that were built on Microsoft BizTalk Server 2010 and Dynamics CRM 2011 to modern Cloud technologies, such as Azure Functions, Azure Application Insights, Azure SQL, and Dynamics 365.
