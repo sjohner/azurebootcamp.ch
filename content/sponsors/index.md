@@ -6,19 +6,18 @@ date: 2021-12-16T22:45:17+01:00
 In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please [connect with us](mailto:info@azurebootcamp.ch)!
 
 ## Gold Sponsor
-{{< figure src="glueckkanja.svg" width="700" alt="GlueckKanja company logo" link="https://www.glueckkanja.com/de/" default="true">}}
+{{< figure src="softwareone.jpg" width="700" alt="SoftwareONE company logo" link="https://www.softwareone.com/de-ch" default="true">}}
 
 ## Silver Sponsors
-{{< figure src="swisscom.png" width="500" alt="Swisscom company logo" link="https://swisscom.com" default="true">}}
-
-{{< figure src="axpo.svg" width="500" alt="Axpo company logo" link="https://axpo.com" default="true">}}
+{{< figure src="glueckkanja.svg" width="500" alt="GlueckKanja company logo" link="https://www.glueckkanja.com/de/" default="true">}}
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
-{{< figure src="fujitsu.svg" width="500" alt="Fujitsu company logo" link="https://global.fujitsu/de-ch" default="true">}}
+{{< figure src="mssoftware.svg" width="500" alt="M&S Software Engineering company logo" link="https://www.m-s.ch" default="true">}}
 
 ----
 
+<!--
 ## Bronze Sponsors
 {{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
 
@@ -27,7 +26,7 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
 {{< figure src="advision.svg" width="500" alt="AdVision Swiss company logo" link="https://advision.swiss" default="true">}}
-
+-->
 ----
 
 ## Working Lounge Sponsor
@@ -39,10 +38,10 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="grabx.svg" width="500" alt="grabx company logo" link="https://grabx.ch" default="true">}}
 
 ----
-
+<!--
 ## Apéro Sponsor
 {{< figure src="isolutions.svg" width="500" alt="isolutions company logo" link="https://isolutions.ch" default="true">}}
-
+-->
 ----
 
 ## Check-In Sponsor
