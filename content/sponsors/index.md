@@ -9,11 +9,13 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="softwareone.jpg" width="700" alt="SoftwareONE company logo" link="https://www.softwareone.com/de-ch" default="true">}}
 
 ## Silver Sponsors
+{{< figure src="mssoftware.svg" width="500" alt="M&S Software Engineering company logo" link="https://www.m-s.ch" default="true">}}
+
 {{< figure src="glueckkanja.svg" width="500" alt="GlueckKanja company logo" link="https://www.glueckkanja.com/de/" default="true">}}
 
 {{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
 
-{{< figure src="mssoftware.svg" width="500" alt="M&S Software Engineering company logo" link="https://www.m-s.ch" default="true">}}
+{{< figure src="epicfusion.svg" width="500" alt="Epic Fusion company logo" link="https://epicfusion.com" default="true">}}
 
 ----
 
