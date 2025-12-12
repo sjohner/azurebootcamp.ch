@@ -28,12 +28,12 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 {{< figure src="diemobiliar.png" width="500" alt="Die Mobiliar company logo" link="https://diemobiliar.ch" default="true">}}
 
 {{< figure src="advision.svg" width="500" alt="AdVision Swiss company logo" link="https://advision.swiss" default="true">}}
--->
+
 ----
 
 ## Working Lounge Sponsor
 {{< figure src="microsoft.svg" width="500" alt="Microsoft company logo" link="https://microsoft.ch" default="true">}}
-
+-->
 ----
 
 ## Ice Cream Sponsor
