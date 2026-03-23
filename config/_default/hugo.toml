@@ -8,6 +8,9 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 summaryLength = 0
 
+# Increase timeout because of image processing
+timeout = 120000
+
 [pagination]
   pagerSize = 15
 
