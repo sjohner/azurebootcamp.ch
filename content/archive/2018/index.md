@@ -1,6 +1,7 @@
 ---
 title: "Azure Bootcamp 2018"
-weight: 18
+date: 2018-10-25T17:06:58+02:00
+description: "This was Azure Bootcamp Switzerland 2018"
 ---
 
 Global Azure Bootcamp Switzerland 2018 was a full day conference about the Microsoft Azure Cloud Computing Platform that took place in Zurich on 21st April 2018 at the [Digicomp Learning Center in Zurich](https://goo.gl/maps/ZDAWVcFCDJVYY52p6). It was free and open for everybody to join and it was our pleasure to welcome about 130 attendees.

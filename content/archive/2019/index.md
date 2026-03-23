@@ -1,6 +1,7 @@
 ---
 title: "Azure Bootcamp 2019"
-weight: 19
+date: 2019-10-25T17:06:58+02:00
+description: "This was Azure Bootcamp Switzerland 2019"
 ---
 
 Azure Bootcamp Switzerland 2019 took place at [Technopark in Zürich](https://www.technopark.ch/)! We had a lot of fun and can look back on a successful conference with over 250 participants and speakers! 😃

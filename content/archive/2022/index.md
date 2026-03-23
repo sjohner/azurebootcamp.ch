@@ -1,5 +1,6 @@
 ---
 title: "Azure Bootcamp 2022"
+date: 2022-10-25T17:06:58+02:00
 description: "This was Azure Bootcamp Switzerland 2022"
 ---
 
@@ -8,7 +9,7 @@ Thank you for attending Azure Bootcamp Switzerland 2022 at Welle 7 [in the very 
 ## Community
 As you know, #Azure Bootcamp Switzerland is a 100% #community non-profit conference. Any positive financial balance will be invested into future events or donated to our charity partner organisations.
 
-{{< alert "circle-info" >}}
+{{< alert >}}
 For the 2022 edition of the Azure Bootcamp we were able to donate CHF 5210.- to our community partner Powercoders and Remotecoders! 🥳
 {{< /alert >}}
 

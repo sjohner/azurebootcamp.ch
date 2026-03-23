@@ -1,5 +1,6 @@
 ---
 title: "Azure Bootcamp 2023"
+date: 2023-10-25T17:06:58+02:00
 description: "This was Azure Bootcamp Switzerland 2023"
 ---
 

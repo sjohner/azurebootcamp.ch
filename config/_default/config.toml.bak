@@ -4,12 +4,12 @@
 
 baseURL = "https://azurebootcamp.ch/"
 
-languageCode = "en"
-defaultContentLanguage = "en"
+#languageCode = "en"
+#defaultContentLanguage = "en"
 theme = ["congo", "hugo-shortcode-gallery"]
 
-title = "Azure Bootcamp Switzerland"
-description = "Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland"
+#title = "Azure Bootcamp Switzerland"
+#description = "Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland"
 
 enableEmoji = true
 enableRobotsTXT = true

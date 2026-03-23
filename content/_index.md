@@ -8,6 +8,10 @@ draft: false
 
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
+{{< lead >}}
+ Azure Bootcamp Switzerland 2026 will take place on **May 21st 2026**. Sessions and agenda will be announced soon! Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events. 🚀
+{{< /lead >}}
+
 {{< alert "circle-info" >}}
 **The next Azure Bootcamp is scheduled for 21. May 2026**. [Grab your ticket now](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2026/212712) to make sure you are part of the event!
 
@@ -16,6 +20,9 @@ Whether it's a deep dive session on a specific service or notes from the field o
 
 Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events.
 {{< /alert >}}
+<!--**Would you like to be a speaker at Azure Bootcamp Switzerland 2026? Call for papers is open NOW!**
+Whether it's a deep dive session on a specific service or notes from the field on the use of Azure in your company, we would be very happy to receive your contribution to the Azure Bootcamp 2026! Please submit your session on the [Azure Bootcamp Sessionize page](https://sessionize.com/azure-bootcamp-switzerland-2026). If you have any questions around the conference, feel free to [contact us](mailto://info@azurebootcamp.ch).-->
+
 
 ## Why Azure Bootcamp?
 Azure Bootcamp Switzerland is a 100% community-driven one-day conference around Microsoft Azure Cloud Computing platform in Switzerland. The conference takes place once a year. Azure Bootcamp Switzerland is the ultimate spot for Azure users who want to learn first hand from subject matter experts and Microsoft Azure professionals.

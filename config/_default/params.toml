@@ -6,21 +6,39 @@
 # https://jpanther.github.io/congo/docs/configuration/#theme-parameters
 
 colorScheme = "congo"
-defaultAppearance = "light"
+defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = true
-enableSearch = false
-# logo = "img/logo.png"
-# description = "My awesome website"
-# mainSections = ["section1", "section2"]
+
+defaultThemeColor = "#FFFFFF"
+
+enableSearch = true
+enableCodeCopy = false
+enableImageLazyLoading = true
+enableImageWebp = true
+
 # robots = ""
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "hamburger" # valid options: basic, hamburger, hybrid, custom
+  # logo = "img/logo.jpg"
+  # logoDark = "img/dark-logo.jpg"
+  showTitle = true
+
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
 
 [homepage]
   layout = "page" # valid options: page, profile, custom
   showRecent = false
+  recentLimit = 5
 
 [article]
   showDate = false
-  dateFormat = "2 January 2006"
+  showDateUpdated = false
   showAuthor = false
   showBreadcrumbs = false
   showDraftLabel = true
@@ -29,30 +47,39 @@ enableSearch = false
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = false
+  invertPagination = false
   showReadingTime = false
-  # sharingLinks = ["facebook", "twitter", "pinterest", "reddit", "linkedin", "email"]
+  showTableOfContents = false
+  showTaxonomies = false
+  showWordCount = false
+  showComments = false
+  # sharingLinks = ["facebook", "x-twitter", "mastodon", "pinterest", "reddit", "linkedin", "email", "threads", "telegram", "line", "weibo", "xing", "bluesky"]
 
 [list]
-  showBreadcrumbs = true
+  showBreadcrumbs = false
   showSummary = false
+  showTableOfContents = false
+  showTaxonomies = false
   groupByYear = false
-
-[taxonomy]
-  showTermCount = true
+  paginationWidth = 1
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
-[footer]
-  showAppearanceSwitcher = true
-  showCopyright = false
-
-[outputs]
-  home = ["HTML", "RSS", "JSON"]
+[taxonomy]
+  showTermCount = true
 
 [fathomAnalytics]
   # site = "ABC12345"
-  # domain = "llama.yoursite.com"
+
+[plausibleAnalytics]
+  # domain = "blog.yoursite.com"
+  # event = ""
+  # script = ""
+
+#[umamiAnalytics]
+#  site = "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"
+#  region = "eu"  # can be either "eu" or "us"
 
 [verification]
   # google = ""

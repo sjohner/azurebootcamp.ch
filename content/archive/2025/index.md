@@ -1,5 +1,6 @@
 ---
 title: "Azure Bootcamp 2025"
+date: 2025-10-25T17:06:58+02:00
 description: "This was Azure Bootcamp Switzerland 2025"
 ---
 
