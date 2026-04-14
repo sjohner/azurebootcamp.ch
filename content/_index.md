@@ -9,7 +9,7 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< lead >}}
- Azure Bootcamp Switzerland 2026 will take place on **May 21st 2026**. Sessions and agenda will be announced soon! Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events. 🚀
+ Azure Bootcamp Switzerland 2026 will take place on **May 21st 2026**. Check out our [awesome speakers and agenda](sessions)! Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events. 🚀
 {{< /lead >}}
 
 {{< alert "circle-info" >}}
