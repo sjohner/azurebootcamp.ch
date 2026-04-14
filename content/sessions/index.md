@@ -4,11 +4,10 @@ date: 2022-01-13T20:43:22+01:00
 
 ---
 
+<!--
 Please check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions.
 
 {{< figure src="keynote2023.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2023" >}}
-
-<!--
 
 Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
 
@@ -19,148 +18,141 @@ Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. C
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
 -->
 
-<!--
-We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure. Be it **real life use cases from Rhaetian Railway**, a kickstart with **Microsoft Copilot and AI Agents** or **deep dives on Azure Security** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
+We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure.
+
+Be it **real life use cases from Vaudoise, sureVIVE and Sulzer**, solving real world problems with **Microsoft AI services** or **deep dives on Azure Governance** - these sessions will provide you with insights around Azure and the opportunity to connect with peers and speakers.
 
 The schedule is still subject to change.
 
 | **Time** | Room 3.54 | Room 3.53 | Room 3.14 |
 | - | - | - | - | - |
 | 0800 | ⏰ Check-in & Coffee |||
-| 0900 <td colspan="3">⭐ Welcome Note with the organizers</td>
-| 0915 <td colspan="3">⭐ Keynote: [Transforming DevOps with Azure: Platform Engineering for the Digital Age](#keynote)<br /> 🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/)</td>
+| 0900 <td colspan="3">⭐ Welcome Note with the organizers and our Gold Sponsor [SoftwareOne](https://softwareone.ch)</td>
+| 0915 <td colspan="3">⭐ Keynote tba</td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
-| 1040 | ⭐ [It takes more than a prompt - implemeting GenAI for insurance](#herve) <br /> 🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) <br /> 🙂 YACINE OULD BOUKHITINE | ⭐ [Building and Operating a Productive AI Application for Swiss Government on Azure](#kluge) <br /> 🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) | ⭐ [True Tales of Cloud Modernisation: From Legacy to Serverless](#pritchard) <br /> 🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) |
-| 1135 | ⭐  [Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project](#gobeyn) <br /> 🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) | ⭐ [Azure Emergency Response Environments - Be Ready When It Matters Most](#stoeckl) <br /> 🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) | ⭐ [Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway](#schwab) <br /> 🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) <br /> 🙂 [LUKAS HEUSSER](https://www.linkedin.com/in/lukasheusser/) |
+| 1040 | ⭐ [Time Bombs In Entra ID - How Well Are Your Entra ID Apps Managed?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [From concept to a productive application - How AI can support you](#reinhard) <br /> 🙂 [JANNIK REINHARD](https://www.linkedin.com/in/jannik-r/) | ⭐ [From SCCM to Azure: Multi-Cloud Server Management with Azure Arc & Defender for Cloud](#hodzic) <br /> 🙂 [ALADIN HODZIC](https://www.linkedin.com/in/aladin-h/) |
+| 1135 | ⭐  [Subscription Vending at Scale: Governed Self‑Service on Azure](#lacaille) <br /> 🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) <br /> 🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) | ⭐ [Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels](#gerber) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) | ⭐ [Reservations and Savings Plans: What Actually Works in Azure](#krummenacher) <br /> 🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) |
 | 1220 | 🍕 Lunch Break |||
-| 1320 | ⭐ [Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search](#mendelin) <br /> 🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) | ⭐ [Stay safe! – Mastering Network Security on Azure](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric](#pares) <br /> 🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) |
-| 1415 | ⭐ [Migrate to Modernize - A journey from VMware On-Prem to Azure Native Services](#krebs) <br /> 🙂 [FABRICE KREBS](https://www.linkedin.com/in/fabricekrebs/) <br /> 🙂 [ANDRÉ PEREIRA](https://www.linkedin.com/in/andrefgpereira/) | ⭐ [Building a Cloud Centric Network with Azure Virtual WAN](#walsh) <br /> 🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) | ⭐ [Platform Engineering with Terraform, Crossplane and Port](#mitra) <br /> 🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) |
+| 1320 | ⭐ [Terraforming ClickOps – Turning Portals into Pipelines](#baumgartner) <br /> 🙂 [CHRISTIAN BAUMGARTNER](https://www.linkedin.com/in/christianbaumgartner) | ⭐ [Hybrid AI - Orchestrating Collaboration Between On-Device and Cloud Models](#filip) <br /> 🙂 [FILIP W](https://www.linkedin.com/in/filipwoj/) | ⭐ [Goodbye VPN – Let’s Never Meet Again! Hello Global Secure Access!](#schmidt) <br /> 🙂 [MARCO SCHMIDT](https://www.linkedin.com/in/marco-schmidt-securityguy/) |
+| 1415 | ⭐ [DevOps in Azure: Why Alert Emails are not a Monitoring Strategy](#sameli) <br /> 🙂 [ALEXANDER SAMELI](https://www.linkedin.com/in/alex-s-644904189/) <br /> 🙂 [DANIEL STEINMANN](https://www.linkedin.com/in/daniel-steinmann-634629179/) | ⭐ tba | ⭐ [From Chaos to Control: Streamline Azure Policy Management with EPAC](#sinnathurai) <br /> 🙂 [PRATHEEP SINNATHURAI](https://www.linkedin.com/in/psinnathurai/) |
 | 1500 <td colspan="3"> ☕ Coffee Break</td>
-| 1530 | ⭐ [From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role](#sogl) <br /> 🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) | ⭐ [DNS in hybrid cloud environments - can it be that hard?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [Make Microsoft Defender XDR Work for You: Mastering Automatic Attack Disruption](#schneiter) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166/) <br /> 🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) |
-| 1630 <td colspan="3">⭐ Closing Note: [The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services](#closingnote) <br /> 🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) </td>
-| 1730 <td colspan="3"> 🍻 Networking Apéro sponsored by isolutions </td>
+| 1530 | ⭐ [Designing reliable Azure Backup architectures: Best Practices, Pitfalls, and real-world Lessons](#rapp) <br /> 🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) | ⭐ [From Idea to Product: Early Lessons in AI-Powered Project Orchestration on Azure and Microsoft Teams](#abdurixit) <br /> 🙂 [ABDUXUKUR ABDURIXIT](https://www.linkedin.com/in/abdurixit/) <br /> 🙂 [ANDREAS EPPENBERGER](https://www.linkedin.com/in/aeppenberger/) | ⭐ tba |
+| 1630 <td colspan="3">⭐ Closing Note: [Can Microsoft Azure save your life?](#closingnote) <br /> 🙂 [GEORG HAUZENBERGER](https://www.linkedin.com/in/georg-hauzenberger/) <br />  🙂 [MAURO FERRATELLO](https://www.linkedin.com/in/mauroferratello/) </td>
+| 1730 <td colspan="3"> 🍻 Networking Apéro sponsored by [Swisscom](https://swisscom.ch) </td>
 | | | | | |
 
 
-### <a name="keynote"></a> ⭐️ Transforming DevOps with Azure: Platform Engineering for the Digital Age
-In today’s rapidly evolving business environment, organizations face unprecedented challenges: rapidly shifting customer demands, intensifying competition, and a growing shortage of skilled professionals. Agility and speed have become critical to survival. This talk will showcase how Platform Engineering, powered by Azure, serves as the foundation for overcoming these challenges. By automating complex workflows and infrastructure provisioning, it delivers the scalability and flexibility needed to adapt swiftly, innovate faster, and address skill gaps effectively.
-Through in-depth insights, real-world examples, and a live platform demo, this session will explore how Azure-driven platform strategies can transform development processes, enhance productivity, and enable the rapid delivery of high-quality software. Attendees will discover actionable techniques for overcoming scaling challenges, improving developer experience, and streamlining operations by leveraging DevOps practices within a robust, Azure-integrated platform.   
-🙂 [ROMANO ROTH](https://www.linkedin.com/in/romanoroth/) ⚡️ Global Chief of DevOps @ Zühlke  
 
-### <a name="herve"></a> ⭐️ It takes more than a prompt - implemeting GenAI for insurance
-Implementing end to end use case leveraging GenAI under strict Finma and LPD regulation in Switzerland is a bit more complex than simply typing a prompt in ChatGPT.
-From data privacy, to proper orchestration including non regression, testing, validation, follow up, use case evolution and integration with external services, our speakers will guide you through their journey.   
-🙂 [GAETAN HERVE](https://www.linkedin.com/in/gaetanherve/) ⚡️ Product Manager AI @ Vaudoise Assurance   
-🙂 YACINE OULD BOUKHITINE ⚡️ Cloud Technical Architect @ Swisscom
+### <a name="zehner"></a> ⭐️ Time Bombs In Entra ID - How Well Are Your Entra ID Apps Managed?
+Organizations are increasingly overwhelmed by Entra ID applications: what they do, who owns them, and how secrets and certificates are created, stored, and rotated. These gaps often stem from unclear ownership of app objects, which undermines consistent creation, configuration, and credential lifecycle management and can lead to outages or security incidents. Attendees will leave with live‑demo insights and actionable guidance on what to address in their environments — whether they adopt SoftwareOne’s managed service, which extends well beyond native Entra ID capabilities, or build an in‑house solution on their own.   
+🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Head of Cloud Services Switzerland @ SoftwareOne | Microsoft Azure MVP & Microsoft Regional Director
 
-### <a name="kluge"></a> ⭐️ Building and Operating a Productive AI Application for Swiss Government on Azure
-What does it take to bring a real-world AI application into production for a public sector client with strict compliance, complex stakeholder landscapes, and evolving requirements?
+### <a name="reinhard"></a> ⭐️ From concept to a productive application - How AI can support you
+In today’s rapidly evolving digital landscape, artificial intelligence (AI) is no longer just a futuristic concept but a powerful tool that can transform ideas into productive applications. This session will guide you through the journey of leveraging AI from the initial concept phase to the deployment of a functional and efficient application.
 
-In this session, we’ll take you behind the scenes of delivering and operating a production-grade AI solution for a Swiss government department. From the first line of code to stable operations in Azure, you'll learn how we built and shipped a secure, maintainable, and scalable application using Terraform, Azure Landing Zones, and modern DevOps practices.
+We will explore how AI can enhance your project development by automating complex tasks, providing insights through data analysis, and creating smarter, more responsive applications. Whether you're a developer, project manager, or business leader, this session will equip you with practical strategies to integrate AI into your workflows, helping you to innovate and stay ahead of the competition.   
+🙂 [JANNIK REINHARD](https://www.linkedin.com/in/jannik-r/) ⚡️ Head AI @ Epic Fusion | Microsoft AI Platform & Security MVP  
 
-We’ll dive into:
-* Architecting and deploying AI workloads on Azure with reproducibility and compliance in mind
-* Handling data management, access control, and incident response in regulated environments
-* Navigating stakeholder complexity through iterative workshops and rapid feedback loops
-* Real-world failures, security incidents, and how we improved resilience and observability
-* Lessons learned in managing environments, pipelines, and infrastructure using Infrastructure as Code (IaC)
+### <a name="hodzic"></a> ⭐️ From SCCM to Azure: Multi-Cloud Server Management with Azure Arc & Defender for Cloud
+This session covers how we modernized management for around 1,600 servers across on-prem, Google Cloud, and Azure. It walks through the move from SCCM to Azure-native tools, onboarding servers with Azure Arc, automating updates and monitoring with Update Manager and Monitoring Agent, and strengthening security with Defender for Cloud, including practical lessons from our hybrid and multi-cloud experience.   
+🙂 [ALADIN HODZIC](https://www.linkedin.com/in/aladin-h/) ⚡️ Head of Workplace & Collaboration Services @ Sulzer
 
-This talk is ideal for cloud architects, developers, and IT pros who want to learn from practical experience delivering AI systems in high-trust environments.   
-🙂 [TOBIAS KLUGE](https://www.linkedin.com/in/tobiaskluge/) ⚡️ Mr. AI - Solution Expert for AI @ incratec  
+### <a name="lacaille"></a> ⭐️ Subscription Vending at Scale: Governed Self‑Service on Azure
+Stop ticket‑driven cloud governance and empower app teams through governed self‑service !
 
-### <a name="pritchard"></a> ⭐️ True Tales of Cloud Modernisation: From Legacy to Serverless
-A story of how I helped migrate legacy solutions that were built on Microsoft BizTalk Server 2010 and Dynamics CRM 2011 to modern Cloud technologies, such as Azure Functions, Azure Application Insights, Azure SQL, and Dynamics 365.
-Join me to learn about the interesting set of challenges, trade-offs, and constraints that I faced, the solutions that I designed, and I code that I wrote, on the journey to a truly cloud-native architecture.   
-🙂 [ADRIAN PRITCHARD](https://www.linkedin.com/in/adrianmp/) ⚡️ Lead Developer @ Fujitsu
+In this session, we share a practical approach to make application teams autonomous within a governed Azure Landing Zone—by centralizing the guardrails, not the delivery.
 
-### <a name="gobeyn"></a> ⭐️ Azure OpenAI Unplugged: Real-World Lessons from My Latest GenAI Project
-Thinking of using Azure OpenAI in production? In this session, I’ll share detailed hard-earned lessons from my latest GenAI project, where I combined Azure OpenAI GPT-4 with data integration workflows. As both a solution architect and hands-on developer, I’ll walk you through what worked, what flopped, and what I wish I knew earlier. We’ll dive into managing costs, securing data, reducing hallucinations, fine-tuning prompts, and keeping token usage in check. Whether you’re exploring AI or scaling it, this session is packed with tips to help you avoid pitfalls and build smarter, more efficient AI solutions.   
-🙂 [DIETER GOBEYN](https://www.linkedin.com/in/dietergobeyn/) ⚡️ Cloud Solution Architect | Azure MVP  
+We’ll start briefly with the operating model shift (Platform vs. App teams vs. governance/enablement) and what to centralize vs. decentralize to scale sustainably.
+Then we’ll deep‑dive into Subscription Vending: a concrete, automated self‑service process that provides ready‑to‑use environments with consistent governance and security controls by default.
+Next, we’ll show how the same foundations extend to Technology Platforms — shared services offered as self‑service with built‑in guardrails, so teams move fast without compromising security.
+Finally, we’ll share how App Teams leverage Copilot custom skills to keep subscriptions Azure Policy‑compliant with minimal friction.
 
-### <a name="stoeckl"></a> ⭐️ Azure Emergency Response Environments - Be Ready When It Matters Most
-In the face of modern threats like ransomware attacks, infrastructure compromise, or operational disruptions, organizations need to act quickly and decisively. In this session, Florian Stöckl presents AzERE (Azure Emergency Response Environments), a proven solution designed to empower crisis teams and IT operations during the most critical hours.
+Takeaways: patterns to scale governed self‑service, a repeatable “vending” model for platforms, and practical ways to make policy compliance developer‑friendly.   
+🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) ⚡️ Cloud Technical Architect & Principal Tech Lead Platform Team @ Vaudoise Assurance   
+🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) ⚡️ Cloud Technical Architect @ Vaudoise Assurance   
 
-You’ll learn how AzERE enables organizations to:
-* Rapidly restore communication and coordination channels
-* Access essential data and services in a secure fallback environment
-* Detect and eliminate attacker persistence and backdoors
-* Maintain control, even when core systems are compromised
+### <a name="gerber"></a> ⭐️ Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels
+Are your RAG applications exposing sensitive documents to unauthorized users? Learn how to build enterprise AI that automatically respects your data protection policies using Azure AI Search, Microsoft Purview sensitivity labels, and SharePoint document-level ACLs. We'll cover query-time enforcement that ensures users only retrieve what they're authorized to see based on their identity and permissions.   
+🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) ⚡️ Senior Cloud Engineer @ scopewyse | Microsoft Azure & Foundry MVP   
 
-Based on real-world experience from multiple emergency scenarios, this session offers practical insights into designing a resilient, automated fallback environment using native Azure technologies. If you’re responsible for business continuity, disaster recovery, or security response, this is a must-attend session.   
-🙂 [FLORIAN STÖCKL](https://www.linkedin.com/in/florianstoeckl/) ⚡️ Azure Lead @ glueckkanja AG   
+### <a name="krummenacher"></a> ⭐️ Reservations and Savings Plans: What Actually Works in Azure
+Reservations and Savings Plans look simple in theory. Buy commitment, save money.
 
-### <a name="schwab"></a> ⭐️ Full Steam Ahead: Engineering a Modern Data Platform at Rhaetian Railway
-Discover how Rhaetian Railway is modernizing its data landscape using Azure Databricks, Terraform Infrastructure-as-Code, and Azure DevOps. We’ll explore how CI/CD pipelines streamline development, testing, and deployment across multiple environments, while a configuration file–driven approach brings flexibility and agility to data pipeline management. Learn about our key design principles, best practices for parameterizing data flows at scale, how we incorporate data quality checks to ensure reliable analytics, and the lessons we’ve learned on our journey toward a fully automated, high-performance data platform.   
-🙂 [SIMON SCHWAB](https://www.linkedin.com/in/simon-schwab-999884171) ⚡️ Senior Data & Analytics Consultant @ Swisscom   
-🙂 [LUKAS HEUSSER](https://www.linkedin.com/in/lukasheusser/) ⚡️ Senior Data & AI Consultant @ Swisscom   
+In real Azure environments, this quickly becomes messy. Changing VM sizes, platform standards, new regions, zone requirements, legacy SKUs, and project driven deployments make commitment planning far more complex than the portal suggests.
+
+This session is a practical deep dive into how Reservations and Savings Plans behave in the real world.   
+🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Expert @ SAMexpert | FinOps Certified Professional    
 
 
-### <a name="mendelin"></a> ⭐️ Enhancing Legal Document Analysis with Reflection Agents, Semantic Kernel, and Azure AI Search
-In this session, we will explore the implementation of Retrieval-Augmented Generation (RAG) on Swiss law documents using Semantic Kernel and Azure AI Search. We will delve into the step-by-step optimization process that enhanced the solution's efficiency and accuracy. Finally, show the architecture using Reflection Agents and advanced Azure AI Search capabilities. Attendees will gain insights into the challenges faced, the strategies employed to overcome them, and the significant improvements achieved in legal document analysis. This session is ideal for developers, data scientists, and legal tech enthusiasts looking to leverage advanced AI techniques for document processing and analysis. Join us to discover how cutting-edge technology can transform the way we interact with complex legal texts.   
-🙂 [CÉDRIC MENDELIN](https://www.linkedin.com/in/cedric-mendelin/) ⚡️ Senior Software Developer @ isolutions  
+### <a name="baumgartner"></a> ⭐️ Terraforming ClickOps – Turning Portals into Pipelines
+Many Azure related efforts still start with ClickOps: resources are provisioned quickly via the Azure Portal, often under time pressure or during early project phases. While this accelerates initial progress, it usually leaves behind unmanaged technical debt, missing Infrastructure-as-Code, and no clean CI/CD or GitOps foundation.
 
-### <a name="rapp"></a> ⭐️ Stay safe! – Mastering Network Security on Azure
-Besides the right cloud strategy, a lot of infrastructure decisions must be made by an organization to lead the cloud journey to success. Before start moving workloads or modernizing applications on Azure, enterprises are faced with difficult and complex architectural decisions, like how to protect cloud applications from network-based cyberattacks using the right Azure Network Security services to meet the compliance rules.
-In this session Stefan will focus on Azure Security topics from the network perspective and describe how Azure Network services, capabilities and mechanisms can be used to build highly secured cloud environments on Azure, focused on the following main areas:
-* Architectural network security disciplines
-* Conceptual network design & approaches
-* Azure Virtual Network as foundation layer
-* Network segmentation/isolation (zone models)
-* Traffic management and control on cloud networks
-* Security for external interfaces and endpoints
+In this session, we present a pilot solution that aims to systematically bridge this gap.
 
-The audience will get the knowledge of how to create a secure platform and use Azure services the right way to build secure applications as well as to avoid potential vulnerabilities in the Azure “Landing Zone”. Based on the strict security and compliance requirements of organizations, Stefan will share all relevant recommendations, best practices, practical experience, and potential pitfalls to provision and mange cloud workload in Azure the secure and smart way.   
-🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) ⚡️ Cloud Solution Architect @ Xebia | Microsoft Azure Infra-As-Code MVP 
+The idea:
+We use existing tools to analyze and extract the underlying deployment definitions of portal-created resources and automatically transform them into structured, production-ready Terraform code. This code is then enriched through automated fine-tuning and best-practice alignment, before being embedded into a fully initialized Git-based CI/CD setup – including repositories, pipelines, and deployment workflows.
 
-### <a name="pares"></a> ⭐️ Level up your Cost Observability with the new FinOps standard FOCUS and Microsoft Fabric
-In this session, attendees will learn how to leverage the new FinOps billing standard FOCUS and Microsoft Fabric to gain better visibility over their Cloud Costs.
-We will compare this stack against the native Azure Cost Management tools and see why it may sometimes be a better fit (FinOps personas, Subscriptions types, etc.).  
-🙂 [ALEXANDRE PARÈS](https://www.linkedin.com/in/alexandre-pares) ⚡️ Sr. Cloud FinOps Engineer @ FinOps Foundation | FinOps Certified Professional  
+The result is a repeatable approach to convert “what was clicked” into clean, auditable, and pipeline-driven infrastructure, ready for GitOps and continuous improvement.
 
-### <a name="krebs"></a> ⭐️ Migrate to Modernize - A journey from VMware On-Prem to Azure Native Services
-This session will showcase a live demonstration of how transitioning an application from VMware On-Prem to Azure can look like. We'll first demonstrate how to achieve a smooth and rapid transition from VMware On-Prem to Azure VMware Solution (AVS) using HCX. The second step of the migration will illustrate how to modernize the application by moving it from a standard VM and database deployment to Azure Native services such as Azure Database for PostgreSQL flexible server, Azure Application Gateway and Azure Container Apps.  
-🙂 [FABRICE KREBS](https://www.linkedin.com/in/fabricekrebs/) ⚡️ Senior Azure Technical Specialist @ Microsoft   
-🙂 [ANDRÉ PEREIRA](https://www.linkedin.com/in/andrefgpereira/) ⚡️ Azure Technical Specialist @ Microsoft
+In this session, we will cover:
+* Why ClickOps remains a reality – and why ignoring it is not an option
+* How existing tools and can be used to reverse-engineer portal deployments
+* Automated transformation and refinement of generated Terraform templates
+* Bootstrapping CI/CD pipelines and repositories from existing environments
+* Practical use cases and limitations of this approach
+* Where this pilot fits into modern Azure Landing Zone and Platform Engineering strategies
+* How this approach can help you in a case of an emergency
 
-### <a name="walsh"></a> ⭐️ Building a Cloud Centric Network with Azure Virtual WAN
-Within this session I will run through the core concepts and components of Azure Virtual WAN, and explore how it can create a powerful Cloud-centric network within Azure and beyond.
-As well as a technical exploration, this session will explore the benefits that Azure Virtual WAN brings to Azure Environments, including network control, expansion, and security.
-As well as covering the above I will dive into the various deployment methods and options, and showcase how Azure Virtual WAN enables flexibility and rapid network expansion with ease. Security will also be a core focus, and I will discuss and showcase how services like Azure Firewall can be integrated into Azure Virtual WAN.
-I'll also run through a demonstration of Azure Virtual WAN, and explore various deployment options, including Infrastructure as Code and more. There will also be time for questions and discussion.   
-🙂 [JAKE WALSH](https://www.linkedin.com/in/jakewalsh90/) ⚡️ Senior Solution Architect @ CDW UK | Microsoft Azure MVP & Hashicorp Ambassador  
+This talk is aimed at architects, platform teams, and DevOps engineers who want to turn existing Azure environments into managed, code-driven platforms – without starting from scratch.   
+🙂 [CHRISTIAN BAUMGARTNER](https://www.linkedin.com/in/christianbaumgartner) ⚡️ Azure Development Lead @ glueckkanja  
 
-### <a name="mitra"></a> ⭐️ Platform Engineering with Terraform, Crossplane and Port
-In this Session, Arindam will walk you through creating an internal developer portal with Terraform, Crossplane and Port
-1. Platform Engineering Concepts,
-2. Platform Engineering with Terraform and Azure Devops,
-3. Platform Engineering with Crossplane,
-4. Port - Internal developer portal.   
-🙂 [ARINDAM MITRA](https://www.linkedin.com/in/arindam-mitra-28981095/) ⚡️ Microsoft Azure Infra-As-Code MVP
+### <a name="filip"></a> ⭐️ Hybrid AI - Orchestrating Collaboration Between On-Device and Cloud Models
+Cloud-based language models (LLMs) are powerful, but expensive to operate. On-device language models (SLMs) are effectively free to run, but limited. No matter what you choose, you lose, right?
 
-### <a name="sogl"></a> ⭐️ From Copilot to Autopilot – How AI Coding Tools Are Transforming the Developer Role
-AI-powered coding tools like GitHub Copilot, Cursor, bolt.new, and v0 are rapidly changing software development. They write code, suggest optimizations, and automate entire workflows – but what does this mean for us as developers?
-Is the role of software developers at risk, or does AI open up new opportunities? This keynote explores how AI coding tools are reshaping our daily work, which skills will be essential in the future, and how you can future-proof your career. Discover how to leverage AI to work more productively, increase your value, and actively shape your professional path.  
-🙂 [DANIEL SOGL](https://www.linkedin.com/in/daniel-sogl/) ⚡️ Software Architect @ Thinktecture
+To achieve balance between production-grade reliability and cost efficiency, we must start thinking about "Hybrid AI" architectures - systems that intelligently cascade tasks between fast, local models and deep, cloud-based reasoners.
 
-### <a name="zehner"></a> ⭐️ DNS in hybrid cloud environments - can it be that hard?
-In short, no, DNS is not simple. It has been around for decades and is an essential component of a hybrid cloud environment. Despite this, many environments still struggle when it comes to designing rock-solid, hybrid DNS solutions, and trust me, it comes with a lot of pitfalls! After attending this session you know what you need to know - and how to avoid name resolution disasters.  
-🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) ⚡️ Microsoft Cloud Champion @ SoftwareONE | Microsoft Azure MVP & Microsoft Regional Director
+This session explores the blueprints for these collaborative systems. We will explore latest research patterns on how to implement "divide and conquer" strategies between cloud and local models.   
+🙂 [FILIP W](https://www.linkedin.com/in/filipwoj/) ⚡️ Cloud Solution Architect @ Sonova 
 
-### <a name="schneiter"></a> ⭐️ Make Microsoft Defender XDR Work for You: Mastering Automatic Attack Disruption
-Microsoft Defender XDR features one of the most advanced response capabilities in modern cybersecurity: Attack Disruption — an automated mechanism that detects and interrupts high-impact attacks before they spread.
-But here’s the catch: it doesn’t run automatically out of the box.
-What you’ll learn:
-* What Attack Disruption really does—and how it stops live threats in real time
-* Required product configurations to ensure seamless cross-solution automation
-* How to validate that Attack Disruption is working in your environment
-* Real-world examples of disrupted attacks across identity, endpoint, and cloud
-  
-Whether you’re just starting with Defender XDR or already operational, this session will help you take full advantage of a feature that could stop your next breach before it begins.  
-🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter-430280166/)⚡️ Managing Partner & Solutions Architect @ scopewyse | Microsoft Security MVP  
-🙂 [MICHAEL RÜEFLI](https://www.linkedin.com/in/drmiru/) ⚡️ Managing Partner & Solutions Architect @ scopewyse  
+### <a name="schmidt"></a> ⭐️ Goodbye VPN – Let’s Never Meet Again! Hello Global Secure Access!
+VPNs have been the backbone of remote access for decades. but they’re slow, complex, and no longer fit for modern security needs. It’s time to move on. In this session, we’ll explore Microsoft Entra Global Secure Access, the Zero Trust-based successor to VPN, designed for seamless, fast and secure access to both cloud and on-prem resources. We’ll dive into how it improves security, performance and user experience while eliminating the risks and headaches of traditional VPNs. Say goodbye to VPN!  
+🙂 [MARCO SCHMIDT](https://www.linkedin.com/in/marco-schmidt-securityguy/) ⚡️ Security Engineer @ GrabX  
 
-### <a name="closingnote"></a> ⭐️ The AI Evolution: How Emerging AI Trends are Transforming the Cloud Services
-The rapid evolution of Artificial Intelligence (AI), from Generative AI to autonomous AI Agents, is fundamentally reshaping cloud computing paradigms. This session explores how the latest developments in AI—particularly the emergence of intelligent, autonomous AI agents—are driving transformative changes in cloud architectures, deployment models, and service delivery. With a specific focus on Azure cloud environments, we examine how developers and technology leaders can leverage new AI capabilities to unlock significant business opportunities, enhance operational efficiency, and accelerate innovation. We will discuss key technological breakthroughs, practical implications, strategic opportunities, and critical challenges, offering actionable insights and forward-looking guidance tailored specifically for cloud developers and architects.   
-🙂 [MARC STAMPFLI](https://www.linkedin.com/in/marcstampfli/) ⚡️ Business Director Switzerland @ NVIDIA  
+### <a name="sameli"></a> ⭐️ DevOps in Azure: Why Alert Emails are not a Monitoring Strategy
+With 24/7 enterprise cloud applications, the Ops part of DevOps is our top priority. We will walk you through our transformation from inbox-driven incident management to a scalable monitoring and alerting solution. We share the failures and pitfalls we encountered, and how we now leverage Azure’s monitoring capabilities to detect issues earlier, respond faster, and operate with minimal noise.  
+🙂 [ALEXANDER SAMELI](https://www.linkedin.com/in/alex-s-644904189/) ⚡️ Cloud Platform Engineer @ Maison du Software   
+🙂 [DANIEL STEINMANN](https://www.linkedin.com/in/daniel-steinmann-634629179/) ⚡️ Cloud Platform Engineer @ Maison du Software   
 
--->
+### <a name="sinnathurai"></a> ⭐️ From Chaos to Control: Streamline Azure Policy Management with EPAC
+After enabling Microsoft Defender for Cloud, many of my customers end up with a huge list of recommendations for their Azure environments and have no idea where to start. They know they need to deploy Azure Policies based on these recommendations, but the questions are always the same: How do we start? How do we assign Azure Policies correctly? How do we handle exemptions? And what do all these different policy effects mean? In this deep dive, we will bring structure back using Enterprise Azure Policy as Code (EPAC), a set of PowerShell scripts that automate and standardize policy deployment at scale. During this 90-minute hands-on, follow-along session, you will learn how to get a basic overview of Azure Policies, Policy Sets, Assignments, and Exemptions; configure and deploy Azure Policies, Policy Sets, Assignments, and Exemptions using EPAC; and use operational scripts to simplify ongoing policy management. Bring your laptop and an Azure environment so you can follow along and directly explore the concepts.   
+🙂 [PRATHEEP SINNATHURAI](https://www.linkedin.com/in/psinnathurai/) ⚡️ Senior Azure Engineer @ baseVISION | Microsoft Azure MVP  
+
+### <a name="rapp"></a> ⭐️ Designing reliable Azure Backup architectures: Best Practices, Pitfalls, and real-world Lessons
+Backup is often considered only after an incident occurs. Yet, in cloud environments, resilient backup design must be an intentional part of the infrastructure architecture from day one. Microsoft Azure provides multiple backup services, but choosing the right design and configuring it correctly requires a clear understanding of architecture patterns, operational constraints, and platform limitations.
+
+This technical session focuses on designing and implementing Azure Backup solutions from an infrastructure perspective. We will explore how to build secure, scalable, and operationally reliable backup architectures that align with enterprise requirements and cloud operating models. Beyond basic configuration, the session emphasizes real-world design decisions, governance considerations, and common mistakes that can compromise recoverability.
+
+Using practical examples and real-world deployment scenarios, the session covers:
+• Core Azure Backup services and how to use them.
+• Designing Azure Backup services for scale, security, and governance.
+• Important network, identity, and security considerations.
+• How to protect IaaS workloads, databases and storage solutions.
+• Cost optimization and restore strategies.
+• Common limitations and hidden pitfalls to avoid.
+
+Attendees will gain practical guidance on designing robust Azure backup architectures, avoiding common misconfigurations, and implementing reliable protection strategies that support enterprise-grade recovery objectives and cloud governance requirements.   
+🙂 [STEFAN RAPP](https://www.linkedin.com/in/rapster83) ⚡️ Cloud Solution Architect @ Xebia | Microsoft Azure MVP 
+
+### <a name="abdurixit"></a> ⭐️ From Idea to Product: Early Lessons in AI-Powered Project Orchestration on Azure and Microsoft Teams
+What does it take to turn an AI idea into a real product on Azure? We share the honest story behind PMEOS, an AI agent that moderates daily Scrums in Microsoft Teams, analyzes Jira data in real time, and delivers decision-ready insights to the project team and stakeholders. We'll walk through the Azure Landing Zone design, Teams bot development, Azure OpenAI integration, and Jira connector. We'll share what we learned along the way about security, governance, and establishing a long-term operating & collaboration model. Practical, experience-based, no hype.   
+🙂 [ABDUXUKUR ABDURIXIT](https://www.linkedin.com/in/abdurixit/) ⚡️ Senior Cloud Architect @ Swisscom   
+🙂 [ANDREAS EPPENBERGER](https://www.linkedin.com/in/aeppenberger/) ⚡️ Founder & CEO @ AgileAdvant Switzerland   
+
+### <a name="closingnote"></a> ⭐️ Can Microsoft Azure save your life?
+At sureVIVE, we build mission-critical software that helps rescue teams on land, at sea, and in the air respond faster and smarter when every second counts. Our platforms break down silos between rescue organisations and equip responders in the field with the insights they need to act safely, decisively, and together.
+
+In this session, we’ll take you inside real-world rescue operations and show how cloud-native systems built on Microsoft Azure support coordination, resilience, and scale in life-saving missions. You’ll learn how modern Azure services enable secure collaboration, real-time data exchange, and high availability — even under extreme conditions.
+
+Join us to explore how technology, when designed with purpose, can help save lives.  
+🙂 [GEORG HAUZENBERGER](https://www.linkedin.com/in/georg-hauzenberger/) ⚡️ CEO @ sureVIVE   
+🙂 [MAURO FERRATELLO](https://www.linkedin.com/in/mauroferratello/) ⚡️ CIO @ sureVIVE
