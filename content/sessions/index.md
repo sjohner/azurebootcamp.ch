@@ -28,7 +28,7 @@ The schedule is still subject to change.
 | - | - | - | - | - |
 | 0800 | ⏰ Check-in & Coffee |||
 | 0900 <td colspan="3">⭐ Welcome Note with the organizers and our Gold Sponsor [SoftwareOne](https://softwareone.ch)</td>
-| 0915 <td colspan="3">⭐ Keynote tba</td>
+| 0915 <td colspan="3">⭐ Keynote: [Azure Sovereign Architecture](#raeber) <br /> 🙂 [RENE RAEBER](https://www.linkedin.com/in/rraeber/) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
 | 1040 | ⭐ [Time Bombs In Entra ID - How Well Are Your Entra ID Apps Managed?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [From concept to a productive application - How AI can support you](#reinhard) <br /> 🙂 [JANNIK REINHARD](https://www.linkedin.com/in/jannik-r/) | ⭐ [From SCCM to Azure: Multi-Cloud Server Management with Azure Arc & Defender for Cloud](#hodzic) <br /> 🙂 [ALADIN HODZIC](https://www.linkedin.com/in/aladin-h/) |
 | 1135 | ⭐  [Subscription Vending at Scale: Governed Self‑Service on Azure](#lacaille) <br /> 🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) <br /> 🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) | ⭐ [Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels](#gerber) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) | ⭐ [Reservations and Savings Plans: What Actually Works in Azure](#krummenacher) <br /> 🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) |
@@ -42,6 +42,11 @@ The schedule is still subject to change.
 | | | | | |
 
 
+### <a name="raeber"></a> ⭐️ Azure Sovereign Architecture
+Across Europe and particularly in Switzerland digital sovereignty has become a foundational requirement for our customers. Customers must balance innovation with strict expectations around data protection, legal jurisdiction, operational autonomy, and democratic oversight, while continuing to deliver resilient digital services to citizens.
+In this keynote, Microsoft presents its European and Swiss‑relevant approach to digital sovereignty, built around the Microsoft Sovereign Cloud and the EU Data Boundary. Attendees will learn ho to deploy cloud, productivity, and AI workloads while retaining control over data residency, encryption keys, operational access, and governance within EU and Swiss regulatory frameworks such as GDPR, sector‑specific regulations, and national data‑protection laws.
+The session explores how sovereign public cloud, sovereign private cloud, and customer‑operated or fully disconnected environments enable a continuum of control suited to European and Swiss customers to sensitive, classified, or mission‑critical workloads.   
+🙂 [RENE RAEBER](https://www.linkedin.com/in/rraeber/) ⚡️ CTO @ Microsoft Switzerland
 
 ### <a name="zehner"></a> ⭐️ Time Bombs In Entra ID - How Well Are Your Entra ID Apps Managed?
 Organizations are increasingly overwhelmed by Entra ID applications: what they do, who owns them, and how secrets and certificates are created, stored, and rotated. These gaps often stem from unclear ownership of app objects, which undermines consistent creation, configuration, and credential lifecycle management and can lead to outages or security incidents. Attendees will leave with live‑demo insights and actionable guidance on what to address in their environments — whether they adopt SoftwareOne’s managed service, which extends well beyond native Entra ID capabilities, or build an in‑house solution on their own.   
