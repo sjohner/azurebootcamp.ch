@@ -13,8 +13,14 @@ draft: false
 {{< /lead >}}
 
 {{< alert "circle-info" >}}
+Azure Bootcamp 2026 is sold out! We are very much looking forward to a great event!
+{{< /alert >}}
+
+<!--
+{{< alert "circle-info" >}}
 [Grab your ticket now](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2026/212712) to make sure you are part of the event!
 {{< /alert >}}
+-->
 <!--**Would you like to be a speaker at Azure Bootcamp Switzerland 2026? Call for papers is open NOW!**
 Whether it's a deep dive session on a specific service or notes from the field on the use of Azure in your company, we would be very happy to receive your contribution to the Azure Bootcamp 2026! Please submit your session on the [Azure Bootcamp Sessionize page](https://sessionize.com/azure-bootcamp-switzerland-2026). If you have any questions around the conference, feel free to [contact us](mailto://info@azurebootcamp.ch).-->
 
