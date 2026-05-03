@@ -31,7 +31,7 @@ The schedule is still subject to change.
 | 0915 <td colspan="3">⭐ Keynote: [Azure Sovereign Architecture](#raeber) <br /> 🙂 [RENE RAEBER](https://www.linkedin.com/in/rraeber/) </td>
 | 1010 <td colspan="3"> ☕ Coffee Break</td>
 | 1040 | ⭐ [Time Bombs In Entra ID - How Well Are Your Entra ID Apps Managed?](#zehner) <br /> 🙂 [MARCEL ZEHNER](https://www.linkedin.com/in/marcelzehner) | ⭐ [From concept to a productive application - How AI can support you](#reinhard) <br /> 🙂 [JANNIK REINHARD](https://www.linkedin.com/in/jannik-r/) | ⭐ [From SCCM to Azure: Multi-Cloud Server Management with Azure Arc & Defender for Cloud](#hodzic) <br /> 🙂 [ALADIN HODZIC](https://www.linkedin.com/in/aladin-h/) |
-| 1135 | ⭐  [Subscription Vending at Scale: Governed Self‑Service on Azure](#lacaille) <br /> 🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) <br /> 🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) <br /> 🙂 [GUILLAUME BEAUD](https://www.linkedin.com/in/guillaume-beaud-143153107/) | ⭐ [Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels](#gerber) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter/) | ⭐ [Reservations and Savings Plans: What Actually Works in Azure](#krummenacher) <br /> 🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) |
+| 1135 | ⭐  [Subscription Vending at Scale: Governed Self‑Service on Azure](#lacaille) <br /> 🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) <br /> 🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) <br /> 🙂 [GUILLAUME BEAUD](https://www.linkedin.com/in/guillaume-beaud-143153107/) | ⭐ [Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels](#gerber) <br /> 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) <br /> 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter/) | ⭐ [AI: The FinOps Folk's Best Friend and Worst Nightmare](#krummenacher) <br /> 🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) |
 | 1220 | 🍕 Lunch Break |||
 | 1320 | ⭐ [Terraforming ClickOps – Turning Portals into Pipelines](#baumgartner) <br /> 🙂 [CHRISTIAN BAUMGARTNER](https://www.linkedin.com/in/christianbaumgartner) | ⭐ [Hybrid AI - Orchestrating Collaboration Between On-Device and Cloud Models](#filip) <br /> 🙂 [FILIP W](https://www.linkedin.com/in/filipwoj/) | ⭐ [Goodbye VPN – Let’s Never Meet Again! Hello Global Secure Access!](#schmidt) <br /> 🙂 [MARCO SCHMIDT](https://www.linkedin.com/in/marco-schmidt-securityguy/) |
 | 1415 | ⭐ [DevOps in Azure: Why Alert Emails are not a Monitoring Strategy](#sameli) <br /> 🙂 [ALEXANDER SAMELI](https://www.linkedin.com/in/alex-s-644904189/) <br /> 🙂 [DANIEL STEINMANN](https://www.linkedin.com/in/daniel-steinmann-634629179/) | ⭐ [10 reasons why companies fail to adopt generative AI](#schneider) <br /> 🙂 [DAVID SCHNEIDER](https://www.linkedin.com/in/david-schneider/) | ⭐ [From Chaos to Control: Streamline Azure Policy Management with EPAC](#sinnathurai) <br /> 🙂 [PRATHEEP SINNATHURAI](https://www.linkedin.com/in/psinnathurai/) |
@@ -82,13 +82,15 @@ Are your RAG applications exposing sensitive documents to unauthorized users? Le
 🙂 [MARCO GERBER](https://www.linkedin.com/in/marcogerber/) ⚡️ Senior Cloud Engineer @ scopewyse | Microsoft Azure & Foundry MVP   
 🙂 [ALAIN SCHNEITER](https://www.linkedin.com/in/alain-schneiter/) ⚡️ Solutions Architect @ scopewyse | Microsoft Security MVP      
 
-### <a name="krummenacher"></a> ⭐️ Reservations and Savings Plans: What Actually Works in Azure
-Reservations and Savings Plans look simple in theory. Buy commitment, save money.
-
-In real Azure environments, this quickly becomes messy. Changing VM sizes, platform standards, new regions, zone requirements, legacy SKUs, and project driven deployments make commitment planning far more complex than the portal suggests.
-
-This session is a practical deep dive into how Reservations and Savings Plans behave in the real world.   
-🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Expert @ SAMexpert | FinOps Certified Professional    
+### <a name="krummenacher"></a> ⭐️ AI: The FinOps Folk's Best Friend and Worst Nightmare
+AI is both a blessing and a curse for cloud cost management.
+ 
+The blessing: AI makes complex cost data finally accessible. It helps us find patterns, explain anomalies, and – done right – puts detailed cost insights into the hands of everyone in the organization, not just the FinOps team. That's a big deal, because visibility, transparency, and cost ownership remain the non-negotiable foundation of any real FinOps culture.
+ 
+The curse: AI costs themselves are growing fast, and most organizations are deliberately not putting the brakes on yet. Call it a gold rush, call it uncertainty – either way, AI spend is on track to overtake classic cloud spend in many environments and become the next big cost problem.
+ 
+This session is demo-heavy and shows real approaches, tools, and patterns being used in production today to tackle both sides – with honest commentary on what works, what doesn't, and where the trade-offs are.   
+🙂 [ROLAND KRUMMENACHER](https://www.linkedin.com/in/rolandkrummenacher/) ⚡️ FinOps Expert @ WellArchitected.ch | FinOps Certified Professional    
 
 
 ### <a name="baumgartner"></a> ⭐️ Terraforming ClickOps – Turning Portals into Pipelines
