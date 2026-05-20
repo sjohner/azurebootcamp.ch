@@ -75,7 +75,8 @@ Finally, we’ll share how App Teams leverage Copilot custom skills to keep subs
 Takeaways: patterns to scale governed self‑service, a repeatable “vending” model for platforms, and practical ways to make policy compliance developer‑friendly.   
 🙂 [GUILLAUME LACAILLE](https://www.linkedin.com/in/guillaume-lacaille-90905626/) ⚡️ Cloud Technical Architect & Principal Tech Lead Platform Team @ Vaudoise Assurance   
 🙂 [SYLVAIN RIQUEN](https://www.linkedin.com/in/sriquen) ⚡️ Cloud Technical Architect @ Vaudoise Assurance  
-🙂 [GUILLAUME BEAUD](https://www.linkedin.com/in/guillaume-beaud-143153107/) ⚡️ Cloud Technical Architect @ Microsoft     
+🙂 [JULIEN DUVANEL](https://www.linkedin.com/in/duvaneljulien/) ⚡️ Head of Cloud & DevOps Enablement @ Vaudoise Assurance  
+🙂 [GUILLAUME BEAUD](https://www.linkedin.com/in/guillaume-beaud-143153107/) ⚡️ Cloud Solution Architect @ Microsoft     
 
 ### <a name="gerber"></a> ⭐️ Building Secure RAG: Enforcing Data Governance with Azure AI Search and Purview Sensitivity Labels
 Are your RAG applications exposing sensitive documents to unauthorized users? Learn how to build enterprise AI that automatically respects your data protection policies using Azure AI Search, Microsoft Purview sensitivity labels, and SharePoint document-level ACLs. We'll cover query-time enforcement that ensures users only retrieve what they're authorized to see based on their identity and permissions.   
@@ -156,7 +157,7 @@ What does it take to turn an AI idea into a real product on Azure? We share the 
 In an era where security threats are constantly evolving, protecting your organization's data has never been more critical. Conditional Access Policies in Microsoft Entra provide a robust framework for enhancing security by allowing you to control access to your apps and resources based on specific conditions.
 
 Join us for a deep dive into the world of Conditional Access Policies, where you'll learn how to leverage this powerful tool to protect your cloud environment effectively. Through real-world examples from the banking, insurance, and governance sectors, we'll demonstrate how Conditional Access Policies can address industry-specific challenges and compliance requirements. Whether you're new to Conditional Access or looking to enhance your existing knowledge, this session is designed to equip you with actionable insights and advanced techniques.   
-🙂 [FLAVIO MEYER](https://www.linkedin.com/in/flaviomeyer/) ⚡️ Public Cloud Engineer @ Inventx AG   
+🙂 [FLAVIO MEYER](https://www.linkedin.com/in/flaviomeyer/) ⚡️ Workplace & Azure Expert @ Experts Inside AG | Microsoft Certified Trainer    
 🙂 [MICHELE BLUM](https://www.linkedin.com/in/micheleblum/) ⚡️ Cloud Engineer @ TurnKey Services AG | Microsoft Certified Trainer    
 
 ### <a name="closingnote"></a> ⭐️ Can Microsoft Azure save your life?
