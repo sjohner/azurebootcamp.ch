@@ -4,11 +4,11 @@ date: 2022-01-13T20:43:22+01:00
 
 ---
 
-<!--
+
 Please check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions.
 
 {{< figure src="keynote2023.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2023" >}}
-
+<!--
 Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. Check out our past events in [the event archive]({{< ref "/archive/_index.md" >}}) for a glimpse of past agendas and sessions. If you are interested in speaking at Azure Bootcamp Switzerland 2023 please let us know.
 
 {{< alert "circle-info" >}}
@@ -16,7 +16,6 @@ Currently, sessions are not yet published for Azure Bootcamp Switzerland 2023. C
 {{< /alert >}}
 
 {{< figure src="keynote2022.jpg" alt="Picture of the presenters and audience at the keynote session of Azure Bootcamp Switzerland 2022" >}}
--->
 
 We are very happy to be able to offer you once again an exciting lineup including many new speakers, both from the local community, consisting of MVPs, Microsoft employees and industry leads, who will speak about specific use cases in the industry as well as the latest developments around services in Azure.
 
@@ -168,3 +167,4 @@ In this session, we’ll take you inside real-world rescue operations and show h
 Join us to explore how technology, when designed with purpose, can help save lives.  
 🙂 [GEORG HAUZENBERGER](https://www.linkedin.com/in/georg-hauzenberger/) ⚡️ CEO @ sureVIVE   
 🙂 [MAURO FERRATELLO](https://www.linkedin.com/in/mauroferratello/) ⚡️ CIO @ sureVIVE
+-->
