@@ -1,6 +1,6 @@
 ---
 title: "Technology conference focusing on the Microsoft Azure Cloud ☁️ "
-date: 2021-12-16T22:03:32+01:00
+date: 2026-05-26T22:03:32+01:00
 draft: false
 ---
 
@@ -9,6 +9,13 @@ draft: false
 {{< figure src="banner.png" alt="Azure Bootcamp Banner" default="true" >}}
 
 {{< lead >}}
+What an amazing time at Azure Bootcamp Switzerland 2026! Thank you to everyone who joined us. Check out the [event archiv](archive/2026/) to see some highlights. Huge shoutout to our fantastic speakers and sponsors. You rock! 🙏
+
+Check out the [Azure Zürich Speakerdeck](https://speakerdeck.com/azurezurich) for the session slides and follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events. 🚀
+{{< /lead >}}
+
+<!--
+{{< lead >}}
  Azure Bootcamp Switzerland 2026 will take place on **May 21st 2026**. Check out our [awesome speakers and agenda](sessions)! Follow [Azure Bootcamp Switzerland on LinkedIn](https://www.linkedin.com/company/83123788/admin/feed/posts/) to stay up to date about coming Azure Bootcamp events. 🚀
 {{< /lead >}}
 
@@ -16,7 +23,6 @@ draft: false
 Azure Bootcamp 2026 is sold out! We are very much looking forward to a great event!
 {{< /alert >}}
 
-<!--
 {{< alert "circle-info" >}}
 [Grab your ticket now](https://www.ticketino.com/en/Event/Azure-Bootcamp-Switzerland-2026/212712) to make sure you are part of the event!
 {{< /alert >}}
@@ -39,6 +45,6 @@ We offer a whole day of curated content around Azure infrastructure and develope
 Beside high quality sessions, food, beverages and networking opportunities are all key elements for a successful conference experience. Meet new people, exchange ideas and network in the Microsoft Azure space.
 
 ## Our values
-We believe in the community. From engineers, for engineers—the Azure Bootcamp Switzerland is organised by the nonprofit associations [Azure Zürich](https://www.meetup.com/de-DE/Microsoft-Azure-Zurich-User-Group/) and [Azure Bern](https://www.meetup.com/de-DE/Azure-Cloud-Bern-User-Group/) and is **a 100% community non-profit conference**. Any positive financial balance will be invested into future events or donated to our charity partner organisation [Powercoders](https://powercoders.org).
+We believe in the community. From engineers, for engineers—the Azure Bootcamp Switzerland is organised by the nonprofit associations [Azure Zürich](https://www.meetup.com/de-DE/Microsoft-Azure-Zurich-User-Group/) and [Azure Bern](https://www.meetup.com/de-DE/Azure-Cloud-Bern-User-Group/) and is **a 100% community non-profit conference**. Any positive financial balance will be invested into future events or donated to our charity partner organisations.
 
 Also we want people to be nice to each other. If you attend the Azure Bootcamp Switzerland event, you are obliged to follow [Azure Tech Groups code of conduct](https://developer.microsoft.com/en-us/azure-tech-groups/code-of-conduct)
