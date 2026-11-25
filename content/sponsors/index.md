@@ -6,7 +6,7 @@ date: 2021-12-16T22:45:17+01:00
 In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please [connect with us](mailto:info@azurebootcamp.ch)!
 
 ## Gold Sponsor
-{{< figure src="expertsinside.png" width="700" alt="Experts Inside company logo" link="https://www.expertsinside.com/" default="true">}}
+{{< figure src="expertsinside.png" width="800" alt="Experts Inside company logo" link="https://www.expertsinside.com/" default="true">}}
 
 ## Silver Sponsors
 {{< figure src="softwareone.jpg" width="500" alt="SoftwareONE company logo" link="https://www.softwareone.com/de-ch" default="true">}}
