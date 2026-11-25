@@ -6,25 +6,17 @@ date: 2021-12-16T22:45:17+01:00
 In order for the Azure Bootcamp Switzerland to be held successfully, we depend on our sponsors. **Thank you very much for your support!** 🙏 If you are also interested in sponsoring Azure Bootcamp Switzerland, please [connect with us](mailto:info@azurebootcamp.ch)!
 
 ## Gold Sponsor
-{{< figure src="softwareone.jpg" width="700" alt="SoftwareONE company logo" link="https://www.softwareone.com/de-ch" default="true">}}
+{{< figure src="expertsinside.png" width="700" alt="Experts Inside company logo" link="https://www.expertsinside.com/" default="true">}}
 
 ## Silver Sponsors
+{{< figure src="softwareone.jpg" width="500" alt="SoftwareONE company logo" link="https://www.softwareone.com/de-ch" default="true">}}
+
 {{< figure src="mssoftware.svg" width="500" alt="M&S Software Engineering company logo" link="https://www.m-s.ch" default="true">}}
-
-{{< figure src="glueckkanja.svg" width="500" alt="GlueckKanja company logo" link="https://www.glueckkanja.com/de/" default="true">}}
-
-{{< figure src="scopewyse.png" width="500" alt="scopewyse company logo" link="https://scopewyse.ch" default="true">}}
-
-{{< figure src="epicfusion.svg" width="500" alt="Epic Fusion company logo" link="https://epicfusion.com" default="true">}}
 
 ----
 
 ## Bronze Sponsors
-{{< figure src="techtask.png" width="500" alt="techtask gmbh company logo" link="https://techtask.ch" default="true">}}
-
-{{< figure src="itnetx.jpg" width="500" alt="itnetx company logo" link="https://www.itnetx.ch/" default="true">}}
-
-{{< figure src="advision.svg" width="500" alt="AdVision Swiss company logo" link="https://advision.swiss" default="true">}}
+{{< figure src="avanade.png" width="500" alt="Avanade company logo" link="https://www.avanade.com/en-ch" default="true">}}
 
 ----
 <!--
@@ -39,8 +31,9 @@ In order for the Azure Bootcamp Switzerland to be held successfully, we depend o
 ----
 
 ## Apéro Sponsor
+<!--
 {{< figure src="swisscom.png" width="500" alt="Swisscom company logo" link="https://swisscom.ch" default="true">}}
-
+-->
 ----
 
 ## Check-In Sponsor
